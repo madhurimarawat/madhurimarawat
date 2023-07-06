@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Datascience
+- 👯 I’m looking to collaborate on python
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about programming languages
+- 📫 How to reach me: ...
+- 😄 Pronouns: She/Her
