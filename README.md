@@ -27,7 +27,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 👋 I’m Madhurima Rawat  :student:
 - 👀 I’m interested in data structure and programming languages.<br>
 - :classical_building: Pursuing B.Tech(Hons.) in Data Science.  <br>
-- 🌱 I’m currently learning Data Analysis and Machine Learning.<br>
+- 🌱 I’m currently learning Machine Learning.<br>
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> &nbsp;
 - 💬 Ask me about programming languages 😀
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/madhurima-rawat-163216230/)
