@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Datascience
 - 👯 I’m looking to collaborate on python
 - 💬 Ask me about programming languages
-- 📫 How to reach me: https://www.linkedin.com/in/madhurima-rawat-163216230/
+- 📫 How to reach me: <a href ="https://www.linkedin.com/in/madhurima-rawat-163216230"/>Linkedin</a>
 - 😄 Pronouns: She/Her
