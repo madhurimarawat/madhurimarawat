@@ -3,7 +3,7 @@
 <p align="center"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.2.2019771503.1684599831&semt=ais" height=250 width=250 alt="Female programer Illustration Gif" ></p>
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" ></p>
 <p align="center">
-<a href="linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
+<a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
   <a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://www.lever.co/wp-content/uploads/2019/04/hackerrank-large.png" title="HackerRank Badge" height=35 alt="HackerRank"></a>
 </p>
 
@@ -32,7 +32,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 I’m currently learning Machine Learning.<br>
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35">&nbsp;<br><br>
 - 💬 Ask me about programming languages 😀<br><br>
-- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/madhurima-rawat/) <br><br>
+- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) <br><br>
 - 😄 Pronouns: She/Her.<br><br>
 - ⚡ In my free time I read stories :books: and explore new technologies :computer:
 
