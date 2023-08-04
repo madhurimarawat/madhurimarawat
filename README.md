@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 👀 I’m interested in data structure and programming languages<br><br>
 <img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
 - :classical_building: Pursuing B.Tech(Hons.) in Data Science from CSVTU <img src="https://www.svyks.in/images/csvtu-logo.png" height=35 width=35>&nbsp; <br><br>
-- 🌱 I’m currently learning Machine Learning.<br>
+- 🌱 I’m currently learning Machine Learning.<br><br>
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35">&nbsp;<br><br>
 - 💬 Ask me about programming languages 😀<br><br>
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) <br><br>
