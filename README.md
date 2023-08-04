@@ -65,10 +65,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurimarawat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
-<h1>Website Link</h1>
+### 📎📚 Website Link  &nbsp; :
 <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" title ="Library Management system website" alt="Library Management system website" height=100>
-
-### ✨ Hobbies and Interests: &nbsp; :
+---
+### ✨ Hobbies and Interests &nbsp; :
 <table>
   <tr>
     <th>AI Arts 🖌️💻</th>
