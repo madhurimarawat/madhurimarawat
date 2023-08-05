@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
-<br><br>
+<br>
 <p align="center"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.2.2019771503.1684599831&semt=ais" height=250 width=250 alt="Female programer Illustration Gif" ></p>
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" ></p>
 <p align="center">
@@ -47,10 +47,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="numpy" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"> &nbsp;
-  <img src="https://user-images.githubusercontent.com/315810/92255199-f6707f80-ee9f-11ea-9b8d-182dba6a0c59.png" title="Seaborn" alt="Seaborn" width="40" height="40"> &nbsp;
-<img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"> &nbsp;
+  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"> &nbsp;
+  <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40"> &nbsp;
-  <img src="https://th.bing.com/th/id/OIP.EDr9ssoa7xVP4MmLg0EWLQAAAA?pid=ImgDet&rs=1'" title="ggplot2 Logo" alt="ggplot2 Logo" width="40" height="40"> &nbsp;
+  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 Logo" alt="ggplot2 Logo" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -64,11 +65,26 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurimarawat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 📑🌟 Internships &nbsp; :
+<br>
+<p>
+<a href="https://diginique.com/"><img src="https://diginique.com/wp-content/uploads/2021/05/cropped-diginique_logo-2048x709.png" title ="Diginique Techlabs" alt ="Diginique Techlabs" height=100> &nbsp; &nbsp;&nbsp; &nbsp;
+<a href="https://drive.google.com/file/d/12qTBtSBNXVFtoqZzRqabs5qUyfE18azi/view?usp=drivesdk"><img src="https://media.istockphoto.com/vectors/internship-concept-vector-illustration-banner-with-keywords-and-icons-vector-id1211151590?k=6&m=1211151590&s=612x612&w=0&h=4d_yekAQgA6ngrvuE49wtGZlWrkWlruuJW06_Ldacic=" title= "Offer Letter 📑" alt="Internship Illustration" height=100> </p>
+<br>
+<p>
+--> Currently doing internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.<br><br>
+--> My course is "Data Science, Machine Learning and AI using Python" technology. <br><br>
+--> After this training, I will work on projects related to this domain.<br>
+  
 ---
 ### 📎📚 Website Link  &nbsp; :
 <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" title ="Library Management system website" alt="Library Management system website" height=100>
+
 ---
 ### ✨ Hobbies and Interests &nbsp; :
+<br>
 <table>
   <tr>
     <th>AI Arts 🖌️💻</th>
