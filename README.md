@@ -30,11 +30,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 👀 I’m interested in data structure and programming languages<br><br>
 <img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
 - :classical_building: Pursuing B.Tech(Hons.) in Data Science from CSVTU <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/d9fceaeb-aea5-4954-823b-ce90ceb6ef0b" height=35 width=35>&nbsp; <br><br>
-- 🌱 I’m currently learning Machine Learning.<br><br>
+- 🌱 I’m currently learning Artificial Intelligence 🤖🧠 ,Datascience 📊📈 and Machine Learning 🛠📚<br><br>
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
 - 💬 Ask me about programming languages 😀<br><br>
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > <br><br>
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > <br><br>
 - 😄 Pronouns: She/Her.<br><br>
 - ⚡ In my free time I read stories :books: and explore new technologies :computer:
 
