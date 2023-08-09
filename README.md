@@ -53,6 +53,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"> &nbsp;
   <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"> &nbsp;
+  <img src="https://github.com/rasbt/mlxtend/raw/master/docs/sources/img/logo.png" title="Mlxtend" alt="Mlxtend" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40"> &nbsp;
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 Logo" alt="ggplot2 Logo" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
