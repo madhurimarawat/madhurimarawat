@@ -77,6 +77,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurimarawat&theme=github" height=300 title="Madhurima Rawat Monthly Contribution Graph" alt="Madhurima Rawat Monthly Contribution Graph">
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
+
 ---
 ### 📑🌟 Internships &nbsp; :
 <br>
