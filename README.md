@@ -37,30 +37,50 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > <br><br>
 - 😄 Pronouns: She/Her.<br><br>
 - ⚡ In my free time I read stories :books: and explore new technologies :computer:
-
-  
+ 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 <br>
+
+### 📚 &nbsp;Languages :
+<br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Language" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ Language" alt="C++ Language" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40">  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</p>
+
+### 📑 &nbsp;Frameworks & Libraries :
+<br>
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="numpy" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"> &nbsp;
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"> &nbsp;
   <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"> &nbsp;
   <img src="https://github.com/rasbt/mlxtend/raw/master/docs/sources/img/logo.png" title="Mlxtend" alt="Mlxtend" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40"> &nbsp;
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 Logo" alt="ggplot2 Logo" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</p>
+
+### 💻 &nbsp;Databases :
+<br>
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</p>
+
+### 🌟 &nbsp; Tools and Technology :
+<br>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="C" alt="gcc" width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40">  &nbsp;
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40">  &nbsp;
+  <img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="R Studio" alt="R Studio" width="40" height="40">  &nbsp;
 </p>
 
 ---
