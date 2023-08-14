@@ -155,6 +155,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### ✨ Have a Nice Day &nbsp; :
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/madhurima-rawat/count.svg" />
+  <img src="https://profile-counter.glitch.me/madhurimarawat/count.svg" />
 </p>
 <p align="center"><img src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" height="200px" title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p>
