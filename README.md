@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
-<br>
-<p align="center"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.2.2019771503.1684599831&semt=ais" height=250 width=250 alt="Female programer Illustration Gif" ></p>
+<!--<p align="center"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.2.2019771503.1684599831&semt=ais" height=250 width=250 alt="Female programer Illustration Gif" ></p>-->
+<p align="center"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" >
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" ></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
@@ -74,13 +74,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
 
-### 🌟 &nbsp; Tools and Technology :
+### 🌟 &nbsp; Technology and Tools :
 <br>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="C" alt="gcc" width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40">  &nbsp;
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40">  &nbsp;
   <img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="R Studio" alt="R Studio" width="40" height="40">  &nbsp;
+  <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">  &nbsp;
 </p>
 
 ---
@@ -157,4 +158,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/madhurimarawat/count.svg" />
 </p>
-<p align="center"><img src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" height="200px" title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p>
+<!-- <p align="center"><img src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" height="200px" // title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p> -->
+<p align="center"><img src="https://th.bing.com/th/id/R.d61331f3957df85dfe468234c47ce568?rik=6DK6XPTc2XVBMQ&riu=http%3a%2f%2fi302.photobucket.com%2falbums%2fnn84%2fJewelMAtwood%2fThankyouforVisitingMyPageGreen.gif&ehk=WvaQRLG9rcEBJsuABj%2bSo1NR0u2eXU4NyUD1HdYXnIc%3d&risl=&pid=ImgRaw&r=0" height="200px" title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p>
