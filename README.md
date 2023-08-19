@@ -105,11 +105,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurimarawat&theme=github" height=300 title="Madhurima Rawat Monthly Contribution Graph" alt="Madhurima Rawat Monthly Contribution Graph">
 
+---
+### 🏆 &nbsp; GitHub Profile Trophies :
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
 
 ---
-### 📑🌟 Internships &nbsp; :
+### 📑🌟 &nbsp; Internships :
 <br>
 <p>
 <a href="https://diginique.com/"><img src="https://diginique.com/wp-content/uploads/2021/05/cropped-diginique_logo-2048x709.png" title ="Diginique Techlabs" alt ="Diginique Techlabs" height=100> &nbsp; &nbsp;&nbsp; &nbsp;
@@ -121,12 +124,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 --> After this training, I will work on projects related to this domain.<br>
   
 ---
-### 📎📚 Website Link  &nbsp; :
+### 📎📚 &nbsp; Website Link :
 <br>
  <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" title ="Library Management system website" alt="Library Management system website" height=100>
 
 ---
-### ✨ Hobbies and Interests &nbsp; :
+### ✨ &nbsp; Hobbies and Interests :
 <br>
 <table>
   <tr>
@@ -154,13 +157,13 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### 😄 Life in a Function &nbsp; :
+### 😄 &nbsp; Life in a Function :
 <p align="center"><img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" height=250 width=250 title="Life in a recursive function 🙂 Gif" alt="Life in a recursive function 🙂 Gif" ></p>
 
 
 ---
 
-### ✨ Have a Nice Day &nbsp; :
+### ✨&nbsp; Have a Nice Day :
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/madhurimarawat/count.svg" />
