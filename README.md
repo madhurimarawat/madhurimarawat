@@ -54,6 +54,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://pngimg.com/uploads/php/php_PNG35.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
 </p>
 
 ### 📑 &nbsp;Frameworks & Libraries :
@@ -87,7 +88,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40">  &nbsp;
   <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40">  &nbsp;
    <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40">  &nbsp;
-  
+  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/>&nbsp;
 
 </p>
 
