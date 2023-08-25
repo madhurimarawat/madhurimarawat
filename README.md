@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Badge" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
   <a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://www.lever.co/wp-content/uploads/2019/04/hackerrank-large.png" title="HackerRank Badge" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
-  <a href="https://alison.com/profile/31860447"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/58e7cd18-a7e4-4b20-a45c-d560c3d2c0bf" title='To see Profile Visit: https://alison.com/profile/31860447' height=35 alt="Alison Logo"></a>
+  <a href="https://alison.com/profile/31860447"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/58e7cd18-a7e4-4b20-a45c-d560c3d2c0bf" title='To See Profile Visit: https://alison.com/profile/31860447' height=35 alt="Alison Logo"></a>
 </p>
 
 <!--
@@ -64,11 +64,11 @@ Click on the icon to see the associated repository.
 <p>
 <a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="numpy" width="40" height="40"></a> &nbsp;
 <a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Python-for-Datascience">  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a> &nbsp;
+<a href="https://github.com/madhurimarawat/Python-for-Datascience">  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="To See Repository Visit: https://github.com/madhurimarawat/Python-for-Datascience" alt="Matplotlib" width="40" height="40"></a> &nbsp;
 <a href="https://github.com/madhurimarawat/Data-Visualization-using-python"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a> &nbsp;
 <a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"></a> &nbsp;
 <a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python">  <img src="https://github.com/rasbt/mlxtend/raw/master/docs/sources/img/logo.png" title="Mlxtend" alt="Mlxtend" width="40" height="40"> </a> &nbsp;
- <a href="https://github.com/madhurimarawat/R-Projects"> <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 Logo" alt="ggplot2 Logo" width="40" height="40"> </a> &nbsp;
+ <a href="https://github.com/madhurimarawat/R-Projects"> <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="To See Repository Visit: https://github.com/madhurimarawat/R-Projects" alt="ggplot2 Logo" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/> </a>  &nbsp;
 </p>
 
