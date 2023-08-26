@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
+Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 
 - 👋 I’m Madhurima Rawat  :student:<br><br>
 - 👀 I’m interested in data structure and programming languages<br><br>
@@ -89,9 +89,15 @@ Click on the icon to see the associated repository.
 <a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"  <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a>  &nbsp;
 <a href="https://github.com/madhurimarawat/Programming-in-PHP">  <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Library-Management-System"> <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Programming-in-PHP">   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Ruby-Programming">  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;
 
+</p>
+
+### 🌐 &nbsp; Web Servers :
+<br>
+<p>
+  <a href="https://github.com/madhurimarawat/Programming-in-PHP">   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40"> </a> &nbsp;
+  <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask API" alt="Flask API" width="40" height="40"></a>&nbsp;
 </p>
 
 ---
