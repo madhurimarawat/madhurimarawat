@@ -122,10 +122,13 @@ Click on the icon to see the associated repository.
 
 ---
 ### 📑🌟 &nbsp; Internships :
+
+### Data Science, Machine Learning and AI using Python from Diginique Techlabs
 <br>
 <p>
-<a href="https://diginique.com/"><img src="https://diginique.com/wp-content/uploads/2021/05/cropped-diginique_logo-2048x709.png" title ="Diginique Techlabs" alt ="Diginique Techlabs" height=100> &nbsp; &nbsp;&nbsp; &nbsp;
-<a href="https://drive.google.com/file/d/12qTBtSBNXVFtoqZzRqabs5qUyfE18azi/view?usp=drivesdk"><img src="https://media.istockphoto.com/vectors/internship-concept-vector-illustration-banner-with-keywords-and-icons-vector-id1211151590?k=6&m=1211151590&s=612x612&w=0&h=4d_yekAQgA6ngrvuE49wtGZlWrkWlruuJW06_Ldacic=" title= "Offer Letter 📑" alt="Internship Illustration" height=100> </p>
+<a href="https://diginique.com/"><img src="https://diginique.com/wp-content/uploads/2021/05/cropped-diginique_logo-2048x709.png" title ="Diginique Techlabs" alt ="Diginique Techlabs" height=100 width=150> &nbsp; &nbsp;&nbsp; &nbsp;
+<a href="https://drive.google.com/drive/folders/1PEDGBjae9stAxuQZJ0r3K-107xINyq_J"><img src="https://media.istockphoto.com/vectors/internship-concept-vector-illustration-banner-with-keywords-and-icons-vector-id1211151590?k=6&m=1211151590&s=612x612&w=0&h=4d_yekAQgA6ngrvuE49wtGZlWrkWlruuJW06_Ldacic=" title= "Click Here to See Internship Certifications 📑" alt="Internship Illustration" height=100 width=150> </a> &nbsp; &nbsp;&nbsp; &nbsp;
+<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://i.morioh.com/52c215bc5f.png" height = 100 width=150 title="Click Here to See Associated Repository" alt="GitHub Repository" ></a></p>
 <br>
 <p>
 --> Currently doing internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.<br><br>
