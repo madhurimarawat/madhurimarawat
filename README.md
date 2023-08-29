@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+From+India+🇮🇳)](https://git.io/typing-svg)
+
+<!--Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.-->
 
 - 👋 I’m Madhurima Rawat  :student:<br><br>
 - 👀 I’m interested in data structure and programming languages<br><br>
