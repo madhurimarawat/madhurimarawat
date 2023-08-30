@@ -110,8 +110,7 @@ Click on the icon to see the associated repository.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurimarawat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula) &nbsp; &nbsp; &nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula&exclude=richtextformat)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhurimarawat&theme=dracula) 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurimarawat&theme=github" height=300 title="Madhurima Rawat Monthly Contribution Graph" alt="Madhurima Rawat Monthly Contribution Graph">
