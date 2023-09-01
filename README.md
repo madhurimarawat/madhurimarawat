@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
 - 💬 Ask me about programming languages 😀<br><br>
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > <br><br>
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - 😄 Pronouns: She/Her.<br><br>
 - ⚡ In my free time I read stories :books: and explore new technologies :computer:
  
