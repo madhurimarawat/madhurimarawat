@@ -102,12 +102,13 @@ Click on the icon to see the associated repository.
 <p>
   <a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40"> </a> &nbsp;
   <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask API" alt="Flask API" width="40" height="40"></a>&nbsp;
-  <a href="https://github.com/madhurimarawat/Streamlit-Programs"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40></a>
+  <a href="https://github.com/madhurimarawat/Streamlit-Programs"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40"></a>
 </p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurimarawat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
