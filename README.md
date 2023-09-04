@@ -132,13 +132,13 @@ Click on the icon to see the associated repository.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
-<!---### 🏷️ Holopin Badges :
+---
+
+### 🏷️ Holopin Badges :
 <p>
-  <a href="https://holopin.io/@madhurimarawat"><img src="https://holopin.me/madhurimarawat" alt="@madhurimarawat&#39;s Holopin board"> </a>
-  
-  [![An image of @madhurimarawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurimarawat)](https://holopin.io/@madhurimarawat)
+  <a href="https://holopin.io/@madhurimarawat"><img src="https://holopin.me/madhurimarawat" title="Holophin Board" height=100 alt="@madhurimarawat&#39;s Holopin board"> </a>
 </p>
--->
+
 ---
 ### 📑🌟 &nbsp; Internships :
 
