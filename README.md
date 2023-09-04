@@ -107,6 +107,14 @@ Click on the icon to see the associated repository.
 
 ---
 
+### 📊 &nbsp; Web Services :
+<p>
+<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"></a>
+  
+</p>
+
+---
+
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -124,7 +132,13 @@ Click on the icon to see the associated repository.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
-
+<!---### 🏷️ Holopin Badges :
+<p>
+  <a href="https://holopin.io/@madhurimarawat"><img src="https://holopin.me/madhurimarawat" alt="@madhurimarawat&#39;s Holopin board"> </a>
+  
+  [![An image of @madhurimarawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurimarawat)](https://holopin.io/@madhurimarawat)
+</p>
+-->
 ---
 ### 📑🌟 &nbsp; Internships :
 
