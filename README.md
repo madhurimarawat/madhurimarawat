@@ -156,7 +156,7 @@ Click on the icon to see the associated repository.
 <a href="https://diginique.com/"><img src="https://diginique.com/wp-content/uploads/2021/05/cropped-diginique_logo-2048x709.png" title ="Diginique Techlabs" alt ="Diginique Techlabs" height=100 width=150> &nbsp; &nbsp;&nbsp; &nbsp;
 <a href="https://drive.google.com/drive/folders/1PEDGBjae9stAxuQZJ0r3K-107xINyq_J"><img src="https://media.istockphoto.com/vectors/internship-concept-vector-illustration-banner-with-keywords-and-icons-vector-id1211151590?k=6&m=1211151590&s=612x612&w=0&h=4d_yekAQgA6ngrvuE49wtGZlWrkWlruuJW06_Ldacic=" title= "Click Here to See Internship Certifications 📑" alt="Internship Illustration" height=100 width=150> </a> &nbsp; &nbsp;&nbsp; &nbsp;
 <a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://i.morioh.com/52c215bc5f.png" height = 100 width=150 title="Click Here to See Associated Repository" alt="GitHub Repository" ></a>&nbsp; &nbsp;&nbsp; &nbsp;
-<a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img height=100 width=150 title = "Project" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a>
+<a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img height=100 width=150 title = "Click Here to See Project" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a>
 </p>
 <br>
 <p>
@@ -170,7 +170,15 @@ Click on the icon to see the associated repository.
 <summary> <h2>📎📚 &nbsp; Website Link :</h2></summary>
 <br>
 <table>
- <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" title ="Library Management system website" alt="Library Management system website" height=100></a>
+  <tr>
+    <th>Library Website</th>
+    <th>ML Models</th>
+</tr>
+  <tr>
+  <td>
+ <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height="200px" width="200px" title ="Library Management system website" alt="Library Management system website" height=100></a></td>
+  <td><a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img title = "Machine Learning Model Website" height="200px" width="200px" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a></td>
+  </tr>
 </table>
  </details>
  
