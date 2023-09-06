@@ -60,6 +60,7 @@ Click on the icon to see the associated repository.
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://pngimg.com/uploads/php/php_PNG35.png" title="PHP" alt="PHP" width="40" height="40"/>  </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Ruby-Programming"  ><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" title="Ruby" alt="Ruby" width="40" height="40"/>  </a> &nbsp;
+  <a href="https://github.com/madhurimarawat/Scratch-Programming"><img src="https://lh5.googleusercontent.com/proxy/L6T7lVGLZ38PRbqZnYRDpOh4duEaQFa5uflTN_MaqLp9wvq2x6W7ezFVcJ8nt-bhaUp1ipBetVMXdodaX3lv=s0-d" title="Scratch" alt="Scratch" width="40" height="40" ></a>
 </p>
 
 ### 📑 &nbsp;Frameworks & Libraries :
