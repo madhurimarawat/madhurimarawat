@@ -120,6 +120,7 @@ Click on the icon to see the associated repository.
 <details open>
   
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -171,6 +172,7 @@ Click on the icon to see the associated repository.
     
 <summary> <h2>📎📚 &nbsp; Website Link :</h2></summary>
 <br>
+<p>Click on the Image to See the Website</p> <br>
 <table>
   <tr>
     <th>Library Website</th>
