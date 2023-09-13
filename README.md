@@ -76,7 +76,8 @@ Click on the icon to see the associated repository.
 <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python">  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/822844e1-0285-49a8-b8a9-078ff069c2d1" title="Pickle" alt="Pickle" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python">  <img src="https://i.gyazo.com/0b29c28bab26d0302b01de863091c93a.png" title="Joblib" alt="Joblib" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/R-Projects"> <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="To See Repository Visit: https://github.com/madhurimarawat/R-Projects" alt="ggplot2 Logo" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/> </a>  &nbsp;
+<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"> </a>  &nbsp;
+  <a href = "https://github.com/madhurimarawat/Intelligent-Data-Analysis"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="Natural Language Processing Toolkit" alt="NLTK" width="40" height="40" ></a>
 </p>
 
 ### 💻 &nbsp;Databases :
