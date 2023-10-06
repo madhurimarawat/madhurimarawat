@@ -131,7 +131,7 @@ Click on the icon to see the associated repository.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula)
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhurimarawat&theme=dracula) -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurimarawat&theme=github" height=300 title="Madhurima Rawat Monthly Contribution Graph" alt="Madhurima Rawat Monthly Contribution Graph">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurimarawat&theme=github" height=300 title="Madhurima Rawat Monthly Contribution Graph" alt="Madhurima Rawat Monthly Contribution Graph"> -->
 
 </details>
 
