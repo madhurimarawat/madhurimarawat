@@ -166,7 +166,8 @@ Click on the icon to see the associated repository.
 <p>
 --> Completed internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.<br><br>
 --> My course is "Data Science, Machine Learning and AI using Python" technology. <br><br>
---> To Projects related to this domain visit: https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/ <br></p>
+--> To See ML Models Project visit: https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/ <br><br>
+--> To See Credit Card Fraud Detection Project Visit : https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/ <br></p>
 </details>
 
   <details open>
