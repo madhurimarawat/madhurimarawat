@@ -164,7 +164,7 @@ Click on the icon to see the associated repository.
 </p>
 <br>
 <p>
---> Currently doing internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.<br><br>
+--> Completed internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.<br><br>
 --> My course is "Data Science, Machine Learning and AI using Python" technology. <br><br>
 --> To Projects related to this domain visit: https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/ <br></p>
 </details>
