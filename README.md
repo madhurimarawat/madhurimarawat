@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :woman_technologist: &nbsp;About Me :
+### 👩‍💻 &nbsp;About Me :
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+From+India+🇮🇳)](https://git.io/typing-svg)
 
@@ -179,11 +179,15 @@ Click on the icon to see the associated repository.
   <tr>
     <th>Library Website</th>
     <th>ML Models</th>
+     <th>Web Scrapper</th>
 </tr>
   <tr>
   <td>
  <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height="200px" width="200px" title ="Library Management system website" alt="Library Management system website" height=100></a></td>
+    
   <td><a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img title = "Machine Learning Model Website" height="200px" width="200px" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a></td>
+
+ <td><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/madhurimarawat/Web-Scrapper-Functions/assets/105432776/c70d6403-d229-4b6f-b484-4645bc3ddd6c" height="200px" width="200px" title ="Web Scrapper website" alt="Web Scrapper website" height=100></a></td>
   </tr>
 </table>
  </details>
