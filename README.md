@@ -3,10 +3,10 @@
 <p align="center"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" >
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" ></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Badge" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
-<a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://www.lever.co/wp-content/uploads/2019/04/hackerrank-large.png" title="HackerRank Badge" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
-<a href="https://alison.com/profile/31860447"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/58e7cd18-a7e4-4b20-a45c-d560c3d2c0bf" title='To See Profile Visit: https://alison.com/profile/31860447' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
-<a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Badge"  alt="Link Tree Logo"></a>
+<a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Profile" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
+<a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://www.lever.co/wp-content/uploads/2019/04/hackerrank-large.png" title="HackerRank Profile" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
+<a href="https://alison.com/profile/31860447"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/58e7cd18-a7e4-4b20-a45c-d560c3d2c0bf" title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
+<a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>
 </p>
 
 <!--
