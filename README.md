@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 👩‍💻 &nbsp;About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+From+India+🇮🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
 
 <!--Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.-->
 
@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - 😄 Pronouns: She/Her.<br><br>
-- ⚡ In my free time I read stories :books: and explore new technologies :computer:
+- ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br><br>
+- 💡 Feel free to share any good story or article resources with me! 📚✨
  
 
 <details open>
@@ -86,6 +87,7 @@ Click on the icon to see the associated repository.
 <br>
 <p>
 <a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> </a> &nbsp;
+ <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/> </a>
 </p>
 
 ### 🌟 &nbsp; Technology and Tools :
@@ -100,6 +102,7 @@ Click on the icon to see the associated repository.
 <a href="https://github.com/madhurimarawat/Programming-in-PHP">  <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Library-Management-System"> <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Ruby-Programming">  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;
+<a href="#">  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
 
 </p>
 
