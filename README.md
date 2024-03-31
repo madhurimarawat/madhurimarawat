@@ -86,8 +86,8 @@ Click on the icon to see the associated repository.
 ### 💻 &nbsp;Databases :
 <br>
 <p>
-<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> </a> &nbsp;
- <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"/> </a>
+<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"> </a> &nbsp;
+ <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"> </a>
 </p>
 
 ### 🌟 &nbsp; Technology and Tools :
