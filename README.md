@@ -236,10 +236,31 @@ Click on the icon to see the associated repository.
 </details>
 
 <details open>
+  <summary><h2>✍️🐍 &nbsp; Starry Signature ✨</h2></summary>
+  <br>
+  Click here to view the Python code that prints my name in stars:&nbsp; <a href="https://github.com/madhurimarawat/Data-Structure-And-Algorithms/blob/main/Python%20Programs/DSA_Pattern_Printing.ipynb">🔗Link to Code📓🐍</a>
+  <br><br>
+  
+  ```
+*       *    * * * * *    * * * * *   *       *   *       *   * * * * *    * * * * * * *    *       *    * * * * * 
+* *   * *    *       *    *       *   *       *   *       *   *       *          *          * *   * *    *       *
+*  * *  *    *       *    *       *   *       *   *       *   *       *          *          *  * *  *    *       *
+*   *   *    * * * * *    *       *   * * * * *   *       *   * * * * *          *          *   *   *    * * * * * 
+*       *    *       *    *       *   *       *   *       *   *    *             *          *       *    *       *
+*       *    *       *    *       *   *       *   *       *   *     *            *          *       *    *       *
+*       *    *       *    * * * * *   *       *   * * * * *   *      *     * * * * * * *    *       *    *       *
+ ```
+
+</details>
+
+<details open>
 
 <summary> <h2>😄 &nbsp; Life in a Function :</h2></summary>
 <p align="center"><img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" height=250 width=250 title="Life in a recursive function 🙂 Gif" alt="Life in a recursive function 🙂 Gif" ></p>
 </details>
+
+
+
 <details open>
 <summary><h2> ✨&nbsp; Have a Nice Day :</h2></summary>
 <p align="center"> 
