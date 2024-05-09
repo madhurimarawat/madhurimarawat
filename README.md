@@ -175,7 +175,7 @@ Click on the icon to see the associated repository.
 --> To See Credit Card Fraud Detection Project Visit : https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/ <br></p>
 
  ### Project Intern at IIT Bhilai
---> Engaged in a 6-month internship at IIT Bhilai, actively contributing to the collaborative project with Bhilai Steel Plant, titled Pre-failure Alerting in BRM. <br><br>
+--> Engaged in internship at IIT Bhilai, actively contributing to the collaborative project with Bhilai Steel Plant, titled Pre-failure Alerting in BRM. <br><br>
 --> Visit Offer Letter at: <a href = "https://drive.google.com/file/d/1TYzdfBGHF-0p6LtAYcNf0n09X7WBtlJ2/view?usp=drivesdk">Offer Letter 📑</a>
  
 </details>
