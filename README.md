@@ -1,5 +1,8 @@
+<!-- Main Heading -->
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
-<!--<p align="center"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.2.2019771503.1684599831&semt=ais" height=250 width=250 alt="Female programer Illustration Gif" ></p>-->
+
+<!-- Introduction Section-->
+
 <p align="center"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" >
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" ></p>
 <p align="center">
@@ -9,26 +12,9 @@
 <a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>
 </p>
 
-<!--
-**madhurimarawat/madhurimarawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Datascience
-- 👯 I’m looking to collaborate on python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about programming languages
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
-
 ### 👩‍💻 &nbsp;About Me :
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
-
-<!--Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.-->
 
 - 👋 I’m Madhurima Rawat  :student:<br><br>
 - 👀 I’m interested in data structure and programming languages<br><br>
@@ -42,8 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her.<br><br>
 - ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br><br>
 - 💡 Feel free to share any good story or article resources with me! 📚✨
- 
 
+ <!-- Languages and Tools Section -->
 <details open>
 <summary><h2> 🛠 &nbsp;Languages and Tools :</h2></summary>
   <br>
@@ -123,6 +109,7 @@ Click on the icon to see the associated repository.
 
 </details>
 
+<!-- My Stats -->
 <details open>
   
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
@@ -130,16 +117,13 @@ Click on the icon to see the associated repository.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurimarawat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula) &nbsp; &nbsp; &nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhurimarawat&theme=dracula) -->
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurimarawat&theme=github" height=300 title="Madhurima Rawat Monthly Contribution Graph" alt="Madhurima Rawat Monthly Contribution Graph"> -->
 
 </details>
 
+<!-- Profile trophies -->
 <details open>
   
 <summary><h2>🏆 &nbsp; GitHub Profile Trophies :</summary></h2
@@ -156,6 +140,7 @@ Click on the icon to see the associated repository.
 
 </details>
 
+<!-- Internships -->
 <details open>
 <summary><h2>📑🌟 &nbsp; Internships :</h2></summary> 
 
@@ -180,6 +165,7 @@ Click on the icon to see the associated repository.
  
 </details>
 
+<!-- My Website Links -->
   <details open>
     
 <summary> <h2>📎📚 &nbsp; Website Link :</h2></summary>
@@ -206,6 +192,7 @@ Click on the icon to see the associated repository.
 </table>
  </details>
  
+ <!-- Hobby Section -->
 <details open>
   
 <summary> <h2>✨ &nbsp; Hobbies and Interests :</h2></summary> 
@@ -235,6 +222,7 @@ Click on the icon to see the associated repository.
 </table>
 </details>
 
+<!-- Just some coding stuff 😆 --> 
 <details open>
   <summary><h2>✍️🐍 &nbsp; Starry Signature ✨</h2></summary>
   <br>
@@ -253,20 +241,20 @@ Click on the icon to see the associated repository.
 
 </details>
 
+<!-- A Random meme -->
 <details open>
 
 <summary> <h2>😄 &nbsp; Life in a Function :</h2></summary>
 <p align="center"><img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" height=250 width=250 title="Life in a recursive function 🙂 Gif" alt="Life in a recursive function 🙂 Gif" ></p>
 </details>
 
-
-
+<!-- Last section -->
 <details open>
 <summary><h2> ✨&nbsp; Have a Nice Day :</h2></summary>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/madhurimarawat/count.svg" />
 </p>
-<!-- <p align="center"><img src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" height="200px" // title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p> -->
+
 <p align="center"><img src="https://th.bing.com/th/id/R.d61331f3957df85dfe468234c47ce568?rik=6DK6XPTc2XVBMQ&riu=http%3a%2f%2fi302.photobucket.com%2falbums%2fnn84%2fJewelMAtwood%2fThankyouforVisitingMyPageGreen.gif&ehk=WvaQRLG9rcEBJsuABj%2bSo1NR0u2eXU4NyUD1HdYXnIc%3d&risl=&pid=ImgRaw&r=0" height="200px" title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p>
 </details>
