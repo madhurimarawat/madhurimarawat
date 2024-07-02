@@ -1,15 +1,21 @@
 <!-- Main Heading -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
+  
+<h1 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
 
 <!-- Introduction Section-->
-
-<p align="center"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" >
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" ></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Profile" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
-<a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://www.lever.co/wp-content/uploads/2019/04/hackerrank-large.png" title="HackerRank Profile" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
-<a href="https://alison.com/profile/31860447"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/58e7cd18-a7e4-4b20-a45c-d560c3d2c0bf" title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
-<a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>
+  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" >
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" title="LinkedIn Profile" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
+<a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
+<a href="https://alison.com/profile/31860447"><img src="https://www.mooclab.club/showcase/alison.50/cover-image" title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
+<a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>&nbsp &nbsp &nbsp
+ <a href = "https://madhurima-rawat-portfolio.netlify.app/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35></a>
+</a>
+
 </p>
 
 ### 👩‍💻 &nbsp;About Me :
@@ -20,7 +26,7 @@
 - 👀 I’m interested in data structure and programming languages<br><br>
 <img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
 - :classical_building: Pursuing B.Tech(Hons.) in Data Science from CSVTU <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/d9fceaeb-aea5-4954-823b-ce90ceb6ef0b" height=35 width=35>&nbsp; <br><br>
-- 🌱 I’m currently learning Artificial Intelligence 🤖🧠 ,Datascience 📊📈 and Machine Learning 🛠📚<br><br>
+- 🌱 I’m currently learning Artificial Intelligence 🤖🧠, Datascience 📊📈 and Machine Learning 🛠📚<br><br>
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
 - 💬 Ask me about programming languages 😀<br><br>
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
@@ -33,7 +39,7 @@
 <details open>
 <summary><h2> 🛠 &nbsp;Languages and Tools :</h2></summary>
   <br>
-Click on the icon to see the associated repository.
+Click on the icon to see the associated repository
 <br>
 
 ### 📚 &nbsp;Languages :
@@ -177,6 +183,7 @@ Click on the icon to see the associated repository.
     <th>ML Models</th>
      <th>Web Scrapper</th>
     <th>Github Repository Lister</th>
+   <th>Portfolio Website</th>
 </tr>
   <tr>
   <td>
@@ -186,7 +193,9 @@ Click on the icon to see the associated repository.
 
  <td><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/madhurimarawat/Web-Scrapper-Functions/assets/105432776/c70d6403-d229-4b6f-b484-4645bc3ddd6c" height="200px" width="200px" title ="Web Scrapper website" alt="Web Scrapper website" height=100></a></td>
 
- <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/madhurimarawat/GitHub-Repository-Lister/assets/105432776/8b9cade2-c861-4b88-ab72-1598745f9ce0" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website" height=100></a></td>
+ <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/madhurimarawat/GitHub-Repository-Lister/assets/105432776/8b9cade2-c861-4b88-ab72-1598745f9ce0" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website"></a></td>
+
+ <td><a href = "https://madhurima-rawat-portfolio.netlify.app/"><img src = "https://github.com/madhurimarawat/Portfolio-Website/assets/105432776/59f2a79d-7913-4f63-881b-695b4810eec6" height="200px" width="200px" title ="Portfolio Website" alt="Portfolio Website"></a></td>
  
   </tr>
 </table>
