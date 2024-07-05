@@ -13,7 +13,7 @@
 <a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
 <a href="https://alison.com/profile/31860447"><img src="https://www.mooclab.club/showcase/alison.50/cover-image" title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
 <a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>&nbsp &nbsp &nbsp
- <a href = "https://madhurima-rawat-portfolio.netlify.app/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35></a>
+ <a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35></a>
 </a>
 
 </p>
