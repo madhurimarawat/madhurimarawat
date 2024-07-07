@@ -160,14 +160,18 @@ Click on the icon to see the associated repository
 </p>
 <br>
 <p>
---> Completed internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.<br><br>
---> My domain was "Data Science, Machine Learning and AI using Python" technology. <br><br>
---> To See ML Models Project visit: https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/ <br><br>
---> To See Credit Card Fraud Detection Project Visit : https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/ <br></p>
+  <ul>
+<li> Completed internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.</li>
+<li> My domain was "Data Science, Machine Learning and AI using Python" technology. </li>
+<li> To See ML Models Project visit: https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/ </li>
+<li> To See Credit Card Fraud Detection Project Visit : https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/ </li>
+  </ul></p>
 
  ### Project Intern at IIT Bhilai
---> Engaged in internship at IIT Bhilai, actively contributing to the collaborative project with Bhilai Steel Plant, titled Pre-failure Alerting in BRM. <br><br>
---> Visit Offer Letter at: <a href = "https://drive.google.com/file/d/1TYzdfBGHF-0p6LtAYcNf0n09X7WBtlJ2/view?usp=drivesdk">Offer Letter 📑</a>
+- Interned at IIT Bhilai, contributing to the ”Pre-Failure Alert Generation for Equipment Failure Cobble Reduction” project.
+- Utilized Python for motif and discord analysis, and enhanced Grafana dashboards for visualizing
+ data from the BSP mill server.
+- Visit Offer Letter at: <a href = "https://drive.google.com/file/d/1jtykc2N5awIFhQXEllwiN-iTLMuXSTBH/view">Internship COmpletion Certificate 📑</a>
  
 </details>
 
