@@ -184,7 +184,7 @@ Click on the icon to see the associated repository
 <table>
   <tr>
     <th>Library Website</th>
-    <th>ML Models</th>
+    <th>HyperTuneML Platform</th>
      <th>Web Scrapper</th>
     <th>Github Repository Lister</th>
    <th>Portfolio Website</th>
