@@ -13,7 +13,8 @@
 <a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
 <a href="https://alison.com/profile/31860447"><img src="https://www.mooclab.club/showcase/alison.50/cover-image" title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
 <a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>&nbsp &nbsp &nbsp
- <a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35 title="Portfolio Website" alt="Portfolio Website"></a>
+ <a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35 title="Portfolio Website" alt="Portfolio Website"></a>&nbsp &nbsp &nbsp
+  <a href = "https://madhurima-devfolio.streamlit.app/"><img src = "https://cdn0.iconfinder.com/data/icons/editorial-darkmode/24/editorial_html-1024.png" height=35 title="Devfolio" alt="Devfolio"></a>
 </a>
 
 </p>
@@ -148,7 +149,7 @@ Click on the icon to see the associated repository
 
 <!-- Internships -->
 <details open>
-<summary><h2>📑🌟 &nbsp; Internships :</h2></summary> 
+<summary><h2>📑🌟 &nbsp; Experience :</h2></summary> 
 
 ### Data Science, Machine Learning and AI using Python from Diginique Techlabs
 <br>
@@ -178,9 +179,9 @@ Click on the icon to see the associated repository
 <!-- My Website Links -->
   <details open>
     
-<summary> <h2>📎📚 &nbsp; Website Link :</h2></summary>
+<summary> <h2>📎📚 &nbsp; Projects :</h2></summary>
 <br>
-<p>Click on the Image to See the Website</p> <br>
+<p>Click on the thumbnail to See the Website</p> <br>
 <table>
   <tr>
     <th>Library Website</th>
@@ -211,27 +212,35 @@ Click on the icon to see the associated repository
 <summary> <h2>✨ &nbsp; Hobbies and Interests :</h2></summary> 
 <br>
 <table>
-  <tr>
-    <th>AI Arts 🖌️💻</th>
-     <th>Literature📚📖</th>
-     <th>Music 🎼🎵</th>
-     <th>Nature Photography📸🏞️</th>
-  </tr>
-  <tr>
-    <td><br><img src="https://i.pinimg.com/originals/67/c9/e5/67c9e57e96086000be0d3170be657ea1.jpg" title="AI Art Illustration" height="250px" width="215px" alt="AI Art Illustration"/>&nbsp;
-</td>
-    <td><br><img src="https://cdn.pixabay.com/photo/2018/09/06/16/53/book-3658687_1280.jpg" title="Girl With book and Butterfly"  alt="Girl With book and Butterfly" height="250px" width="200px" />&nbsp;
-</td>
-    <td><img src="https://yt3.googleusercontent.com/11LyoUnat70TioSwHPUOHk_cwJ7TTWci8AFOaXQ9J6gdtzChMquw4TqnioKYxlrrjVLMSlgmIA=s900-c-k-c0x00ffffff-no-rj" title="Music-vector-Feature Illustration"  alt="Music-vector-Feature Illustration" height="250px" width="230px" />&nbsp;
-</td>
-    <td><br><img src="https://th.bing.com/th/id/OIP.UClnWD6Moakuq8jQh3nEiAHaFj?pid=ImgDet&rs=1" title="Nature Photography Illustration"  alt="Nature Photography Illustration" height="250px" width="250px" />&nbsp;</td>
-  </tr>
-  <tr>
-    <td>“A machine’s perspective on the world.”</td>
-    <td>“A good book is an event in life.”</td>
-    <td>“Music is to Heart what Medicine is to Body.”</td>
-    <td>“Nature always wears the colors of the spirit.”</td>
-  </tr>
+<thead>
+    <tr>
+      <th>AI Arts 🖌️💻</th>
+      <th>Literature 📚📖</th>
+      <th>Music 🎼🎵</th>
+      <th>Nature Photography 📸🏞️</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://i.pinimg.com/originals/67/c9/e5/67c9e57e96086000be0d3170be657ea1.jpg" title="AI Art Illustration" alt="AI Art Illustration" height="250px" width="100%" loading="lazy" />
+        <p>“A machine’s perspective on the world.”</p>
+      </td>
+      <td>
+        <img src="https://clipart-library.com/images_k/book-clipart-transparent/book-clipart-transparent-22.png" title="Girl With book and Butterfly" alt="Books Illustration" height="250px" width="100%" loading="lazy" />
+        <p>“A good book is an event in life.”</p>
+      </td>
+      <td>
+       <img src="https://static.vecteezy.com/system/resources/previews/000/458/803/original/music-theme-design-vector.jpg"
+              title="Music-vector-Feature Illustration" alt="Music-vector-Feature Illustration" height="250px" width="100%" loading="lazy" />
+        <p>“Music is to Heart what Medicine is to Body.”</p>
+      </td>
+      <td>
+        <img src="https://th.bing.com/th/id/OIP.UClnWD6Moakuq8jQh3nEiAHaFj?pid=ImgDet&rs=1" title="Nature Photography Illustration" alt="Nature Photography Illustration" height="250px" width="100%" loading="lazy" />
+        <p>“Nature always wears the colors of the spirit.”</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 </details>
 
