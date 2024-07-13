@@ -139,46 +139,27 @@ Click on the icon to see the associated repository
 
 </details>
 
-<details open>
-<summary><h2> 🏷️ Holopin Badges :</h2></summary>
-<p>
-  <a href="https://holopin.io/@madhurimarawat"><img src="https://holopin.me/madhurimarawat" title="Holophin Board" height=100 alt="@madhurimarawat&#39;s Holopin board"> </a>
-</p>
-
-</details>
-
 <!-- Internships -->
 <details open>
 <summary><h2>📑🌟 &nbsp; Experience :</h2></summary> 
 
 ### Data Science, Machine Learning and AI using Python from Diginique Techlabs
-<br>
+
 <p>
-<a href="https://diginique.com/"><img src="https://diginique.com/wp-content/uploads/2021/05/cropped-diginique_logo-2048x709.png" title ="Diginique Techlabs" alt ="Diginique Techlabs" height=100 width=150> &nbsp; &nbsp;&nbsp; &nbsp;
-<a href="https://drive.google.com/drive/folders/1PEDGBjae9stAxuQZJ0r3K-107xINyq_J"><img src="https://media.istockphoto.com/vectors/internship-concept-vector-illustration-banner-with-keywords-and-icons-vector-id1211151590?k=6&m=1211151590&s=612x612&w=0&h=4d_yekAQgA6ngrvuE49wtGZlWrkWlruuJW06_Ldacic=" title= "Click Here to See Internship Certifications 📑" alt="Internship Illustration" height=100 width=150> </a> &nbsp; &nbsp;&nbsp; &nbsp;
-<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://i.morioh.com/52c215bc5f.png" height = 100 width=150 title="Click Here to See Associated Repository" alt="GitHub Repository" ></a>&nbsp; &nbsp;&nbsp; &nbsp;
-<a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img height=100 width=150 title = "Click Here to See Project" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a>
+Completed an internship and training in the Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs, focusing on "Data Science, Machine Learning, and AI using Python. See Internship Certifications <a href = "https://drive.google.com/drive/folders/1PEDGBjae9stAxuQZJ0r3K-107xINyq_J">📑 here</a>.
+  
+During this program, I developed expertise in creating ML models and contributed to projects like Credit Card Fraud Detection and ML Model Datasets, accessible at 
+<a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/">ML Models Project</a> and <a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/">Credit Card Fraud Detection Project</a>.
 </p>
-<br>
-<p>
-  <ul>
-<li> Completed internship and training in this Project Based Summer Internship Program 2023 by iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs.</li>
-<li> My domain was "Data Science, Machine Learning and AI using Python" technology. </li>
-<li> To See ML Models Project visit: https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/ </li>
-<li> To See Credit Card Fraud Detection Project Visit : https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/ </li>
-  </ul></p>
 
  ### Project Intern at IIT Bhilai
-- Interned at IIT Bhilai, contributing to the ”Pre-Failure Alert Generation for Equipment Failure Cobble Reduction” project.
-- Utilized Python for motif and discord analysis, and enhanced Grafana dashboards for visualizing
- data from the BSP mill server.
-- Visit Offer Letter at: <a href = "https://drive.google.com/file/d/1jtykc2N5awIFhQXEllwiN-iTLMuXSTBH/view">Internship COmpletion Certificate 📑</a>
+<p>Interned at IIT Bhilai, contributing to the "Pre-Failure Alert Generation for Equipment Failure Cobble Reduction" project. I utilized Python for motif and discord analysis and enhanced Grafana dashboards for visualizing data from the BSP mill server. See Internship Completion Certificate <a href = "https://drive.google.com/file/d/1jtykc2N5awIFhQXEllwiN-iTLMuXSTBH/view">📑 here</a> .</p>
+
  
 </details>
 
-<!-- My Website Links -->
+<!-- My Projects Links -->
   <details open>
-    
 <summary> <h2>📎📚 &nbsp; Projects :</h2></summary>
 <br>
 <p>Click on the thumbnail to See the Website</p> <br>
@@ -200,49 +181,11 @@ Click on the icon to see the associated repository
 
  <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/madhurimarawat/GitHub-Repository-Lister/assets/105432776/8b9cade2-c861-4b88-ab72-1598745f9ce0" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website"></a></td>
 
- <td><a href = "https://madhurima-rawat-portfolio.netlify.app/"><img src = "https://github.com/madhurimarawat/Portfolio-Website/assets/105432776/59f2a79d-7913-4f63-881b-695b4810eec6" height="200px" width="200px" title ="Portfolio Website" alt="Portfolio Website"></a></td>
+ <td><a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" height="200px" width="200px" title ="Portfolio Website" alt="Portfolio Website"></a></td>
  
   </tr>
 </table>
  </details>
- 
- <!-- Hobby Section -->
-<details open>
-  
-<summary> <h2>✨ &nbsp; Hobbies and Interests :</h2></summary> 
-<br>
-<table>
-<thead>
-    <tr>
-      <th>AI Arts 🖌️💻</th>
-      <th>Literature 📚📖</th>
-      <th>Music 🎼🎵</th>
-      <th>Nature Photography 📸🏞️</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://i.pinimg.com/originals/67/c9/e5/67c9e57e96086000be0d3170be657ea1.jpg" title="AI Art Illustration" alt="AI Art Illustration" height="250px" width="100%" loading="lazy" />
-        <p>“A machine’s perspective on the world.”</p>
-      </td>
-      <td>
-        <img src="https://clipart-library.com/images_k/book-clipart-transparent/book-clipart-transparent-22.png" title="Girl With book and Butterfly" alt="Books Illustration" height="250px" width="100%" loading="lazy" />
-        <p>“A good book is an event in life.”</p>
-      </td>
-      <td>
-       <img src="https://static.vecteezy.com/system/resources/previews/000/458/803/original/music-theme-design-vector.jpg"
-              title="Music-vector-Feature Illustration" alt="Music-vector-Feature Illustration" height="250px" width="100%" loading="lazy" />
-        <p>“Music is to Heart what Medicine is to Body.”</p>
-      </td>
-      <td>
-        <img src="https://th.bing.com/th/id/OIP.UClnWD6Moakuq8jQh3nEiAHaFj?pid=ImgDet&rs=1" title="Nature Photography Illustration" alt="Nature Photography Illustration" height="250px" width="100%" loading="lazy" />
-        <p>“Nature always wears the colors of the spirit.”</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</details>
 
 <!-- Just some coding stuff 😆 --> 
 <details open>
@@ -261,13 +204,6 @@ Click on the icon to see the associated repository
 *       *    *       *    * * * * *   *       *   * * * * *   *      *     * * * * * * *    *       *    *       *
  ```
 
-</details>
-
-<!-- A Random meme -->
-<details open>
-
-<summary> <h2>😄 &nbsp; Life in a Function :</h2></summary>
-<p align="center"><img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" height=250 width=250 title="Life in a recursive function 🙂 Gif" alt="Life in a recursive function 🙂 Gif" ></p>
 </details>
 
 <!-- Last section -->
