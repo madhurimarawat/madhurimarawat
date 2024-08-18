@@ -179,7 +179,7 @@ During this program, I developed expertise in creating ML models and contributed
 
  <td><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/madhurimarawat/Web-Scrapper-Functions/assets/105432776/c70d6403-d229-4b6f-b484-4645bc3ddd6c" height="200px" width="200px" title ="Web Scrapper website" alt="Web Scrapper website" height=100></a></td>
 
- <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/madhurimarawat/GitHub-Repository-Lister/assets/105432776/8b9cade2-c861-4b88-ab72-1598745f9ce0" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website"></a></td>
+ <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/user-attachments/assets/fec9a049-3ff7-4148-b973-f26bc557301a" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website"></a></td>
 
  <td><a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" height="200px" width="200px" title ="Portfolio Website" alt="Portfolio Website"></a></td>
  
