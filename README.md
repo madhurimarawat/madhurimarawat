@@ -72,8 +72,10 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python">  <img src="https://i.gyazo.com/0b29c28bab26d0302b01de863091c93a.png" title="Joblib" alt="Joblib" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/R-Projects"> <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="To See Repository Visit: https://github.com/madhurimarawat/R-Projects" alt="ggplot2 Logo" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"> </a>  &nbsp;
-  <a href = "https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="Natural Language Processing Toolkit" alt="NLTK" width="40" height="40" ></a>
+  <a href = "https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="Natural Language Processing Toolkit" alt="NLTK" width="40" height="40" ></a> &nbsp;
   <a href = "https://github.com/madhurimarawat/Web-Scrapper-Functions"><img src = "https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests Library" alt="Requests" width="40" height="40" ></a>
+  &nbsp;
+  <a href = "https://github.com/madhurimarawat/Data-Wrangling"><img src = "https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest Library" alt="Pytest" width="40" height="40" ></a>
 </p>
 
 ### 💻 &nbsp;Databases :
@@ -96,6 +98,10 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Library-Management-System"> <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Ruby-Programming">  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;
 <a href="#">  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
+  &nbsp;
+<a href="https://github.com/madhurimarawat/Software-Engineering">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/> </a>
 
 </p>
 
