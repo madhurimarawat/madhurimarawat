@@ -5,7 +5,9 @@
 <!-- Introduction Section-->
 <p align="center">
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" >
+   <a href="https://gitroll.io/profile/uggTYKafyFPN995yHRFqc4VkjH9f2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uggTYKafyFPN995yHRFqc4VkjH9f2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" > 
+ 
 </p>
 
 <p align="center">
@@ -131,8 +133,7 @@ Click on the icon to see the associated repository
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula) &nbsp; &nbsp; &nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula) 
 
 </details>
 
