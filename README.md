@@ -78,7 +78,13 @@ Click on the icon to see the associated repository
   <a href = "https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="Natural Language Processing Toolkit" alt="NLTK" width="40" height="40" ></a> &nbsp;
   <a href = "https://github.com/madhurimarawat/Web-Scrapper-Functions"><img src = "https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests Library" alt="Requests" width="40" height="40" ></a>
   &nbsp;
-  <a href = "https://github.com/madhurimarawat/Data-Wrangling"><img src = "https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest Library" alt="Pytest" width="40" height="40" ></a>
+  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest Library" alt="Pytest" width="40" height="40" ></a>
+   &nbsp;
+  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://blackfennec.org/images/sphinx.png" title="Sphinx Library" alt="Sphinx" width="40" height="40" ></a>
+   &nbsp;
+  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://avatars.githubusercontent.com/u/109019481?s=280&v=4" title="MkDocs Library" alt="MkDocs" width="40" height="40" ></a>
+  &nbsp;
+  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png" title="PDoc Library" alt="PkDoc" width="40" height="40" ></a>
 </p>
 
 ### 💻 &nbsp;Databases :
@@ -86,6 +92,8 @@ Click on the icon to see the associated repository
 <p>
 <a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"> </a> &nbsp;
  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Hive" alt="Hive" width="40" height="40"/> </a>
 </p>
 
 ### 🌟 &nbsp; Technology and Tools :
@@ -101,10 +109,20 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Library-Management-System"> <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Ruby-Programming">  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;
 <a href="#">  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
-  &nbsp;
-<a href="https://github.com/madhurimarawat/Software-Engineering">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/> </a>
+<a href="https://madhurimarawat.github.io/Semester-Notes/Astyle-Commands.html">  <img src="https://1000logos.net/wp-content/uploads/2022/11/A-Style-Logo-500x281.png" title="Astyle" alt="Astyle" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Learning-Git">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Learning-GitHub-Actions-CI">  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Learning-Travis-CI">  <img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-original.svg" title="Travis" alt="Travis" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://madhurimarawat.github.io/Semester-Notes/Hadoop-Commands.html">  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://clipground.com/images/kafka-logo-1.png" title="Kafka" alt="Kafka" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="40" height="40"/> </a>
 
 </p>
 
