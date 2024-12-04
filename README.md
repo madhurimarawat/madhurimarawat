@@ -205,9 +205,9 @@ During this program, I developed expertise in creating ML models and contributed
   <td>
  <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height="200px" width="200px" title ="Library Management system website" alt="Library Management system website" height=100></a></td>
     
-  <td><a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img title = "Machine Learning Model Website" height="200px" width="200px" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a></td>
+  <td><a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img title = "Machine Learning Model Website" height="200px" width="200px" alt="Website Image" src="https://github.com/user-attachments/assets/5ad5ba7a-8227-4b7d-80a5-d043c2810383"></a></td>
 
- <td><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/madhurimarawat/Web-Scrapper-Functions/assets/105432776/c70d6403-d229-4b6f-b484-4645bc3ddd6c" height="200px" width="200px" title ="Web Scrapper website" alt="Web Scrapper website" height=100></a></td>
+ <td><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/user-attachments/assets/f935ec1b-b973-49fe-9fae-5fc9340134f1" height="200px" width="200px" title ="Web Scrapper website" alt="Web Scrapper website" height=100></a></td>
 
  <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/user-attachments/assets/fec9a049-3ff7-4148-b973-f26bc557301a" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website"></a></td>
 
