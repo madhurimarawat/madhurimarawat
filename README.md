@@ -84,14 +84,16 @@ Click on the icon to see the associated repository
    &nbsp;
   <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://avatars.githubusercontent.com/u/109019481?s=280&v=4" title="MkDocs Library" alt="MkDocs" width="40" height="40" ></a>
   &nbsp;
-  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png" title="PDoc Library" alt="PkDoc" width="40" height="40" ></a>
+  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png" title="PDoc Library" alt="PDoc" width="40" height="40" ></a>
+   &nbsp;
+  <a href = "https://github.com/madhurimarawat/CSVTU-GPT"><img src = "https://www.taccorgaming.co.za/wp-content/uploads/2015/02/Fuzzy-Logic-Blue-Transparent.png" title="Fuzzywuzzy Library" alt="Fuzzywuzzy" width="40" height="40" ></a>
 </p>
 
 ### 💻 &nbsp;Databases :
 <br>
 <p>
 <a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"> </a> &nbsp;
- <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"> </a>
+ <a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"> </a>
 &nbsp;
 <a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Hive" alt="Hive" width="40" height="40"/> </a>
 </p>
@@ -108,7 +110,7 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Programming-in-PHP">  <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Library-Management-System"> <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Ruby-Programming">  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;
-<a href="#">  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
+<a href="https://github.com/madhurimarawat/Stock-Market-Prediction">  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://madhurimarawat.github.io/Semester-Notes/Astyle-Commands.html">  <img src="https://1000logos.net/wp-content/uploads/2022/11/A-Style-Logo-500x281.png" title="Astyle" alt="Astyle" width="40" height="40"/> </a>
 &nbsp;
@@ -197,6 +199,7 @@ During this program, I developed expertise in creating ML models and contributed
     <th>Github Repository Lister</th>
    <th>Portfolio Website</th>
     <th>CodeCulture Website</th>
+    <th>Stock Market Prediction</th>
 </tr>
   <tr>
   <td>
@@ -211,6 +214,8 @@ During this program, I developed expertise in creating ML models and contributed
  <td><a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" height="200px" width="200px" title ="Portfolio Website" alt="Portfolio Website"></a></td>
 
  <td><a href = "https://madhurimarawat.github.io/CodeCulture-Daily/"><img src = "https://github.com/user-attachments/assets/a3bfeab0-aa38-47ed-ad07-3a9a7b8906c7" height="200px" width="200px" title ="CodeCulture Website" alt="CodeCulture Website"></a></td>
+
+  <td><a href = "https://stock-market-numerical-text-hybrid-prediction.streamlit.app/"><img src = "https://github.com/madhurimarawat/Stock-Market-Prediction/raw/main/Codes/Historical_Data_Analysis/App_Snapshots/Streamlit_App/App_View_1.png" height="200px" width="200px" title ="Stock Website" alt="Stock Website"></a></td>
  
   </tr>
 </table>
