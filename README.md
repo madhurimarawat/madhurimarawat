@@ -128,7 +128,7 @@ Click on the icon to see the associated repository
 &nbsp;
 <a href="https://github.com/madhurimarawat/Learning-Codacy">  <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" title="Codacy" alt="Codacy" width="40" height="40"/> </a>
 &nbsp;
-<a href=https://github.com/madhurimarawat/Learning-CodeFactor">  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor" alt="CodeFactor" width="40" height="40"/> </a>
+<a href="https://github.com/madhurimarawat/Learning-CodeFactor">  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor" alt="CodeFactor" width="40" height="40"/> </a>
 
 </p>
 
