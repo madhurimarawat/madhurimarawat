@@ -125,6 +125,10 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://clipground.com/images/kafka-logo-1.png" title="Kafka" alt="Kafka" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Learning-Codacy">  <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" title="Codacy" alt="Codacy" width="40" height="40"/> </a>
+&nbsp;
+<a href=https://github.com/madhurimarawat/Learning-CodeFactor">  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor" alt="CodeFactor" width="40" height="40"/> </a>
 
 </p>
 
