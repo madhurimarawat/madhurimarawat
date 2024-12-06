@@ -4,7 +4,7 @@
 
 <!-- My Name -->
 <!-- I have made this and uploaded in my portfolio website at: https://github.com/madhurimarawat/Portfolio-Website -->
-<img src = "https://github.com/madhurimarawat/Portfolio-Website/blob/main/images/Designed%20Name.png">
+<img src = "https://github.com/madhurimarawat/Portfolio-Website/blob/main/images/Designed%20Name.png" title = "NameBlock" alt = "NameBlock">
 
 <!-- Introduction Section-->
 <p align="center">
