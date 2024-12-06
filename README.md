@@ -2,6 +2,10 @@
   
 <h1 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
 
+<!-- My Name -->
+<!-- I have made this and uploaded in my portfolio website at: https://github.com/madhurimarawat/Portfolio-Website -->
+<img src = "https://github.com/madhurimarawat/Portfolio-Website/blob/main/images/Designed%20Name.png">
+
 <!-- Introduction Section-->
 <p align="center">
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
