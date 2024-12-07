@@ -2,9 +2,10 @@
   
 <h1 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
 
-<!-- My Name -->
-<!-- I have made this and uploaded in my portfolio website at: https://github.com/madhurimarawat/Portfolio-Website -->
-<img src = "https://github.com/madhurimarawat/Portfolio-Website/blob/main/images/Designed%20Name.png" title = "NameBlock" alt = "NameBlock">
+<!-- Personalized Name Blocks -->
+<!-- Created with the NameBlock Designer tool, which is featured in my portfolio. Explore the tool here: https://madhurimarawat.github.io/NameBlock-Designer/ -->
+<!-- Showcasing my web development skills and creativity -->
+<a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/madhurimarawat/Portfolio-Website/blob/main/images/Designed%20Name.png" title = "NameBlock" alt = "NameBlock"></a>
 
 <!-- Introduction Section-->
 <p align="center">
@@ -199,34 +200,13 @@ During this program, I developed expertise in creating ML models and contributed
 <summary> <h2>📎📚 &nbsp; Projects :</h2></summary>
 <br>
 <p>Click on the thumbnail to See the Website</p> <br>
-<table>
-  <tr>
-    <th>Library Website</th>
-    <th>HyperTuneML Platform</th>
-     <th>Web Scrapper</th>
-    <th>Github Repository Lister</th>
-   <th>Portfolio Website</th>
-    <th>CodeCulture Website</th>
-    <th>Stock Market Prediction</th>
-</tr>
-  <tr>
-  <td>
- <a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height="200px" width="200px" title ="Library Management system website" alt="Library Management system website" height=100></a></td>
     
-  <td><a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img title = "Machine Learning Model Website" height="200px" width="200px" alt="Website Image" src="https://github.com/user-attachments/assets/5ad5ba7a-8227-4b7d-80a5-d043c2810383"></a></td>
+| Feature                   | Library Website 📚 | HyperTuneML Platform 🤖 | Web Scrapper 🌐 | Github Repository Lister 🗂️ | Portfolio Website 🖼️ | CodeCulture Website 💻 | Stock Market Prediction 📈 | NameBlock Designer 🎨 |
+|---------------------------|---------------------|--------------------------|-----------------|-----------------------------|-----------------------|------------------------|----------------------------|------------------------|
+| **Preview**   👁️            | <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height="200"> | <img src="https://github.com/user-attachments/assets/5ad5ba7a-8227-4b7d-80a5-d043c2810383" height="200"> | <img src="https://github.com/user-attachments/assets/f935ec1b-b973-49fe-9fae-5fc9340134f1" height="200"> | <img src="https://github.com/user-attachments/assets/fec9a049-3ff7-4148-b973-f26bc557301a" height="200"> | <img src="https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" height="200"> | <img src="https://github.com/user-attachments/assets/a3bfeab0-aa38-47ed-ad07-3a9a7b8906c7" height="200"> | <img src="https://github.com/madhurimarawat/Stock-Market-Prediction/raw/main/Codes/Historical_Data_Analysis/App_Snapshots/Streamlit_App/App_View_1.png" height="200"> | <img src="https://github.com/madhurimarawat/NameBlock-Designer/raw/main/website_view/Website_Working.gif" height="200"> |
+| **Description**    📝       | A web-based library management system for book cataloging and user management. | A platform for building, training, and deploying machine learning models. | A tool for scraping and extracting data from web pages. | A web app that lists GitHub repositories by topics. | Personal portfolio showcasing projects, skills, and achievements. | A platform for daily coding challenges and discussions. | A prediction tool for analyzing stock market trends using machine learning. | A creative tool for designing custom name blocks and personalized graphics. |
+| **Technologies Used** 🛠️    | HTML, CSS, JavaScript, Python, Flask | Python, Streamlit, scikit-learn, Pandas | Python, Streamlit, BeautifulSoup, Requests | HTML, CSS, JavaScript, Streamlit, GitHub API | HTML, CSS, JavaScript, Bootstrap, GitHub | HTML, CSS, JavaScript, Bootstrap | Python, Streamlit, Pandas, scikit-learn | HTML, CSS, JavaScript, GitHub |
 
- <td><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/user-attachments/assets/f935ec1b-b973-49fe-9fae-5fc9340134f1" height="200px" width="200px" title ="Web Scrapper website" alt="Web Scrapper website" height=100></a></td>
-
- <td><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/user-attachments/assets/fec9a049-3ff7-4148-b973-f26bc557301a" height="200px" width="200px" title ="Github Repository Lister Website" alt="Github Repository Lister Website"></a></td>
-
- <td><a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" height="200px" width="200px" title ="Portfolio Website" alt="Portfolio Website"></a></td>
-
- <td><a href = "https://madhurimarawat.github.io/CodeCulture-Daily/"><img src = "https://github.com/user-attachments/assets/a3bfeab0-aa38-47ed-ad07-3a9a7b8906c7" height="200px" width="200px" title ="CodeCulture Website" alt="CodeCulture Website"></a></td>
-
-  <td><a href = "https://stock-market-numerical-text-hybrid-prediction.streamlit.app/"><img src = "https://github.com/madhurimarawat/Stock-Market-Prediction/raw/main/Codes/Historical_Data_Analysis/App_Snapshots/Streamlit_App/App_View_1.png" height="200px" width="200px" title ="Stock Website" alt="Stock Website"></a></td>
- 
-  </tr>
-</table>
  </details>
 
 <!-- Just some coding stuff 😆 --> 
