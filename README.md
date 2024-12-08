@@ -201,11 +201,56 @@ During this program, I developed expertise in creating ML models and contributed
 <br>
 <p>Click on the thumbnail to See the Website</p> <br>
     
-| Feature                   | Library Website 📚 | HyperTuneML Platform 🤖 | Web Scrapper 🌐 | Github Repository Lister 🗂️ | Portfolio Website 🖼️ | CodeCulture Website 💻 | Stock Market Prediction 📈 | NameBlock Designer 🎨 |
-|---------------------------|---------------------|--------------------------|-----------------|-----------------------------|-----------------------|------------------------|----------------------------|------------------------|
-| **Preview**   👁️            | <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height="200"> | <img src="https://github.com/user-attachments/assets/5ad5ba7a-8227-4b7d-80a5-d043c2810383" height="200"> | <img src="https://github.com/user-attachments/assets/f935ec1b-b973-49fe-9fae-5fc9340134f1" height="200"> | <img src="https://github.com/user-attachments/assets/fec9a049-3ff7-4148-b973-f26bc557301a" height="200"> | <img src="https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" height="200"> | <img src="https://github.com/user-attachments/assets/a3bfeab0-aa38-47ed-ad07-3a9a7b8906c7" height="200"> | <img src="https://github.com/madhurimarawat/Stock-Market-Prediction/raw/main/Codes/Historical_Data_Analysis/App_Snapshots/Streamlit_App/App_View_1.png" height="200"> | <img src="https://github.com/madhurimarawat/NameBlock-Designer/raw/main/website_view/Website_Working.gif" height="200"> |
-| **Description**    📝       | A web-based library management system for book cataloging and user management. | A platform for building, training, and deploying machine learning models. | A tool for scraping and extracting data from web pages. | A web app that lists GitHub repositories by topics. | Personal portfolio showcasing projects, skills, and achievements. | A platform for daily coding challenges and discussions. | A prediction tool for analyzing stock market trends using machine learning. | A creative tool for designing custom name blocks and personalized graphics. |
-| **Technologies Used** 🛠️    | HTML, CSS, JavaScript, Python, Flask | Python, Streamlit, scikit-learn, Pandas | Python, Streamlit, BeautifulSoup, Requests | HTML, CSS, JavaScript, Streamlit, GitHub API | HTML, CSS, JavaScript, Bootstrap, GitHub | HTML, CSS, JavaScript, Bootstrap | Python, Streamlit, Pandas, scikit-learn | HTML, CSS, JavaScript, GitHub |
+<table style="width: 100%;">
+  <tr>
+    <th style="width: 10%;">Feature ⚙️</th>
+    <th style="width: 10%;">Library Website 📚</th>
+    <th style="width: 10%;">HyperTuneML Platform 🤖</th>
+    <th style="width: 10%;">Web Scrapper 🌐</th>
+    <th style="width: 10%;">Semester Notes 🧑‍🎓</th>
+    <th style="width: 10%;">Github Repository Lister 🗂️</th>
+    <th style="width: 10%;">Portfolio Website 🖼️</th>
+    <th style="width: 10%;">CodeCulture Website 💻</th>
+    <th style="width: 10%;">Stock Market Prediction 📈</th>
+    <th style="width: 10%;">NameBlock Designer 🎨</th>
+  </tr>
+  <tr>
+    <td style="width: 10%;"><strong>Preview</strong> 👁️</td>
+    <td style="width: 10%;"><a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" width="200" height="200" alt="Library Management Website" title="Library Management Website"></a></td>
+    <td style="width: 10%;"><a href="https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img src="https://github.com/user-attachments/assets/5ad5ba7a-8227-4b7d-80a5-d043c2810383" width="200" height="200" alt="ML Model Datasets App" title="ML Model Datasets App"></a></td>
+    <td style="width: 10%;"><a href="https://web-scrapper-functions-h6phqofpkjtaylwyn9uvzf.streamlit.app/"><img src="https://github.com/user-attachments/assets/f935ec1b-b973-49fe-9fae-5fc9340134f1" width="200" height="200" alt="Web Scraper App" title="Web Scraper App"></a></td>
+    <td style="width: 10%;"><a href="https://madhurimarawat.github.io/Semester-Notes/"><img src="https://github.com/user-attachments/assets/f68840c1-f9ec-4db5-af80-789176a1fc47" width="200" height="200" alt="Semester Notes" title="Semester Notes"></a></td>
+    <td style="width: 10%;"><a href="https://github-repository-topics-lister.netlify.app/"><img src="https://github.com/user-attachments/assets/fec9a049-3ff7-4148-b973-f26bc557301a" width="200" height="200" alt="GitHub Repository Topics Lister" title="GitHub Repository Topics Lister"></a></td>
+    <td style="width: 10%;"><a href="https://madhurimarawat.github.io/Portfolio-Website/"><img src="https://github.com/user-attachments/assets/664e3c56-f288-4997-8a95-cf3bed2f7587" width="200" height="200" alt="Portfolio Website" title="Portfolio Website"></a></td>
+    <td style="width: 10%;"><a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img src="https://github.com/user-attachments/assets/a3bfeab0-aa38-47ed-ad07-3a9a7b8906c7" width="200" height="200" alt="Code Culture Daily App" title="Code Culture Daily App"></a></td>
+    <td style="width: 10%;"><a href="https://stock-market-numerical-text-hybrid-prediction.streamlit.app/"><img src="https://github.com/madhurimarawat/Stock-Market-Prediction/raw/main/Codes/Historical_Data_Analysis/App_Snapshots/Streamlit_App/App_View_1.png" width="200" height="200" alt="Stock Market Prediction App" title="Stock Market Prediction App"></a></td>
+    <td style="width: 10%;"><a href="https://madhurimarawat.github.io/NameBlock-Designer/"><img src="https://github.com/madhurimarawat/NameBlock-Designer/raw/main/website_view/View_5.png" width="200" height="200" alt="NameBlock Designer" title="NameBlock Designer"></a></td>
+  </tr>
+  <tr>
+    <td style="width: 10%;"><strong>Description</strong> 📝</td>
+    <td style="width: 10%;">A web-based system for cataloging books and managing users.</td>
+    <td style="width: 10%;">Platform for building, training, and deploying ML models.</td>
+    <td style="width: 10%;">Tool for extracting data from web pages efficiently.</td>
+    <td style="width: 10%;">Repository of academic notes, study materials, and resources.</td>
+    <td style="width: 10%;">Web app for listing GitHub repositories by topics.</td>
+    <td style="width: 10%;">Personal portfolio showcasing projects, skills, and achievements.</td>
+    <td style="width: 10%;">Platform for daily coding challenges and tech discussions.</td>
+    <td style="width: 10%;">Tool for predicting stock market trends using machine learning.</td>
+    <td style="width: 10%;">Creative tool for designing custom name blocks and graphics.</td>
+  </tr>
+  <tr>
+    <td style="width: 10%;"><strong>Technologies Used</strong> 🛠️</td>
+    <td style="width: 10%;">HTML, CSS, JavaScript, Python, Flask</td>
+    <td style="width: 10%;">Python, Streamlit, scikit-learn, Pandas</td>
+    <td style="width: 10%;">Python, Streamlit, BeautifulSoup, Requests</td>
+    <td style="width: 10%;">HTML, CSS, Bootstrap, GitHub</td>
+    <td style="width: 10%;">HTML, CSS, JavaScript, Streamlit, GitHub API</td>
+    <td style="width: 10%;">HTML, CSS, JavaScript, Bootstrap</td>
+    <td style="width: 10%;">HTML, CSS, JavaScript, Bootstrap</td>
+    <td style="width: 10%;">Python, Streamlit, Pandas, scikit-learn</td>
+    <td style="width: 10%;">HTML, CSS, JavaScript, GitHub</td>
+  </tr>
+</table>
 
  </details>
 
