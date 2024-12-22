@@ -213,6 +213,7 @@ During this program, I developed expertise in creating ML models and contributed
     <th style="width: 10%;">CodeCulture Website 💻</th>
     <th style="width: 10%;">Stock Market Prediction 📈</th>
     <th style="width: 10%;">NameBlock Designer 🎨</th>
+    <th style="width: 10%;">Madhurima Mindscape 🧠</th>
   </tr>
   <tr>
     <td style="width: 10%;"><strong>Preview</strong> 👁️</td>
@@ -225,6 +226,7 @@ During this program, I developed expertise in creating ML models and contributed
     <td style="width: 10%;"><a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img src="https://github.com/user-attachments/assets/a3bfeab0-aa38-47ed-ad07-3a9a7b8906c7" width="200" height="200" alt="Code Culture Daily App" title="Code Culture Daily App"></a></td>
     <td style="width: 10%;"><a href="https://stock-market-numerical-text-hybrid-prediction.streamlit.app/"><img src="https://github.com/madhurimarawat/Stock-Market-Prediction/raw/main/Codes/Historical_Data_Analysis/App_Snapshots/Streamlit_App/App_View_1.png" width="200" height="200" alt="Stock Market Prediction App" title="Stock Market Prediction App"></a></td>
     <td style="width: 10%;"><a href="https://madhurimarawat.github.io/NameBlock-Designer/"><img src="https://github.com/madhurimarawat/NameBlock-Designer/raw/main/website_view/View_5.png" width="200" height="200" alt="NameBlock Designer" title="NameBlock Designer"></a></td>
+     <td style="width: 10%;"><a href="https://madhurimarawat.github.io/Madhurima-Mindscape/"><img src="https://github.com/madhurimarawat/Madhurima-Mindscape/raw/main/website_snapshots/website_1.png" width="200" height="200" alt="Madhurima Mindscape" title="Madhurima Mindscape"></a></td>
   </tr>
   <tr>
     <td style="width: 10%;"><strong>Description</strong> 📝</td>
@@ -237,6 +239,7 @@ During this program, I developed expertise in creating ML models and contributed
     <td style="width: 10%;">Platform for daily coding challenges and tech discussions.</td>
     <td style="width: 10%;">Tool for predicting stock market trends using machine learning.</td>
     <td style="width: 10%;">Creative tool for designing custom name blocks and graphics.</td>
+    <td style="width: 10%;">Personal blog with reflections, tech insights, and projects</td>
   </tr>
   <tr>
     <td style="width: 10%;"><strong>Technologies Used</strong> 🛠️</td>
@@ -248,6 +251,7 @@ During this program, I developed expertise in creating ML models and contributed
     <td style="width: 10%;">HTML, CSS, JavaScript, Bootstrap</td>
     <td style="width: 10%;">HTML, CSS, JavaScript, Bootstrap</td>
     <td style="width: 10%;">Python, Streamlit, Pandas, scikit-learn</td>
+    <td style="width: 10%;">HTML, CSS, JavaScript, GitHub</td>
     <td style="width: 10%;">HTML, CSS, JavaScript, GitHub</td>
   </tr>
 </table>
