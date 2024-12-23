@@ -23,7 +23,8 @@
  <a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35 title="Portfolio Website" alt="Portfolio Website"></a>&nbsp &nbsp &nbsp
   <a href = "https://madhurima-devfolio.streamlit.app/"><img src = "https://cdn0.iconfinder.com/data/icons/editorial-darkmode/24/editorial_html-1024.png" height=35 title="Devfolio" alt="Devfolio"></a>&nbsp &nbsp &nbsp
   <a href = "https://madhurimarawat.github.io/CodeCulture-Daily/"><img src = "https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35 title="CodeCulture" alt="CodeCulture"></a>
-</a>
+&nbsp &nbsp &nbsp
+  <a href = "https://madhurimarawat.github.io/Madhurima-Mindscape/"><img src = "https://github.com/madhurimarawat/Madhurima-Mindscape/blob/main/images/Logo.png" height=35 title="Madhurima Mindscape" alt="Madhurima Mindscape"></a>
 
 </p>
 
