@@ -16,15 +16,37 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/madhurima-rawat/"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" title="LinkedIn Profile" height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
-<a href="https://www.hackerrank.com/rawatmadhurima4"><img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile" height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
-<a href="https://alison.com/profile/31860447"><img src="https://www.mooclab.club/showcase/alison.50/cover-image" title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
-<a href="https://linktr.ee/madhurima_rawat"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35 title="Link Tree Profile"  alt="Link Tree Logo"></a>&nbsp &nbsp &nbsp
- <a href = "https://madhurimarawat.github.io/Portfolio-Website/"><img src = "https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62" height=35 title="Portfolio Website" alt="Portfolio Website"></a>&nbsp &nbsp &nbsp
-  <a href = "https://madhurima-devfolio.streamlit.app/"><img src = "https://cdn0.iconfinder.com/data/icons/editorial-darkmode/24/editorial_html-1024.png" height=35 title="Devfolio" alt="Devfolio"></a>&nbsp &nbsp &nbsp
-  <a href = "https://madhurimarawat.github.io/CodeCulture-Daily/"><img src = "https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35 title="CodeCulture" alt="CodeCulture"></a>
-&nbsp &nbsp &nbsp
-  <a href = "https://madhurimarawat.github.io/Madhurima-Mindscape/"><img src = "https://github.com/madhurimarawat/Madhurima-Mindscape/blob/main/images/Logo.png" height=35 title="Madhurima Mindscape" alt="Madhurima Mindscape"></a>
+    <a href="https://www.linkedin.com/in/madhurima-rawat/"><img
+            src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" title="LinkedIn Profile"
+            height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
+    <a href="https://www.hackerrank.com/rawatmadhurima4"><img
+            src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile"
+            height=35 alt="HackerRank"></a> &nbsp &nbsp &nbsp
+    <a href="https://alison.com/profile/31860447"><img src="https://www.mooclab.club/showcase/alison.50/cover-image"
+            title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
+    <a href="https://linktr.ee/madhurima_rawat"><img
+            src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35
+            title="Link Tree Profile" alt="Link Tree Logo"></a>&nbsp &nbsp &nbsp
+    <a href="https://madhurimarawat.github.io/Portfolio-Website/"><img
+            src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62"
+            height=35 title="Portfolio Website" alt="Portfolio Website"></a>&nbsp &nbsp &nbsp
+    <a href="https://madhurima-devfolio.streamlit.app/"><img
+            src="https://cdn0.iconfinder.com/data/icons/editorial-darkmode/24/editorial_html-1024.png" height=35
+            title="Devfolio" alt="Devfolio"></a>&nbsp &nbsp &nbsp
+    <a href="https://in.pinterest.com/rawatmadhurima4/" class="link" target="_blank" title="Pinterest Profile"
+        alt="Pinterest Logo"><img
+            src="https://cdn.freebiesupply.com/logos/large/2x/pinterest-1-logo-png-transparent.png"
+            title="Pinterest Profile" alt="Pinterest Logo" height=35></a> &nbsp &nbsp &nbsp
+    <a href="https://medium.com/@rawatmadhurima4" class="link" target="_blank" title="Medium Profile"
+        alt="Medium Logo"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"
+            title="Medium Profile" alt="Medium Logo" height=35></a> &nbsp &nbsp &nbsp
+    <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
+            src="https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35
+            title="CodeCulture" alt="CodeCulture"></a>
+    &nbsp &nbsp &nbsp
+    <a href="https://madhurimarawat.github.io/Madhurima-Mindscape/"><img
+            src="https://github.com/madhurimarawat/Madhurima-Mindscape/blob/main/images/Logo.png" height=35
+            title="Madhurima Mindscape" alt="Madhurima Mindscape"></a>
 
 </p>
 
