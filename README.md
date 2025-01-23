@@ -157,6 +157,10 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Learning-Codacy">  <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" title="Codacy" alt="Codacy" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/madhurimarawat/Learning-CodeFactor">  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor" alt="CodeFactor" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Data-Warehousing">  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-warehouse-2545030-2127854.png" title="Data Warehouse" alt="Data Warehouse" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Cloud-Computing">  <img src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default" title="Localstack" alt="Localstack" width="40" height="40"/> </a>
 
 </p>
 
