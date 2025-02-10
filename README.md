@@ -25,7 +25,7 @@
     <a href="https://alison.com/profile/31860447"><img src="https://www.mooclab.club/showcase/alison.50/cover-image"
             title='Alison Profile' height=35 alt="Alison Logo"></a> &nbsp &nbsp &nbsp
     <a href="https://linktr.ee/madhurima_rawat"><img
-            src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height=35
+            src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Symbol-500x281.png" height=35
             title="Link Tree Profile" alt="Link Tree Logo"></a>&nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/Portfolio-Website/"><img
             src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/7e15991f-a739-4e06-82e3-a863ac9bff62"
@@ -37,10 +37,14 @@
         alt="Pinterest Logo"><img
             src="https://cdn.freebiesupply.com/logos/large/2x/pinterest-1-logo-png-transparent.png"
             title="Pinterest Profile" alt="Pinterest Logo" height=35></a> &nbsp &nbsp &nbsp
+    <a href="https://dev.to/madhurima_rawat" class="link" target="_blank" title="Dev Profile"
+        alt="Dev Logo"><img
+            src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"
+            title="Dev Profile" alt="Dev Logo" height=35></a>   &nbsp &nbsp &nbsp
     <a href="https://medium.com/@rawatmadhurima4" class="link" target="_blank" title="Medium Profile"
         alt="Medium Logo"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"
             title="Medium Profile" alt="Medium Logo" height=35></a> &nbsp &nbsp &nbsp
-  <a href="https://discord.gg/2keX4qAD" class="link" target="_blank" title="Discord Server"
+  <a href="https://discord.gg/ezhWErYUkt" class="link" target="_blank" title="Discord Server"
         alt="Discord Logo"><img src="https://www.svgrepo.com/download/431578/discord.svg"
             title="Discord Server" alt="Discord Logo" height=35></a> &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
