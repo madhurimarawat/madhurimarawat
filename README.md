@@ -40,6 +40,9 @@
     <a href="https://medium.com/@rawatmadhurima4" class="link" target="_blank" title="Medium Profile"
         alt="Medium Logo"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"
             title="Medium Profile" alt="Medium Logo" height=35></a> &nbsp &nbsp &nbsp
+  <a href="https://discord.gg/2keX4qAD" class="link" target="_blank" title="Discord Server"
+        alt="Discord Logo"><img src="https://www.svgrepo.com/download/431578/discord.svg"
+            title="Discord Server" alt="Discord Logo" height=35></a> &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
             src="https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35
             title="CodeCulture" alt="CodeCulture"></a>
@@ -160,7 +163,11 @@ Click on the icon to see the associated repository
 &nbsp;
 <a href="https://github.com/madhurimarawat/Data-Warehousing">  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-warehouse-2545030-2127854.png" title="Data Warehouse" alt="Data Warehouse" width="40" height="40"/> </a>
 &nbsp;
+<a href="https://github.com/madhurimarawat/Data-Warehousing">  <img src="https://www.pngmart.com/files/23/Snowflake-Logo-PNG-Transparent.png" title="Snowflake" alt="Snowflake" width="40" height="40"/> </a>
+&nbsp;
 <a href="https://github.com/madhurimarawat/Cloud-Computing">  <img src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default" title="Localstack" alt="Localstack" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/madhurimarawat/Cloud-Computing">  <img src="https://docker.awsworkshop.io/images/Moby-logo.png" title="Docker" alt="Docker" width="40" height="40"/> </a>
 
 </p>
 
