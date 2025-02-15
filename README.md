@@ -92,7 +92,7 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/> </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;
 <a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://pngimg.com/uploads/php/php_PNG35.png" title="PHP" alt="PHP" width="40" height="40"/>  </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Ruby-Programming"  ><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" title="Ruby" alt="Ruby" width="40" height="40"/>  </a> &nbsp;
+<a href="https://github.com/madhurimarawat/Ruby-Programming"  ><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ruby-programming-language-icon.png" title="Ruby" alt="Ruby" width="40" height="40"/>  </a> &nbsp;
   <a href="https://github.com/madhurimarawat/Scratch-Programming"><img src="https://lh5.googleusercontent.com/proxy/L6T7lVGLZ38PRbqZnYRDpOh4duEaQFa5uflTN_MaqLp9wvq2x6W7ezFVcJ8nt-bhaUp1ipBetVMXdodaX3lv=s0-d" title="Scratch" alt="Scratch" width="40" height="40" ></a> &nbsp;
   <a href="https://github.com/madhurimarawat/Java-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" ></a>
 </p>
@@ -161,7 +161,7 @@ Click on the icon to see the associated repository
 &nbsp;
 <a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/madhurimarawat/Learning-Codacy">  <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" title="Codacy" alt="Codacy" width="40" height="40"/> </a>
+<a href="https://github.com/madhurimarawat/Learning-Codacy">  <img src="https://iconape.com/wp-content/files/sq/370716/svg/codacy-logo-icon-png-svg.png" title="Codacy" alt="Codacy" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/madhurimarawat/Learning-CodeFactor">  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor" alt="CodeFactor" width="40" height="40"/> </a>
 &nbsp;
@@ -180,7 +180,7 @@ Click on the icon to see the associated repository
 <p>
   <a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40"> </a> &nbsp;
   <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask API" alt="Flask API" width="40" height="40"></a>&nbsp;
-  <a href="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/tree/main"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40"></a>
+  <a href="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/tree/main"><img src="https://miro.medium.com/v2/resize:fit:628/1*MpZGG5oPHVFlFDTu4b_1IA.png" title="Streamlit" alt="Streamlit" width="40" height="40"></a>
 </p>
 
 ### 📊 &nbsp; Web Services :
