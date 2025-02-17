@@ -83,112 +83,97 @@ Click on the icon to see the associated repository
 
 ### 📚 &nbsp;Languages :
 <br>
-<p>
-<a href="https://github.com/madhurimarawat/Data-structure-using-C"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Language" width="40" height="40"></a>&nbsp;
-<a href="https://github.com/madhurimarawat/Object-oriented-programming-with-c-plus-plus"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ Language" alt="C++ Language" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Analysis-and-Design-of-Algorithm-using-python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> </a>&nbsp;
-<a href="https://github.com/madhurimarawat/R-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://pngimg.com/uploads/php/php_PNG35.png" title="PHP" alt="PHP" width="40" height="40"/>  </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Ruby-Programming"  ><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ruby-programming-language-icon.png" title="Ruby" alt="Ruby" width="40" height="40"/>  </a> &nbsp;
-  <a href="https://github.com/madhurimarawat/Scratch-Programming"><img src="https://lh5.googleusercontent.com/proxy/L6T7lVGLZ38PRbqZnYRDpOh4duEaQFa5uflTN_MaqLp9wvq2x6W7ezFVcJ8nt-bhaUp1ipBetVMXdodaX3lv=s0-d" title="Scratch" alt="Scratch" width="40" height="40" ></a> &nbsp;
-  <a href="https://github.com/madhurimarawat/Java-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" ></a>
-</p>
+
+<p>  
+<a href="https://github.com/madhurimarawat/Data-structure-using-C"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C - Low-level programming language for system development" alt="C Language" width="40" height="40"></a>&nbsp;  
+<a href="https://github.com/madhurimarawat/Object-oriented-programming-with-c-plus-plus"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ - Object-oriented language for software development" alt="C++ Language" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Analysis-and-Design-of-Algorithm-using-python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python - General-purpose language for data science and web development" alt="Python" width="40" height="40"></a>&nbsp;  
+<a href="https://github.com/madhurimarawat/R-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R - Statistical computing and data analysis" alt="R" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS - Styling language for web design" alt="CSS" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML - Markup language for structuring web content" alt="HTML" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript - Scripting language for dynamic web applications" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://pngimg.com/uploads/php/php_PNG35.png" title="PHP - Server-side scripting language for web development" alt="PHP" width="40" height="40"/>  </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Ruby-Programming"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ruby-programming-language-icon.png" title="Ruby - Dynamic programming language for web applications" alt="Ruby" width="40" height="40"/>  </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Scratch-Programming"><img src="https://lh5.googleusercontent.com/proxy/L6T7lVGLZ38PRbqZnYRDpOh4duEaQFa5uflTN_MaqLp9wvq2x6W7ezFVcJ8nt-bhaUp1ipBetVMXdodaX3lv=s0-d" title="Scratch - Visual programming language for beginners" alt="Scratch" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Java-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java - High-level programming language for enterprise applications" alt="Java" width="40" height="40"></a>  
+</p>  
 
 ### 📑 &nbsp;Frameworks & Libraries :
 <br>
-<p>
-<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="numpy" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Python-for-Datascience">  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="To See Repository Visit: https://github.com/madhurimarawat/Python-for-Datascience" alt="Matplotlib" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Data-Visualization-using-python"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python">  <img src="https://github.com/rasbt/mlxtend/raw/master/docs/sources/img/logo.png" title="Mlxtend" alt="Mlxtend" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python">  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/822844e1-0285-49a8-b8a9-078ff069c2d1" title="Pickle" alt="Pickle" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python">  <img src="https://i.gyazo.com/0b29c28bab26d0302b01de863091c93a.png" title="Joblib" alt="Joblib" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/R-Projects"> <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="To See Repository Visit: https://github.com/madhurimarawat/R-Projects" alt="ggplot2 Logo" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"> </a>  &nbsp;
-  <a href = "https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="Natural Language Processing Toolkit" alt="NLTK" width="40" height="40" ></a> &nbsp;
-  <a href = "https://github.com/madhurimarawat/Web-Scrapper-Functions"><img src = "https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests Library" alt="Requests" width="40" height="40" ></a>
-  &nbsp;
-  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest Library" alt="Pytest" width="40" height="40" ></a>
-   &nbsp;
-  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://blackfennec.org/images/sphinx.png" title="Sphinx Library" alt="Sphinx" width="40" height="40" ></a>
-   &nbsp;
-  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://avatars.githubusercontent.com/u/109019481?s=280&v=4" title="MkDocs Library" alt="MkDocs" width="40" height="40" ></a>
-  &nbsp;
-  <a href = "https://github.com/madhurimarawat/Software-Engineering"><img src = "https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png" title="PDoc Library" alt="PDoc" width="40" height="40" ></a>
-   &nbsp;
-  <a href = "https://github.com/madhurimarawat/CSVTU-GPT"><img src = "https://www.taccorgaming.co.za/wp-content/uploads/2015/02/Fuzzy-Logic-Blue-Transparent.png" title="Fuzzywuzzy Library" alt="Fuzzywuzzy" width="40" height="40" ></a>
-</p>
+
+<p>  
+<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy - Library for numerical computing in Python" alt="NumPy" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas - Data manipulation and analysis library in Python" alt="Pandas" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib - Visualization library for Python" alt="Matplotlib" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Data-Visualization-using-python"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn - Statistical data visualization library" alt="Seaborn" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit Learn - Machine learning library in Python" alt="Scikit Learn" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://github.com/rasbt/mlxtend/raw/master/docs/sources/img/logo.png" title="Mlxtend - Extension library for Scikit-Learn" alt="Mlxtend" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/822844e1-0285-49a8-b8a9-078ff069c2d1" title="Pickle - Object serialization module in Python" alt="Pickle" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://i.gyazo.com/0b29c28bab26d0302b01de863091c93a.png" title="Joblib - Library for efficient Python object persistence" alt="Joblib" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/R-Projects"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 - Data visualization package for R" alt="ggplot2" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap - Frontend framework for responsive web design" alt="Bootstrap" width="40" height="40"></a>  &nbsp;  
+<a href="https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="NLTK - Natural Language Processing toolkit in Python" alt="NLTK" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Web-Scrapper-Functions"><img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests - HTTP library for making API calls in Python" alt="Requests" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest - Testing framework for Python" alt="Pytest" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://blackfennec.org/images/sphinx.png" title="Sphinx - Documentation generator for Python projects" alt="Sphinx" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://avatars.githubusercontent.com/u/109019481?s=280&v=4" title="MkDocs - Static site generator for project documentation" alt="MkDocs" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png" title="PDoc - Python API documentation generator" alt="PDoc" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/CSVTU-GPT"><img src="https://www.taccorgaming.co.za/wp-content/uploads/2015/02/Fuzzy-Logic-Blue-Transparent.png" title="FuzzyWuzzy - Library for fuzzy string matching in Python" alt="FuzzyWuzzy" width="40" height="40"></a>  
+</p>  
 
 ### 💻 &nbsp;Databases :
 <br>
-<p>
-<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"> </a> &nbsp;
- <a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB"  alt="InfluxDB" width="40" height="40"> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Hive" alt="Hive" width="40" height="40"/> </a>
-</p>
+
+<p>  
+<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL - Open-source relational database management system" alt="MySQL" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB - Time series database optimized for high performance" alt="InfluxDB" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Apache Hive - Data warehouse infrastructure for querying large datasets" alt="Hive" width="40" height="40"/> </a>  
+</p>  
 
 ### 🌟 &nbsp; Technology and Tools :
 <br>
-<p>
-<a href="https://github.com/madhurimarawat/Learning-Programming-Concepts-With-C">  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Python-for-Datascience">  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"></a>  &nbsp;
-<a href="https://github.com/madhurimarawat/Data-Visualization-using-python">  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/R-for-Datascience"> <img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="R Studio" alt="R Studio" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"  <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a>  &nbsp;
-<a href="https://github.com/madhurimarawat/Programming-in-PHP">  <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Library-Management-System"> <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Ruby-Programming">  <img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;
-<a href="https://github.com/madhurimarawat/Stock-Market-Prediction">  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://madhurimarawat.github.io/Semester-Notes/Astyle-Commands.html">  <img src="https://1000logos.net/wp-content/uploads/2022/11/A-Style-Logo-500x281.png" title="Astyle" alt="Astyle" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Learning-Git">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Learning-GitHub-Actions-CI">  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Learning-Travis-CI">  <img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-original.svg" title="Travis" alt="Travis" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://madhurimarawat.github.io/Semester-Notes/Hadoop-Commands.html">  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://clipground.com/images/kafka-logo-1.png" title="Kafka" alt="Kafka" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Big-Data-Analytics">  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Learning-Codacy">  <img src="https://iconape.com/wp-content/files/sq/370716/svg/codacy-logo-icon-png-svg.png" title="Codacy" alt="Codacy" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Learning-CodeFactor">  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor" alt="CodeFactor" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Data-Warehousing">  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-warehouse-2545030-2127854.png" title="Data Warehouse" alt="Data Warehouse" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Data-Warehousing">  <img src="https://www.pngmart.com/files/23/Snowflake-Logo-PNG-Transparent.png" title="Snowflake" alt="Snowflake" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Cloud-Computing">  <img src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default" title="Localstack" alt="Localstack" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/madhurimarawat/Cloud-Computing">  <img src="https://docker.awsworkshop.io/images/Moby-logo.png" title="Docker" alt="Docker" width="40" height="40"/> </a>
-
-</p>
+ 
+<p>  
+<a href="https://github.com/madhurimarawat/Learning-Programming-Concepts-With-C"><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC - GNU Compiler Collection for C, C++, and more" alt="GCC" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter - Interactive notebook for data science and research" alt="Jupyter" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda - Python and R distribution for data science" alt="Anaconda" width="40" height="40"></a>  &nbsp;  
+<a href="https://github.com/madhurimarawat/Data-Visualization-using-python"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab - Cloud-based Jupyter notebook environment" alt="Google Colab" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/R-for-Datascience"><img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="RStudio - IDE for R programming and statistical computing" alt="RStudio" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm - IDE for Python development" alt="PyCharm" width="40" height="40"></a>  &nbsp;  
+<a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code - Lightweight code editor with debugging and Git integration" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++ - Open-source text and source code editor" alt="Notepad++" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Ruby-Programming"><img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE - IDE for dynamic programming languages" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana - Open-source analytics and monitoring platform" alt="Grafana" width="40" height="40"/> </a> &nbsp;  
+<a href="https://madhurimarawat.github.io/Semester-Notes/Astyle-Commands.html"><img src="https://1000logos.net/wp-content/uploads/2022/11/A-Style-Logo-500x281.png" title="Astyle - Source code formatter for C, C++, Java" alt="Astyle" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Learning-Git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git - Distributed version control system" alt="Git" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Learning-GitHub-Actions-CI"><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions - CI/CD automation for GitHub projects" alt="GitHub Actions" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Learning-Travis-CI"><img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-original.svg" title="Travis CI - Continuous integration and deployment" alt="Travis CI" width="40" height="40"/> </a> &nbsp;  
+<a href="https://madhurimarawat.github.io/Semester-Notes/Hadoop-Commands.html"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop - Big data framework for distributed storage and processing" alt="Hadoop" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://clipground.com/images/kafka-logo-1.png" title="Apache Kafka - Distributed event streaming platform" alt="Kafka" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark - Unified analytics engine for big data processing" alt="Spark" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Learning-Codacy"><img src="https://iconape.com/wp-content/files/sq/370716/svg/codacy-logo-icon-png-svg.png" title="Codacy - Automated code review and quality analysis" alt="Codacy" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Learning-CodeFactor"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253620/codefactor-icon-icon-sm.png" title="CodeFactor - Automated code analysis for quality improvement" alt="CodeFactor" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Data-Warehousing"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-warehouse-2545030-2127854.png" title="Data Warehouse - Centralized data storage for analytics" alt="Data Warehouse" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Data-Warehousing"><img src="https://www.pngmart.com/files/23/Snowflake-Logo-PNG-Transparent.png" title="Snowflake - Cloud-based data warehousing service" alt="Snowflake" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Cloud-Computing"><img src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default" title="LocalStack - AWS cloud service emulator" alt="LocalStack" width="40" height="40"/> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Cloud-Computing"><img src="https://docker.awsworkshop.io/images/Moby-logo.png" title="Docker - Containerization platform for applications" alt="Docker" width="40" height="40"/> </a>  
+</p>  
 
 ### 🌐 &nbsp; Web Servers :
 <br>
-<p>
-  <a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP Server" alt="XAMPP Server" width="40" height="40"> </a> &nbsp;
-  <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask API" alt="Flask API" width="40" height="40"></a>&nbsp;
-  <a href="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/tree/main"><img src="https://miro.medium.com/v2/resize:fit:628/1*MpZGG5oPHVFlFDTu4b_1IA.png" title="Streamlit" alt="Streamlit" width="40" height="40"></a>
-</p>
+
+<p>  
+<a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP - Local web server for PHP and MySQL" alt="XAMPP Server" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask - Lightweight Python web framework for APIs and applications" alt="Flask API" width="40" height="40"></a>&nbsp;  
+<a href="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/tree/main"><img src="https://miro.medium.com/v2/resize:fit:628/1*MpZGG5oPHVFlFDTu4b_1IA.png" title="Streamlit - Python framework for building interactive data applications" alt="Streamlit" width="40" height="40"></a>  
+</p> 
 
 ### 📊 &nbsp; Web Services :
 <br>
-<p>
-<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"></a>
-  
-</p>
+
+<p>  
+<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify - Cloud platform for deploying and hosting websites" alt="Netlify" width="40" height="40"></a>  
+</p>  
 
 </details>
 
