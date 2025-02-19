@@ -1,0 +1,58 @@
+# ================================================================
+#  GitHub Actions Workflow: Update Joke in README
+# ================================================================
+#  🔹 This workflow automatically updates the **Joke of the Day**  
+#     section in `README.md` with a random joke from `jokes.json`.
+#
+#  ✅ Runs **daily at 12:00 AM UTC** to refresh the joke.
+#  ✅ Can be manually triggered from the GitHub Actions UI.
+#  
+#  📌 Steps:
+#  1️⃣ Checks out the repository.
+#  2️⃣ Picks a **random joke** from `jokes.json`.
+#  3️⃣ Updates the **Joke of the Day** section in `README.md`.
+#  4️⃣ Commits and pushes the updated README.md file.
+#
+#  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
+# ================================================================
+
+name: Update Joke in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # ✅ Runs **daily at 12:00 AM UTC**
+  workflow_dispatch:       # ✅ Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions: write-all  # ✅ Required to push updates
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # ✅ Clones the repository
+
+      - name: Select a Random Joke
+        id: joke_picker
+        run: |
+          # ✅ Picks a random joke from `jokes.json`
+          JOKE=$(jq -r '.[]' jokes.json | shuf -n 1)
+
+          # ✅ Store the joke in GitHub Actions environment
+          echo "JOKE=$JOKE" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          # ✅ Replaces the section between JOKE markers with the new joke
+          sed -i '/<!-- JOKE-SECTION-START -->/,/<!-- JOKE-SECTION-END -->/c\<!-- JOKE-SECTION-START -->\n**😂 Joke of the Day:**\n> '"$JOKE"'\n<!-- JOKE-SECTION-END -->' README.md
+
+      - name: Commit & Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub token for authentication
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          
+          git add README.md
+          git commit -m "Updated Joke of the Day 😂" || exit 0
+          git push origin main

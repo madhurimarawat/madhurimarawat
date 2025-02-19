@@ -1,0 +1,52 @@
+# ================================================================
+#  GitHub Actions Workflow: Update README with Latest Blog Posts
+# ================================================================
+#  🔹 This workflow automatically updates the README.md file with  
+#     the latest blog posts from **Dev.to**.
+#
+#  ✅ Runs **weekly (every Monday at 00:00 UTC)** to reduce API calls.
+#  ✅ Can be manually triggered from the GitHub Actions UI.
+#  ✅ Uses **gautamkrishnar/blog-post-workflow** action to fetch posts.
+#  
+#  📌 Steps:
+#  1️⃣ Checks out the repository.
+#  2️⃣ Fetches the latest blog posts from **Dev.to RSS Feed**.
+#  3️⃣ Updates the README.md file dynamically.
+#  4️⃣ Commits and pushes the changes to the repository.
+#
+#  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
+# ================================================================
+
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # ✅ Runs **weekly** every Monday at 00:00 UTC
+  workflow_dispatch:       # ✅ Allows manual trigger
+
+permissions:
+  contents: write # ✅ Required to update README.md
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # ✅ Clones the repository
+
+      - name: Fetch Latest Dev.to Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/madhurima_rawat" # ✅ Fetches latest posts from your Dev.to profile
+
+      - name: Commit & Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # ✅ Uses GitHub token for authentication
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated latest blog posts" || exit 0
+          git push origin main
