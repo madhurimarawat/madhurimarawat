@@ -291,7 +291,7 @@ During this program, I developed expertise in creating ML models and contributed
 
  </details>
 
- <details>
+ <details open>
    <summary> <h2>🚀💡 &nbsp; Latest from Me : </h2></summary>
 <br>
 
