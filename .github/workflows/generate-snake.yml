@@ -1,67 +1,63 @@
 # ================================================================
 #  GitHub Actions Workflow: Generate Snake Contribution Graph
 # ================================================================
-#  🔹 Generates an animated graph where a snake "eats" your GitHub contributions.
-#  🔹 Saves the generated animation to GitHub Pages.
-#  
-#  ✅ Runs **every 12 hours** (twice a day).
-#  ✅ Can be manually triggered from the GitHub Actions UI.
-#  ✅ Runs on every push to the `main` branch.
-#  
-#  🚀 Uses GitHub’s **deploy-pages@v2** for automatic deployment.
+#  🔹 Generates an animated snake that "eats" your GitHub contributions.
+#  🔹 Saves the generated animation to the `output` branch.
+#
+#  ✅ Runs automatically **every 12 hours** (twice a day).
+#  ✅ Can be **manually triggered** from the GitHub Actions UI.
+#  ✅ Runs on **every push** to the `main` branch.
+#
+#  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
 # ================================================================
 
 name: Generate Snake
 
-# 🔥 Trigger Conditions
+# 🕒 Controls when the action will run
 on:
   schedule:
-    - cron: "0 */12 * * *"  # ✅ Runs automatically every 12 hours (midnight, noon, etc.)
-  workflow_dispatch:  # ✅ Allows manual trigger from GitHub Actions UI
+    - cron: "0 */12 * * *"  # ✅ Runs every **12 hours**
+  
+  workflow_dispatch:  # ✅ Allows manual execution from GitHub Actions UI
+
   push:
     branches:
-      - main  # ✅ Runs on every push to the main branch
+      - main  # ✅ Runs **whenever there's a push** to the `main` branch
 
-# 🔒 Define required permissions for GitHub Actions
-permissions:
-  contents: write  # ✅ Allows pushing changes to the repo
-  pages: write  # ✅ Grants permission to deploy to GitHub Pages
-  id-token: write  # ✅ Required for authentication during deployment
-
+# 🏗️ The sequence of jobs in this workflow:
 jobs:
+  # This workflow contains a single job called "build"
   build:
-    runs-on: ubuntu-latest  # ✅ Runs the job on the latest Ubuntu runner
+    runs-on: ubuntu-latest  # ✅ Runs on the latest Ubuntu virtual machine
 
     steps:
       # Step 1️⃣: Clone the repository
       - name: Clone Repository
-        uses: actions/checkout@v4  # ✅ Fetches the latest code from the repo
+        uses: actions/checkout@v3  # ✅ Fetches the latest code from `main` branch
 
-      # Step 2️⃣: Generate the Snake animation
-      - name: Generate Snake Contribution Graph
-        uses: Platane/snk@v3.0.0  # ✅ Uses the latest stable version of the action
+      # Step 2️⃣: Generate the Snake Contribution Graph
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3  # ✅ Uses the latest version of the Snake action
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}  # ✅ Uses repository owner's username
-          outputs: |
+          github_user_name: ${{ github.repository_owner }}  # ✅ Uses repository owner’s username
+          outputs: |  # ✅ Generates multiple output formats
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub's built-in token
 
-      # Step 3️⃣: Upload generated artifacts for GitHub Pages
-      - name: Upload Artifacts
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: dist  # ✅ Uploads generated snake graph files to GitHub Pages artifacts
+      # Step 3️⃣: Show the build status
+      - name: Display Build Status
+        run: git status  # ✅ Shows the status of generated files
 
-  deploy:
-    runs-on: ubuntu-latest  # ✅ Runs deployment job on Ubuntu
-    needs: build  # ✅ Ensures build job is completed before deployment
-    permissions:
-      pages: write  # ✅ Allows writing to GitHub Pages
-      id-token: write  # ✅ Grants authentication permissions
-
-    steps:
-      # Step 4️⃣: Deploy generated Snake graph to GitHub Pages
+      # Step 4️⃣: Push the generated files to the output branch
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2  # ✅ Uses GitHub's official deployment action
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # ✅ Latest stable version
+        with:
+          target_branch: output  # ✅ Stores the animation files in the `output` branch
+          build_dir: dist  # ✅ Specifies the directory where generated files are stored
+          commit_message: "Updated Snake animation"  # ✅ Commit message for updates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub's built-in token
