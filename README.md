@@ -297,6 +297,13 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
+### 🚀 Latest GitHub Repository
+**📦 Latest Repo:**  [portfolio-ideas]($LATEST_REPO_URL)
+**📝 Description:** A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
+
+### ⭐ Most Starred Repository
+**📌 Top Repo:**  [Semester-Notes]($TOP_REPO_URL)
+**📝 Description:** This repository includes academic notes, study materials, and resources from B.Tech (Hons) in CSE, specializing in Artificial Intelligence and Data Science. It features question papers, proprietary study guides, and resources to support learning in these fields.
 <!-- REPO-SECTION-END -->
 
 ### ✍️ Dev Articles :  
