@@ -1,0 +1,93 @@
+# ================================================================
+#  GitHub Actions Workflow: Update GitHub Repository Info
+# ================================================================
+#  🔹 This workflow updates the latest created repository and the most starred repository  
+#     in the README.md file automatically.
+#
+#  ✅ Runs daily at midnight (00:00 UTC).
+#  ✅ Can be manually triggered from GitHub Actions UI.
+#
+#  📌 Steps:
+#  1️⃣ Fetches the latest created repository.
+#  2️⃣ Fetches the most starred repository.
+#  3️⃣ Updates the README.md file with the fetched information.
+#  4️⃣ Commits and pushes the updated README.md file back to the repository.
+#
+#  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
+# ================================================================
+
+name: Update GitHub Repository Info
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # ✅ Runs daily at midnight (00:00 UTC)
+  workflow_dispatch:  # ✅ Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions: write-all  # ✅ Allows GitHub Actions to push changes
+
+    steps:
+      # Step 1️⃣: Clone the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2️⃣: Fetch Latest Created Repository
+      - name: Fetch Latest Repository
+        id: latest_repo
+        run: |
+          echo "Fetching latest created repository..."
+          API_RESPONSE=$(curl -s "https://api.github.com/users/madhurimarawat/repos?sort=created&per_page=1")
+
+          REPO_NAME=$(echo "$API_RESPONSE" | jq -r '.[0].name // "No repository found"')
+          REPO_DESC=$(echo "$API_RESPONSE" | jq -r '.[0].description // "No description provided."')
+          REPO_URL=$(echo "$API_RESPONSE" | jq -r '.[0].html_url // "#"')
+
+          echo "Latest Repo: $REPO_NAME ($REPO_URL)"
+          echo "LATEST_REPO_NAME=$REPO_NAME" >> $GITHUB_ENV
+          echo "LATEST_REPO_DESC=$REPO_DESC" >> $GITHUB_ENV
+          echo "LATEST_REPO_URL=$REPO_URL" >> $GITHUB_ENV
+
+      # Step 3️⃣: Fetch Most Starred Repository
+      - name: Fetch Top Starred Repository
+        id: top_repo
+        run: |
+          echo "Fetching top starred repository..."
+          API_RESPONSE=$(curl -s "https://api.github.com/users/madhurimarawat/repos?per_page=100")
+
+          TOP_REPO=$(echo "$API_RESPONSE" | jq -r '[.[] | select(.stargazers_count > 0) | {name, description, html_url, stars: .stargazers_count}] | max_by(.stars)')
+
+          TOP_REPO_NAME=$(echo "$TOP_REPO" | jq -r '.name // "No repository found"')
+          TOP_REPO_DESC=$(echo "$TOP_REPO" | jq -r '.description // "No description provided."')
+          TOP_REPO_URL=$(echo "$TOP_REPO" | jq -r '.html_url // "#"')
+
+          echo "Top Repo: $TOP_REPO_NAME ($TOP_REPO_URL)"
+          echo "TOP_REPO_NAME=$TOP_REPO_NAME" >> $GITHUB_ENV
+          echo "TOP_REPO_DESC=$TOP_REPO_DESC" >> $GITHUB_ENV
+          echo "TOP_REPO_URL=$TOP_REPO_URL" >> $GITHUB_ENV
+
+      # Step 4️⃣: Update README.md with New Information
+      - name: Update README.md
+        run: |
+          echo "Updating README.md..."
+          sed -i '/<!-- REPO-SECTION-START -->/,/<!-- REPO-SECTION-END -->/c\<!-- REPO-SECTION-START -->\n'\
+          '### 🚀 Latest GitHub Repository\n'\
+          '**📦 Latest Repo:**  ['$LATEST_REPO_NAME']($LATEST_REPO_URL)\n'\
+          '**📝 Description:** '"$LATEST_REPO_DESC"'\n\n'\
+          '### ⭐ Most Starred Repository\n'\
+          '**📌 Top Repo:**  ['$TOP_REPO_NAME']($TOP_REPO_URL)\n'\
+          '**📝 Description:** '"$TOP_REPO_DESC"'\n'\
+          '<!-- REPO-SECTION-END -->' README.md
+
+      # Step 5️⃣: Commit & Push Changes to GitHub
+      - name: Commit & Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub's built-in token
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add README.md
+          git commit -m "Updated repository info (latest repo & most starred repo)" || exit 0
+          git push origin main
