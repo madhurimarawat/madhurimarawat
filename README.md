@@ -297,19 +297,10 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
-#### 🚀 Latest GitHub Repository
-**📦 Latest Repo:**  [portfolio-ideas]($LATEST_REPO_URL)
-**📝 Description:** A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
-
-#### ⭐ Most Starred Repository
-**📌 Top Repo:**  [Semester-Notes]($TOP_REPO_URL)
-**📝 Description:** This repository includes academic notes, study materials, and resources from B.Tech (Hons) in CSE, specializing in Artificial Intelligence and Data Science. It features question papers, proprietary study guides, and resources to support learning in these fields.
 <!-- REPO-SECTION-END -->
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Interactive Guide to File Extensions: Descriptions &amp; Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
-- [CodeCulture Daily](https://dev.to/madhurima_rawat/codeculture-daily-16m0)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -339,7 +330,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
->   "Interns don’t get sick days. They just get 'learning opportunities' in the form of burnout. 🔥😓",
+>  
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
