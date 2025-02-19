@@ -72,10 +72,10 @@ jobs:
         run: |
           echo "Updating README.md..."
           sed -i '/<!-- REPO-SECTION-START -->/,/<!-- REPO-SECTION-END -->/c\<!-- REPO-SECTION-START -->\n'\
-          '### 🚀 Latest GitHub Repository\n'\
+          '#### 🚀 Latest GitHub Repository\n'\
           '**📦 Latest Repo:**  ['$LATEST_REPO_NAME']($LATEST_REPO_URL)\n'\
           '**📝 Description:** '"$LATEST_REPO_DESC"'\n\n'\
-          '### ⭐ Most Starred Repository\n'\
+          '#### ⭐ Most Starred Repository\n'\
           '**📌 Top Repo:**  ['$TOP_REPO_NAME']($TOP_REPO_URL)\n'\
           '**📝 Description:** '"$TOP_REPO_DESC"'\n'\
           '<!-- REPO-SECTION-END -->' README.md
