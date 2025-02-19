@@ -35,8 +35,8 @@ jobs:
       - name: Select a Random Joke
         id: joke_picker
         run: |
-          # ✅ Picks a random joke from `jokes.json`
-          JOKE=$(jq -r '.[]' jokes.json | shuf -n 1)
+          # ✅ Picks a random joke from `jokes.json` and removes surrounding quotes
+          JOKE=$(jq -r '.jokes[]' jokes.json | shuf -n 1 | sed 's/^"\|"$//g')
 
           # ✅ Store the joke in GitHub Actions environment
           echo "JOKE=$JOKE" >> $GITHUB_ENV
