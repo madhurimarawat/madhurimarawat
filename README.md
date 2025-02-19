@@ -188,6 +188,16 @@ Click on the icon to see the associated repository
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula) &nbsp; &nbsp; &nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula) 
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 </details>
 
 <!-- Profile trophies -->
@@ -281,6 +291,20 @@ During this program, I developed expertise in creating ML models and contributed
 
  </details>
 
+ <details>
+   <summary> <h2>🚀💡 &nbsp; Latest from Me : </h2></summary>
+<br>
+
+### 🐙 GitHub Repositories :  
+<!-- REPO-SECTION-START -->
+<!-- REPO-SECTION-END -->
+
+### ✍️ Dev Articles :  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
 <!-- Just some coding stuff 😆 --> 
 <details open>
   <summary><h2>✍️🐍 &nbsp; Starry Signature ✨</h2></summary>
@@ -303,6 +327,12 @@ During this program, I developed expertise in creating ML models and contributed
 <!-- Last section -->
 <details open>
 <summary><h2> ✨&nbsp; Have a Nice Day :</h2></summary>
+ 
+<!-- JOKE-SECTION-START -->
+**😂 Joke of the Day:**
+> 
+<!-- JOKE-SECTION-END -->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/madhurimarawat/count.svg" />
