@@ -2,57 +2,66 @@
 #  GitHub Actions Workflow: Generate Snake Contribution Graph
 # ================================================================
 #  🔹 Generates an animated graph where a snake "eats" your GitHub contributions.
-#  🔹 Saves the generated animation to the `github-pages` branch.
+#  🔹 Saves the generated animation to GitHub Pages.
 #  
-#  ✅ Runs automatically every 12 hours (twice a day).
-#  ✅ Can be manually triggered from GitHub Actions UI.
+#  ✅ Runs **every 12 hours** (twice a day).
+#  ✅ Can be manually triggered from the GitHub Actions UI.
 #  ✅ Runs on every push to the `main` branch.
 #  
-#  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
+#  🚀 Uses GitHub’s **deploy-pages@v2** for automatic deployment.
 # ================================================================
 
 name: Generate Snake
 
+# 🔥 Trigger Conditions
 on:
   schedule:
-    - cron: "0 */12 * * *"  # ✅ Runs every 12 hours (midnight, noon, etc.)
+    - cron: "0 */12 * * *"  # ✅ Runs automatically every 12 hours (midnight, noon, etc.)
   workflow_dispatch:  # ✅ Allows manual trigger from GitHub Actions UI
   push:
     branches:
       - main  # ✅ Runs on every push to the main branch
 
+# 🔒 Define required permissions for GitHub Actions
+permissions:
+  contents: write  # ✅ Allows pushing changes to the repo
+  pages: write  # ✅ Grants permission to deploy to GitHub Pages
+  id-token: write  # ✅ Required for authentication during deployment
+
 jobs:
   build:
-    runs-on: ubuntu-latest  # ✅ Uses the latest Ubuntu runner
+    runs-on: ubuntu-latest  # ✅ Runs the job on the latest Ubuntu runner
 
     steps:
       # Step 1️⃣: Clone the repository
       - name: Clone Repository
-        uses: actions/checkout@v4  # ✅ Fetches the latest code
+        uses: actions/checkout@v4  # ✅ Fetches the latest code from the repo
 
       # Step 2️⃣: Generate the Snake animation
       - name: Generate Snake Contribution Graph
-        uses: Platane/snk@v3.0.0  # ✅ Uses the latest stable version
+        uses: Platane/snk@v3.0.0  # ✅ Uses the latest stable version of the action
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}  # ✅ Uses repo owner username
+          github_user_name: ${{ github.repository_owner }}  # ✅ Uses repository owner's username
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub's built-in token
 
-      # Step 3️⃣: Check build status
-      - name: Show Build Status
-        run: git status  # ✅ Shows status of generated files
-
-      # Step 4️⃣: Push the generated files to GitHub Pages branch
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.2.0  # ✅ Latest stable version
+      # Step 3️⃣: Upload generated artifacts for GitHub Pages
+      - name: Upload Artifacts
+        uses: actions/upload-pages-artifact@v1
         with:
-          target_branch: github-pages  # ✅ Recommended branch for hosting on GitHub Pages
-          build_dir: dist  # ✅ Directory where generated files are stored
-          commit_message: "Updated Snake animation"  # ✅ Commit message for updates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub's built-in token
+          path: dist  # ✅ Uploads generated snake graph files to GitHub Pages artifacts
+
+  deploy:
+    runs-on: ubuntu-latest  # ✅ Runs deployment job on Ubuntu
+    needs: build  # ✅ Ensures build job is completed before deployment
+    permissions:
+      pages: write  # ✅ Allows writing to GitHub Pages
+      id-token: write  # ✅ Grants authentication permissions
+
+    steps:
+      # Step 4️⃣: Deploy generated Snake graph to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2  # ✅ Uses GitHub's official deployment action
