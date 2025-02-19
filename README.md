@@ -332,7 +332,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> 
+>   "Interns don’t get sick days. They just get 'learning opportunities' in the form of burnout. 🔥😓",
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
