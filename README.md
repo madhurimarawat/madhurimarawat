@@ -338,6 +338,8 @@ During this program, I developed expertise in creating ML models and contributed
 <summary><h2> ✨&nbsp; Have a Nice Day :</h2></summary>
  
 <!-- JOKE-SECTION-START -->
+**😂 Joke of the Day:**
+> Why did the database administrator go broke? They lost all their tables. 💸
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
