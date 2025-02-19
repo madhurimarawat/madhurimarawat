@@ -21,7 +21,7 @@ name: Update GitHub Repository Info
 on:
   schedule:
     - cron: "0 0 * * *"  # ✅ Runs daily at midnight (00:00 UTC)
-  workflow_dispatch:  # ✅ Allows manual trigger
+  workflow_dispatch:       # ✅ Allows manual trigger
 
 jobs:
   update-readme:
@@ -29,7 +29,7 @@ jobs:
     permissions: write-all  # ✅ Allows GitHub Actions to push changes
 
     steps:
-      # Step 1️⃣: Clone the repository
+      # Step 1️⃣: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
@@ -50,10 +50,10 @@ jobs:
           echo "LATEST_REPO_URL=$REPO_URL" >> $GITHUB_ENV
 
       # Step 3️⃣: Fetch Most Starred Repository
-      - name: Fetch Top Starred Repository
+      - name: Fetch Most Starred Repository
         id: top_repo
         run: |
-          echo "Fetching top starred repository..."
+          echo "Fetching most starred repository..."
           API_RESPONSE=$(curl -s "https://api.github.com/users/madhurimarawat/repos?per_page=100")
 
           TOP_REPO=$(echo "$API_RESPONSE" | jq -r '[.[] | select(.stargazers_count > 0) | {name, description, html_url, stars: .stargazers_count}] | max_by(.stars)')
@@ -90,4 +90,8 @@ jobs:
 
           git add README.md
           git commit -m "Updated repository info (latest repo & most starred repo)" || exit 0
+
+          # ✅ Ensure we pull the latest changes before pushing
+          git pull --rebase origin main  # Merges latest remote changes
+
           git push origin main
