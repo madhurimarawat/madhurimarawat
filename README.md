@@ -338,8 +338,6 @@ During this program, I developed expertise in creating ML models and contributed
 <summary><h2> ✨&nbsp; Have a Nice Day :</h2></summary>
  
 <!-- JOKE-SECTION-START -->
-**😂 Joke of the Day:**
->   "What do you call a bug that keeps coming back? A *feature*. 🤷‍♂️",
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
