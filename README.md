@@ -339,7 +339,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the database administrator go broke? They lost all their tables. 💸
+> Kafka: Named after Franz Kafka because using it feels like being trapped in an absurd, bureaucratic nightmare. 🏛️📜
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
