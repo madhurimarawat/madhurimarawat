@@ -306,8 +306,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest GitHub Repository
-**📦 Latest Repo:**  [portfolio-ideas]($LATEST_REPO_URL)
-**📝 Description:** A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
+**📦 Latest Repo:**  [Badger-Icons]($LATEST_REPO_URL)
+**📝 Description:** A collection of beautifully styled icons and logos for job roles, tools, and programming languages. Available in both transparent and pastel gradient backgrounds for seamless integration.
 
 #### ⭐ Most Starred Repository
 **📌 Top Repo:**  [Semester-Notes]($TOP_REPO_URL)
