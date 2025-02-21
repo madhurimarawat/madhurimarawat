@@ -336,6 +336,8 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Interactive Guide to File Extensions: Descriptions &amp; Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
+- [CodeCulture Daily](https://dev.to/madhurima_rawat/codeculture-daily-16m0)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
