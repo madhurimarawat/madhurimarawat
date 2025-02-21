@@ -1,17 +1,18 @@
 # ================================================================
 #  GitHub Actions Workflow: Update GitHub Repository Info
 # ================================================================
-#  🔹 This workflow updates the latest created repository and the most starred repository  
-#     in the README.md file automatically.
+#  🔹 This workflow updates the latest created repository, the latest committed repository,  
+#     and the most starred repository in the README.md file automatically.
 #
 #  ✅ Runs daily at midnight (00:00 UTC).
 #  ✅ Can be manually triggered from GitHub Actions UI.
 #
 #  📌 Steps:
-#  1️⃣ Fetches the latest created repository.
-#  2️⃣ Fetches the most starred repository.
-#  3️⃣ Updates the README.md file with the fetched information.
-#  4️⃣ Commits and pushes the updated README.md file back to the repository.
+#  1️⃣ Fetches the latest created public repository.
+#  2️⃣ Fetches the latest committed public repository.
+#  3️⃣ Fetches the most starred public repository.
+#  4️⃣ Updates the README.md file with the fetched information.
+#  5️⃣ Commits and pushes the updated README.md file back to the repository.
 #
 #  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
 # ================================================================
@@ -34,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
 
       # Step 2️⃣: Fetch Latest Created Repository
-      - name: Fetch Latest Repository
+      - name: Fetch Latest Created Repository
         id: latest_repo
         run: |
           echo "Fetching latest created repository..."
@@ -49,7 +50,25 @@ jobs:
           echo "LATEST_REPO_DESC=$REPO_DESC" >> $GITHUB_ENV
           echo "LATEST_REPO_URL=$REPO_URL" >> $GITHUB_ENV
 
-      # Step 3️⃣: Fetch Most Starred Repository
+      # Step 3️⃣: Fetch Latest Committed Repository (Ignoring Private Repos)
+      - name: Fetch Latest Committed Repository
+        id: latest_commit
+        run: |
+          echo "Fetching latest committed repository..."
+          API_RESPONSE=$(curl -s "https://api.github.com/users/madhurimarawat/repos?per_page=100")
+
+          LATEST_COMMIT_REPO=$(echo "$API_RESPONSE" | jq -r '[.[] | select(.private == false)] | sort_by(.pushed_at) | reverse | .[0]')
+
+          LATEST_COMMIT_NAME=$(echo "$LATEST_COMMIT_REPO" | jq -r '.name // "No repository found"')
+          LATEST_COMMIT_DESC=$(echo "$LATEST_COMMIT_REPO" | jq -r '.description // "No description provided."')
+          LATEST_COMMIT_URL=$(echo "$LATEST_COMMIT_REPO" | jq -r '.html_url // "#"')
+
+          echo "Latest Commit Repo: $LATEST_COMMIT_NAME ($LATEST_COMMIT_URL)"
+          echo "LATEST_COMMIT_NAME=$LATEST_COMMIT_NAME" >> $GITHUB_ENV
+          echo "LATEST_COMMIT_DESC=$LATEST_COMMIT_DESC" >> $GITHUB_ENV
+          echo "LATEST_COMMIT_URL=$LATEST_COMMIT_URL" >> $GITHUB_ENV
+
+      # Step 4️⃣: Fetch Most Starred Repository
       - name: Fetch Most Starred Repository
         id: top_repo
         run: |
@@ -67,20 +86,23 @@ jobs:
           echo "TOP_REPO_DESC=$TOP_REPO_DESC" >> $GITHUB_ENV
           echo "TOP_REPO_URL=$TOP_REPO_URL" >> $GITHUB_ENV
 
-      # Step 4️⃣: Update README.md with New Information
+      # Step 5️⃣: Update README.md with New Information
       - name: Update README.md
         run: |
           echo "Updating README.md..."
           sed -i '/<!-- REPO-SECTION-START -->/,/<!-- REPO-SECTION-END -->/c\<!-- REPO-SECTION-START -->\n'\
-          '#### 🚀 Latest GitHub Repository\n'\
-          '**📦 Latest Repo:**  ['$LATEST_REPO_NAME']($LATEST_REPO_URL)\n'\
+          '#### 🚀 Latest Created Repository\n'\
+          '**📦 Latest Repo:**  ['$LATEST_REPO_NAME']('$LATEST_REPO_URL')\n'\
           '**📝 Description:** '"$LATEST_REPO_DESC"'\n\n'\
+          '#### 🔄 Latest Committed Repository\n'\
+          '**🛠️ Updated Repo:**  ['$LATEST_COMMIT_NAME']('$LATEST_COMMIT_URL')\n'\
+          '**📝 Description:** '"$LATEST_COMMIT_DESC"'\n\n'\
           '#### ⭐ Most Starred Repository\n'\
-          '**📌 Top Repo:**  ['$TOP_REPO_NAME']($TOP_REPO_URL)\n'\
+          '**📌 Top Repo:**  ['$TOP_REPO_NAME']('$TOP_REPO_URL')\n'\
           '**📝 Description:** '"$TOP_REPO_DESC"'\n'\
           '<!-- REPO-SECTION-END -->' README.md
 
-      # Step 5️⃣: Commit & Push Changes to GitHub
+      # Step 6️⃣: Commit & Push Changes to GitHub
       - name: Commit & Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Uses GitHub's built-in token
@@ -89,7 +111,7 @@ jobs:
           git config --global user.email "actions@github.com"
 
           git add README.md
-          git commit -m "Updated repository info (latest repo & most starred repo)" || exit 0
+          git commit -m "Updated repository info (latest created, latest committed & most starred repo)" || exit 0
 
           # ✅ Ensure we pull the latest changes before pushing
           git pull --rebase origin main  # Merges latest remote changes
