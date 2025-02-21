@@ -201,19 +201,20 @@ Click on the icon to see the associated repository
 </picture>
 </div>
 
+<div align="center">
 <!-- Repos per Language -->
 <picture>
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=flag_india">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=flag_india" alt="Repos per Language">
 </picture>
-
 <!-- Most Committed Language -->
 <picture>
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=flag_india">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=flag_india" alt="Most Commit Language">
 </picture>
+</div>
 
 <div align="center">
   <picture>
