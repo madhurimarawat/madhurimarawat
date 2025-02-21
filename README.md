@@ -189,14 +189,17 @@ Click on the icon to see the associated repository
 <details open>
   
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
+
 <br>
 
+<div align="center">
 <!-- GitHub Streak Stats -->
 <picture>
   <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000" media="(prefers-color-scheme: dark)">
   <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dracula&background=#FFFFFF">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=default" alt="GitHub Streak Stats">
 </picture>
+</div>
 
 <!-- Repos per Language -->
 <picture>
@@ -229,7 +232,14 @@ Click on the icon to see the associated repository
   
 <summary><h2>🏆 &nbsp; GitHub Profile Trophies :</summary></h2
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+<div align="center">
+  <picture>
+    <!-- Light Mode Image -->
+    <source srcset="https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=flat&margin-w=15&no-frame=true" media="(prefers-color-scheme: light)">
+    <!-- Dark Mode Image -->
+    <img src="https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies">
+  </picture>
+</div>
 
 </details>
 
@@ -336,8 +346,6 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Interactive Guide to File Extensions: Descriptions &amp; Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
-- [CodeCulture Daily](https://dev.to/madhurima_rawat/codeculture-daily-16m0)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
