@@ -191,10 +191,26 @@ Click on the icon to see the associated repository
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats -->
+<picture>
+  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dracula&background=#FFFFFF">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=default" alt="GitHub Streak Stats">
+</picture>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula) &nbsp; &nbsp; &nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula) 
+<!-- Repos per Language -->
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=flag_india">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=flag_india" alt="Repos per Language">
+</picture>
+
+<!-- Most Committed Language -->
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=flag_india">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=flag_india" alt="Most Commit Language">
+</picture>
 
 <div align="center">
   <picture>
@@ -320,8 +336,6 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Interactive Guide to File Extensions: Descriptions &amp; Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
-- [CodeCulture Daily](https://dev.to/madhurima_rawat/codeculture-daily-16m0)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
