@@ -1,27 +1,30 @@
 # ================================================================
-#  GitHub Actions Workflow: Update README with Latest Blog Posts
+#  GitHub Actions Workflow: Update README with Latest & Top Blog Posts
 # ================================================================
-#  🔹 This workflow automatically updates the README.md file with  
-#     the latest blog posts from **Dev.to**.
+#  🔹 This workflow automatically updates the README.md file with:
+#     1️⃣ The latest blog posts from **Dev.to**.
+#     2️⃣ The top-performing blog posts (based on positive reactions).
 #
 #  ✅ Runs **weekly (every Monday at 00:00 UTC)** to reduce API calls.
 #  ✅ Can be manually triggered from the GitHub Actions UI.
-#  ✅ Uses **gautamkrishnar/blog-post-workflow** action to fetch posts.
-#  
+#  ✅ Uses `gautamkrishnar/blog-post-workflow` to fetch latest posts.
+#  ✅ Uses `curl` & `jq` to fetch and filter top-performing posts.
+#
 #  📌 Steps:
 #  1️⃣ Checks out the repository.
 #  2️⃣ Fetches the latest blog posts from **Dev.to RSS Feed**.
-#  3️⃣ Updates the README.md file dynamically.
-#  4️⃣ Commits and pushes the changes to the repository.
+#  3️⃣ Fetches the top-performing blog posts using **Dev.to API**.
+#  4️⃣ Updates the README.md file dynamically.
+#  5️⃣ Commits and pushes the changes to the repository.
 #
 #  🚀 No personal access token (PAT) required! Uses `GITHUB_TOKEN`.
 # ================================================================
 
-name: Latest Blog Post Workflow
+name: Update README with Latest & Top Dev.to Posts
 
 on:
   schedule:
-    - cron: '0 0 * * 1'   # ✅ Runs **weekly** every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'   # ✅ Runs weekly (Monday at 00:00 UTC)
   workflow_dispatch:       # ✅ Allows manual trigger
 
 permissions:
@@ -29,7 +32,7 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
+    name: Update README with latest & top blog posts
     runs-on: ubuntu-latest
 
     steps:
@@ -39,7 +42,14 @@ jobs:
       - name: Fetch Latest Dev.to Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/madhurima_rawat" # ✅ Fetches latest posts from your Dev.to profile
+          feed_list: "https://dev.to/feed/madhurima_rawat" # ✅ Fetches latest posts from Dev.to profile
+
+      - name: Fetch Top Performing Dev.to Posts
+        run: |
+          echo "### 🔥 Top Performing Dev.to Posts" > top_posts.md # ✅ Creates a section header
+          curl -s "https://dev.to/api/articles?username=madhurima_rawat&per_page=5" | \
+            jq -r '.[] | select(.positive_reactions_count > 10) | "- [\(.title)](\(.url))"' >> top_posts.md # ✅ Filters posts with >10 reactions
+          cat top_posts.md >> README.md # ✅ Appends top posts to README.md
 
       - name: Commit & Push Changes
         env:
@@ -48,5 +58,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated latest blog posts" || exit 0
+          git commit -m "Updated latest & top-performing blog posts" || exit 0 # ✅ Skips commit if no changes
           git push origin main
