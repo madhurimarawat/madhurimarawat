@@ -195,8 +195,8 @@ Click on the icon to see the associated repository
 <div align="center">
 <!-- GitHub Streak Stats -->
 <picture>
-  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dark&background=000000" media="(prefers-color-scheme: dark)">
-  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dracula&background=#FFFFFF">
+  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=flag-india">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=default" alt="GitHub Streak Stats">
 </picture>
 </div>
