@@ -48,7 +48,7 @@ jobs:
         run: |
           echo "### 🔥 Top Performing Dev.to Posts" > top_posts.md # ✅ Creates a section header
           curl -s "https://dev.to/api/articles?username=madhurima_rawat&per_page=5" | \
-            jq -r '.[] | select(.positive_reactions_count > 10) | "- [\(.title)](\(.url))"' >> top_posts.md # ✅ Filters posts with >10 reactions
+            jq -r '.[] | select(.positive_reactions_count > 5) | "- [\(.title)](\(.url))"' >> top_posts.md # ✅ Filters posts with >10 reactions
           cat top_posts.md >> README.md # ✅ Appends top posts to README.md
 
       - name: Commit & Push Changes
