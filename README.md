@@ -305,12 +305,16 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
-#### 🚀 Latest GitHub Repository
-**📦 Latest Repo:**  [Badger-Icons]($LATEST_REPO_URL)
+#### 🚀 Latest Created Repository
+**📦 Latest Repo:**  [Badger-Icons](https://github.com/madhurimarawat/Badger-Icons)
 **📝 Description:** A collection of beautifully styled icons and logos for job roles, tools, and programming languages. Available in both transparent and pastel gradient backgrounds for seamless integration.
 
+#### 🔄 Latest Committed Repository
+**🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
+**📝 Description:** Configuration files to improve my GitHub profile. Use or suggest improvements as needed.
+
 #### ⭐ Most Starred Repository
-**📌 Top Repo:**  [Semester-Notes]($TOP_REPO_URL)
+**📌 Top Repo:**  [Semester-Notes](https://github.com/madhurimarawat/Semester-Notes)
 **📝 Description:** This repository includes academic notes, study materials, and resources from B.Tech (Hons) in CSE, specializing in Artificial Intelligence and Data Science. It features question papers, proprietary study guides, and resources to support learning in these fields.
 <!-- REPO-SECTION-END -->
 
