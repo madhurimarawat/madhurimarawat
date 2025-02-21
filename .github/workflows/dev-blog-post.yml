@@ -39,17 +39,27 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4 # ✅ Clones the repository
 
+      # ✅ Fetches Latest Dev.to Blog Posts & Inserts in BLOG-POST-LIST
       - name: Fetch Latest Dev.to Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/madhurima_rawat" # ✅ Fetches latest posts from Dev.to profile
+          max_post_count: 5  # ✅ Fetches up to 5 latest posts
 
+      # ✅ Fetches Top Performing Dev.to Blog Posts & Inserts in TOP-POST-LIST
       - name: Fetch Top Performing Dev.to Posts
         run: |
-          echo "### 🔥 Top Performing Dev.to Posts" > top_posts.md # ✅ Creates section header
+          # ✅ Remove old "🔥 Top Performing" section
+          sed -i '/<!-- TOP-POST-LIST:START -->/,/<!-- TOP-POST-LIST:END -->/d' README.md
+          
+          # ✅ Create new section with top-performing posts
+          echo "<!-- TOP-POST-LIST:START -->" > top_posts.md
           curl -s "https://dev.to/api/articles?username=madhurima_rawat&per_page=5" | \
-            jq -r '.[] | select(.positive_reactions_count >= 10) | "- [\(.title)](\(.url))"' >> top_posts.md # ✅ Filters posts with >=10 reactions
-          cat top_posts.md >> README.md # ✅ Appends top posts to README.md
+            jq -r '.[] | select(.positive_reactions_count >= 10) | "- [\(.title)](\(.url))"' >> top_posts.md
+          echo "<!-- TOP-POST-LIST:END -->" >> top_posts.md
+          
+          # ✅ Insert updated top posts inside README
+          sed -i '/#### 🔥 Top Performing/r top_posts.md' README.md
 
       - name: Commit & Push Changes
         env:
