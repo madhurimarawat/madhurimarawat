@@ -384,7 +384,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> What do you call a bug that keeps coming back? A *feature*. 🤷‍♂️
+> The senior dev said: 'Trust me, it works on my machine.' And that’s when QA started crying. 😭
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
