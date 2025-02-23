@@ -384,7 +384,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> The senior dev said: 'Trust me, it works on my machine.' And that’s when QA started crying. 😭
+> VS Code: 'Trust this folder?' Me: 'Bro, I don’t even trust myself.' 🤡💀
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
