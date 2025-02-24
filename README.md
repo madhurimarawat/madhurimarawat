@@ -384,7 +384,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> VS Code: 'Trust this folder?' Me: 'Bro, I don’t even trust myself.' 🤡💀
+> Frontend developers spend 80% of their time **fixing CSS bugs** and the other 20% **pretending everything is fine.** 😵‍💫💻
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
