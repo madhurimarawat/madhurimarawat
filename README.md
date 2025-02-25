@@ -133,7 +133,7 @@ Click on the icon to see the associated repository
 <br>
 
 <p>  
-<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL - Open-source relational database management system" alt="MySQL" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL - Open-source relational database management system (Badger-Icons)" alt="MySQL" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB - Time series database optimized for high performance" alt="InfluxDB" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Apache Hive - Data warehouse infrastructure for querying large datasets" alt="Hive" width="40" height="40"/> </a>  
 </p>  
