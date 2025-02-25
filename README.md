@@ -201,6 +201,8 @@ Click on the icon to see the associated repository
 </picture>
 </div>
 
+<br>
+
 <div align="center">
 <!-- Repos per Language -->
 <picture>
