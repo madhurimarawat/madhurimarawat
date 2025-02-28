@@ -1,6 +1,6 @@
 <!-- Main Heading -->
   
-<h1 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"></h1>
+<h1 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="40" alt="Waving Hand Gif"></h1>
 
 <!-- Personalized Name Blocks -->
 <!-- Created with the NameBlock Designer tool, which is featured in my portfolio. Explore the tool here: https://madhurimarawat.github.io/NameBlock-Designer/ -->
@@ -21,7 +21,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/madhurima-rawat/"><img
-            src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" title="LinkedIn Profile"
+            src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn Profile"
             height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
     <a href="https://www.hackerrank.com/rawatmadhurima4"><img
             src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" title="HackerRank Profile"
@@ -49,7 +49,7 @@
         alt="Medium Logo"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"
             title="Medium Profile" alt="Medium Logo" height=35></a> &nbsp &nbsp &nbsp
   <a href="https://discord.gg/ezhWErYUkt" class="link" target="_blank" title="Discord Server"
-        alt="Discord Logo"><img src="https://www.svgrepo.com/download/431578/discord.svg"
+        alt="Discord Logo"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
             title="Discord Server" alt="Discord Logo" height=35></a> &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
             src="https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35
@@ -99,7 +99,7 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/R-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R - Statistical computing and data analysis" alt="R" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS - Styling language for web design" alt="CSS" width="40" height="40"/> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML - Markup language for structuring web content" alt="HTML" width="40" height="40"/> </a> &nbsp;  
-<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript - Scripting language for dynamic web applications" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="JavaScript - Scripting language for dynamic web applications" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://pngimg.com/uploads/php/php_PNG35.png" title="PHP - Server-side scripting language for web development" alt="PHP" width="40" height="40"/>  </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Ruby-Programming"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ruby-programming-language-icon.png" title="Ruby - Dynamic programming language for web applications" alt="Ruby" width="40" height="40"/>  </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Scratch-Programming"><img src="https://lh5.googleusercontent.com/proxy/L6T7lVGLZ38PRbqZnYRDpOh4duEaQFa5uflTN_MaqLp9wvq2x6W7ezFVcJ8nt-bhaUp1ipBetVMXdodaX3lv=s0-d" title="Scratch - Visual programming language for beginners" alt="Scratch" width="40" height="40"></a> &nbsp;  
@@ -119,7 +119,7 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/822844e1-0285-49a8-b8a9-078ff069c2d1" title="Pickle - Object serialization module in Python" alt="Pickle" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://i.gyazo.com/0b29c28bab26d0302b01de863091c93a.png" title="Joblib - Library for efficient Python object persistence" alt="Joblib" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/R-Projects"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 - Data visualization package for R" alt="ggplot2" width="40" height="40"></a> &nbsp;  
-<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap - Frontend framework for responsive web design" alt="Bootstrap" width="40" height="40"></a>  &nbsp;  
+<a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="Bootstrap - Frontend framework for responsive web design" alt="Bootstrap" width="40" height="40"></a>  &nbsp;  
 <a href="https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="NLTK - Natural Language Processing toolkit in Python" alt="NLTK" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Web-Scrapper-Functions"><img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests - HTTP library for making API calls in Python" alt="Requests" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest - Testing framework for Python" alt="Pytest" width="40" height="40"></a> &nbsp;  
@@ -147,8 +147,8 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Python-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda - Python and R distribution for data science" alt="Anaconda" width="40" height="40"></a>  &nbsp;  
 <a href="https://github.com/madhurimarawat/Data-Visualization-using-python"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab - Cloud-based Jupyter notebook environment" alt="Google Colab" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/R-for-Datascience"><img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="RStudio - IDE for R programming and statistical computing" alt="RStudio" width="40" height="40"></a> &nbsp;  
-<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm - IDE for Python development" alt="PyCharm" width="40" height="40"></a>  &nbsp;  
-<a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code - Lightweight code editor with debugging and Git integration" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Machine-Learning-Using-Python"><img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA3NjIwMjMsIm5iZiI6MTc0MDc2MTcyMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI4VDE2NTUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0ZDFjMzAyYTQwOGI0YTE1NTYzYjEzZGYyZjM4ZWQwOTMxYzUwNTNkODBjODI5NzdhZWU5ZDBlNzk0ZmE0NWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t4z_WyA40TqPblLR8_CdIfEKYGGloEKT9wdH8QKmUL8" title="PyCharm - IDE for Python development" alt="PyCharm" width="40" height="40"></a>  &nbsp;  
+<a href="https://github.com/madhurimarawat/Programming-in-PHP"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" title="Visual Studio Code - Lightweight code editor with debugging and Git integration" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++ - Open-source text and source code editor" alt="Notepad++" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Ruby-Programming"><img src="https://th.bing.com/th/id/R.867a8cd55ef989b2f5bac14fdf629e4b?rik=znGQGWA%2faYKlog&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpapirus-team%2fpapirus-apps%2f512%2fkomodo-icon.png&ehk=aWPRlGNwswtsl5aMHlkF%2f78DK4boKtzEDmPjSSEMshU%3d&risl=&pid=ImgRaw&r=0" title="Komodo IDE - IDE for dynamic programming languages" alt="Komodo IDE" width="40" height="40"/> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana - Open-source analytics and monitoring platform" alt="Grafana" width="40" height="40"/> </a> &nbsp;  
