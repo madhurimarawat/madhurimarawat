@@ -386,7 +386,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub Copilot: *'Here’s an AI-generated function!'* Me: **'Great! What does it do?'** Copilot: **'I have no idea.'** 🤖💻
+> Why do Brainfuck developers love minimalism? Because they only have 8 commands. 📉🤏
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
