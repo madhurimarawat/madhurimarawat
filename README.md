@@ -1,6 +1,6 @@
 <!-- Main Heading -->
   
-<h1 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand Gif"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Waving Hand Gif"></h1>
+<h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
 
 <!-- Personalized Name Blocks -->
 <!-- Created with the NameBlock Designer tool, which is featured in my portfolio. Explore the tool here: https://madhurimarawat.github.io/NameBlock-Designer/ -->
