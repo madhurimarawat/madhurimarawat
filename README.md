@@ -13,9 +13,9 @@
 <a href="https://madhurimarawat.github.io/Badger-Icons/" target="_blank">
         <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.png" width="300" height="300">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://gitroll.io/profile/uggTYKafyFPN995yHRFqc4VkjH9f2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uggTYKafyFPN995yHRFqc4VkjH9f2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx4MHU0amNqd3ljc245cGZod25tMHh6YmxwMjU1czE5Mm5xZTdpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height=250 width=250 alt="Coding Illustration Gif" > 
+ <img src="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/main/neon-cube-animation.gif" height=250 width=250 title ="Neon Cube Name Animation Gif" alt="Neon Cube Name Animation Gif" > 
  
 </p>
 
