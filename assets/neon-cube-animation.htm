@@ -1,0 +1,182 @@
+<!--
+⭐ Author: Madhurima Rawat  
+📅 Date: 02 February, 2025  
+📂 Repository: https://github.com/madhurimarawat  
+
+📝 Description:  
+This project creates a ✨ 3D neon cube ✨ that displays my name in different languages on each face.  
+I created this to showcase my name in a fancy and interactive way.  
+
+💖 You are free to use this anywhere you want!  
+If you like it, please ⭐ star my repository and let me know via LinkedIn or other social media links below.  
+
+🎥 I have recorded the animation using Snip (Windows) and converted it to a GIF using:  
+🔗 https://www.freeconvert.com/convert/mp4-to-gif/  
+
+✍️ I will also write a Dev.to article 📰 explaining this project and the process behind it.  
+
+🌟 Feel free to use these emojis in your README and repos if you want—I’d absolutely love it! 🚀
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"> <!-- Defines the character encoding for the document as UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Ensures responsive design on mobile devices -->
+    <title>Madhurima's 3D Neon Cube</title> <!-- Sets the title of the web page -->
+
+    <style>
+        /* Styling for the entire page */
+        body {
+            display: flex;
+            /* Enables flexbox for easy centering */
+            justify-content: center;
+            /* Centers content horizontally */
+            align-items: center;
+            /* Centers content vertically */
+            height: 100vh;
+            /* Ensures full viewport height */
+            background: radial-gradient(circle, #0d0d26, #111133);
+            /* Creates a radial gradient background */
+            color: white;
+            /* Sets default text color to white */
+            font-family: Arial, sans-serif;
+            /* Specifies font */
+            overflow: hidden;
+            /* Prevents scrolling */
+        }
+
+        /* 3D container scene */
+        .scene {
+            width: 250px;
+            /* Sets the width of the cube container */
+            height: 250px;
+            /* Sets the height of the cube container */
+            perspective: 1200px;
+            /* Creates depth for 3D effect */
+        }
+
+        /* Cube properties */
+        .cube {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            /* Ensures child elements maintain 3D perspective */
+            animation: rotateCube 12s infinite linear;
+            /* Rotates cube infinitely */
+        }
+
+        /* Styling for cube faces */
+        .face {
+            position: absolute;
+            width: 250px;
+            height: 250px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            font-weight: bold;
+            border: 3px solid rgba(255, 255, 255, 0.5);
+            /* Creates a semi-transparent border */
+            box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.6);
+            /* Adds glow effect */
+            text-shadow: 0px 0px 15px rgba(255, 255, 255, 0.9);
+            /* Adds text glow */
+        }
+
+        /* Glow effect on each face */
+        .face::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: inherit;
+            filter: blur(15px);
+            /* Blurs the background to create a neon glow effect */
+            opacity: 0.6;
+            z-index: -1;
+            /* Places the effect behind text */
+        }
+
+        /* Individual cube faces with unique colors and rotations */
+        .front {
+            background: #00ffcc;
+            transform: rotateY(0deg) translateZ(125px);
+        }
+
+        .back {
+            background: #ff66ff;
+            transform: rotateY(180deg) translateZ(125px);
+        }
+
+        .right {
+            background: #ffcc00;
+            transform: rotateY(90deg) translateZ(125px);
+        }
+
+        .left {
+            background: #ff3300;
+            transform: rotateY(-90deg) translateZ(125px);
+        }
+
+        .top {
+            background: #3399ff;
+            transform: rotateX(90deg) translateZ(125px);
+        }
+
+        .bottom {
+            background: #9933ff;
+            transform: rotateX(-90deg) translateZ(125px);
+        }
+
+        /* Cube Rotation Animation */
+        @keyframes rotateCube {
+            0% {
+                transform: rotateY(0deg);
+            }
+
+            16% {
+                transform: rotateY(90deg);
+            }
+
+            32% {
+                transform: rotateY(180deg);
+            }
+
+            48% {
+                transform: rotateY(270deg);
+            }
+
+            64% {
+                transform: rotateX(90deg);
+            }
+
+            80% {
+                transform: rotateX(-90deg);
+            }
+
+            100% {
+                transform: rotateY(0deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="scene">
+        <div class="cube">
+            <div class="face front">Madhurima (English)</div>
+            <div class="face back">मधुरिमा (Hindi)</div>
+            <div class="face right">মধুরিমা (Bengali)</div>
+            <div class="face left">玛杜丽玛 (Chinese)</div>
+            <div class="face top">マドゥリマ (Japanese)</div>
+            <div class="face bottom">Мадхурима (Russian)</div>
+        </div>
+    </div>
+</body>
+
+</html>
