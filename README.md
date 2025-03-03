@@ -386,7 +386,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Naming variables is hard, so I used `data1`, `data2`, and `dataFinal`. **Now, I have no idea what they do.** 🤡📂
+> Software has *bugs* because in 1947, a moth was found in a computer relay. **So technically, every coder is just a digital exterminator.** 🦟💻
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
