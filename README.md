@@ -52,7 +52,10 @@
             title="Discord Server" alt="Discord Logo" height=35></a> &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
             src="https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35
-            title="CodeCulture" alt="CodeCulture"></a>
+            title="CodeCulture" alt="CodeCulture"></a>&nbsp &nbsp &nbsp
+    <a href="https://www.youtube.com/@Madhurima-Code-Cosmos"><img
+            src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" height=35
+            title="Youtube" alt="Youtube"></a>
     &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/Madhurima-Mindscape/"><img
             src="https://github.com/madhurimarawat/Madhurima-Mindscape/blob/main/images/Logo.png" height=35
