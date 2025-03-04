@@ -341,8 +341,8 @@ During this program, I developed expertise in creating ML models and contributed
 **📝 Description:** A collection of beautifully styled icons and logos for job roles, tools, and programming languages. Available in both transparent and pastel gradient backgrounds for seamless integration.
 
 #### 🔄 Latest Committed Repository
-**🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
-**📝 Description:** Configuration files to improve my GitHub profile. Use or suggest improvements as needed.
+**🛠️ Updated Repo:**  [Portfolio-Website](https://github.com/madhurimarawat/Portfolio-Website)
+**📝 Description:** This portfolio showcases my work with creative emoji elements, a harmonious blend of professional colors, and a dedicated section for career highlights, presenting my technical skills.
 
 #### ⭐ Most Starred Repository
 **📌 Top Repo:**  [Semester-Notes](https://github.com/madhurimarawat/Semester-Notes)
