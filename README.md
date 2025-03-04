@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Software has *bugs* because in 1947, a moth was found in a computer relay. **So technically, every coder is just a digital exterminator.** 🦟💻
+> Brainfuck devs are hardcore. They debug without error messages. 💻🔍
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
