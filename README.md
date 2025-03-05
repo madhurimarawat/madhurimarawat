@@ -351,6 +351,7 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [🐙Awesome GitHub Repositories You Should Check Out in 2025! 🐱](https://dev.to/madhurima_rawat/awesome-github-repositories-you-should-check-out-in-2025-540i)
 - [🎨 Building a 3D Neon Cube That Displays My Name 🧊](https://dev.to/madhurima_rawat/building-a-3d-neon-cube-that-displays-my-name-2oni)
 - [🔍 Big Data Unveiled: Insights, Challenges, and Case Studies 📊🚀](https://dev.to/madhurima_rawat/big-data-unveiled-insights-challenges-and-case-studies-1glj)
 - [🌟 Interactive Guide to File Extensions: Descriptions &amp; Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
