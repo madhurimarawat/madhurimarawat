@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do Java developers get lost? Because they can’t find their class. 📚
+> Legacy code isn’t scary. **The real horror is seeing `tempFinal_latest_REALFINAL.js` in production.** 👀🔥
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
