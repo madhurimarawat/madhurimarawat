@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Legacy code isn’t scary. **The real horror is seeing `tempFinal_latest_REALFINAL.js` in production.** 👀🔥
+> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
