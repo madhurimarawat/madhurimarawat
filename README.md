@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
+> Overengineering: When your **CLI-based calculator** needs a **React frontend and a GraphQL API**. 💻🤯
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
