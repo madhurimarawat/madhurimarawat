@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Brainfuck is a great language. For torture. 🤯💀
+> My code works... until it doesn’t. 🫠⚠️
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
