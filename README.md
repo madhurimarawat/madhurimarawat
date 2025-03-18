@@ -337,8 +337,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [Badger-Icons](https://github.com/madhurimarawat/Badger-Icons)
-**📝 Description:** A collection of beautifully styled icons and logos for job roles, tools, and programming languages. Available in both transparent and pastel gradient backgrounds for seamless integration.
+**📦 Latest Repo:**  [developer-portfolios](https://github.com/madhurimarawat/developer-portfolios)
+**📝 Description:** A list of developer portfolios for your inspiration
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
