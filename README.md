@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> CSS: *'I can position anything anywhere!'* Also CSS: *'Except that one button... That button will haunt you.'* 😭🎭
+> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
