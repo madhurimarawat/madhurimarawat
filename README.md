@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I opened my IDE and just... stared at it. For 30 minutes. Doing nothing. Just contemplating life. 👀⌛
+> A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?' 🍻
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
