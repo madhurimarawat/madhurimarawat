@@ -361,7 +361,6 @@ During this program, I developed expertise in creating ML models and contributed
 #### 🔥 Top Performing
 <!-- TOP-POST-LIST:START -->
 - [⚖️ SJF, Max-Min & Mixed Strategy: A Comparison 📊](https://dev.to/madhurima_rawat/sjf-max-min-mixed-strategy-a-comparison-569l)
-- [🌟 Interactive Guide to File Extensions: Descriptions & Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
 <!-- TOP-POST-LIST:END -->
 
 </details>
