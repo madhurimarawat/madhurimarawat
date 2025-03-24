@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?' 🍻
+> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
