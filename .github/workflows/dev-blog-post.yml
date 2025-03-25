@@ -13,7 +13,7 @@
 #  📌 Steps:
 #  1⃣ Checks out the repository.
 #  2⃣ Fetches the latest blog posts from **Dev.to RSS Feed**.
-#  3⃣ Fetches the top-performing blog posts using **Dev.to API**.
+#  3⃣ Fetches **all** Dev.to blog posts & filters top-performing ones.
 #  4⃣ Updates the README.md file dynamically.
 #  5⃣ Commits and pushes the changes to the repository.
 #
@@ -46,16 +46,23 @@ jobs:
           feed_list: "https://dev.to/feed/madhurima_rawat" # ✅ Fetches latest posts from Dev.to profile
           max_post_count: 5  # ✅ Fetches up to 5 latest posts
 
-      # ✅ Fetches Top Performing Dev.to Blog Posts & Inserts in TOP-POST-LIST
+      # ✅ Fetches Top Performing Dev.to Blog Posts (All-time)
       - name: Fetch Top Performing Dev.to Posts
         run: |
           # ✅ Remove old "🔥 Top Performing" section
           sed -i '/<!-- TOP-POST-LIST:START -->/,/<!-- TOP-POST-LIST:END -->/d' README.md
           
-          # ✅ Create new section with top-performing posts
+          # ✅ Create new section with top-performing posts (20+ reactions)
           echo "<!-- TOP-POST-LIST:START -->" > top_posts.md
-          curl -s "https://dev.to/api/articles?username=madhurima_rawat&per_page=5" | \
-            jq -r '.[] | select(.positive_reactions_count >= 10) | "- [\(.title)](\(.url))"' >> top_posts.md
+          page=1
+          while :; do
+            response=$(curl -s "https://dev.to/api/articles?username=madhurima_rawat&page=$page&per_page=100")
+            count=$(echo "$response" | jq length)
+            [[ $count -eq 0 ]] && break # ✅ Stop if no more posts
+            
+            echo "$response" | jq -r '.[] | select(.positive_reactions_count >= 20) | "- [\(.title)](\(.url))"' >> top_posts.md
+            page=$((page + 1))
+          done
           echo "<!-- TOP-POST-LIST:END -->" >> top_posts.md
           
           # ✅ Insert updated top posts inside README
