@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> My code works... until it doesn’t. 🫠⚠️
+> Python devs hate Java devs. Until they need performance. 🐍💨
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
