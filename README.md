@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Python devs hate Java devs. Until they need performance. 🐍💨
+> Debugging: Removing the needles from the haystack. 🧐💻
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
