@@ -351,11 +351,11 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [🌐 Deploying a Web Application on a Cloud Server 🚀](https://dev.to/madhurima_rawat/deploying-a-web-application-on-a-cloud-server-38cn)
+- [⚙️ Steps to Set Up a Virtual Machine in LocalStack 🖥️](https://dev.to/madhurima_rawat/steps-to-set-up-a-virtual-machine-in-localstack-408g)
+- [☁️ Local Cloud Setup: LocalStack + Docker + AWS CLI ⚡](https://dev.to/madhurima_rawat/local-cloud-setup-localstack-docker-aws-cli-dm8)
+- [✨ From Clueless to Code: My Tech Journey | WeCoded 2025 🎯](https://dev.to/madhurima_rawat/from-clueless-to-code-my-tech-journey-wecoded-2025-4dje)
 - [🌿 Cartoon Characters &amp; Mental Health 🧸](https://dev.to/madhurima_rawat/cartoon-characters-mental-health-3pa4)
-- [🧠 Deep Dive into the Leading AI Models 🤖](https://dev.to/madhurima_rawat/deep-dive-into-the-leading-ai-models-3ah4)
-- [⚖️ SJF, Max-Min &amp; Mixed Strategy: A Comparison 📊](https://dev.to/madhurima_rawat/sjf-max-min-mixed-strategy-a-comparison-569l)
-- [🐙Awesome GitHub Repositories You Should Check Out in 2025! 🐱](https://dev.to/madhurima_rawat/awesome-github-repositories-you-should-check-out-in-2025-540i)
-- [🎨 Building a 3D Neon Cube That Displays My Name 🧊](https://dev.to/madhurima_rawat/building-a-3d-neon-cube-that-displays-my-name-2oni)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🔥 Top Performing
