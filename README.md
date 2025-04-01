@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Weak Explorer: That one dev who commits `final_final_v2_REAL_FIX.js` because they refuse to rename properly. 🤡📂
+> Me: *'I’ll clean up my GitHub repos this weekend.'* Also me: **2 years later, 100 unfinished side projects.** 🤡📁
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
