@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the data scientist break up with their model? **Too many assumptions, not enough validation.** 💔📊
+> Debugging JavaScript: Step 1) Cry. Step 2) `console.log()` everything. Step 3) Repeat. 😭🔍
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
