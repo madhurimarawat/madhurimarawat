@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> AI-generated text: *'I am highly intelligent.'* Also AI: **'The capital of France is Paris Hilton.'** 🤦‍♂️💀
+> Data Science interview: *'Do you have experience with AI?'* Me: *'Yes, I’ve asked ChatGPT stupid questions.'* 🤖🧠
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
