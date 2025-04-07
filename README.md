@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science interview: *'Do you have experience with AI?'* Me: *'Yes, I’ve asked ChatGPT stupid questions.'* 🤖🧠
+> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
