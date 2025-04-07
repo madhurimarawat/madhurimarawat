@@ -360,6 +360,7 @@ During this program, I developed expertise in creating ML models and contributed
 
 #### 🔥 Top Performing
 <!-- TOP-POST-LIST:START -->
+- [✨ From Clueless to Code: My Tech Journey | WeCoded 2025 🎯](https://dev.to/madhurima_rawat/from-clueless-to-code-my-tech-journey-wecoded-2025-4dje)
 - [🌟 Interactive Guide to File Extensions: Descriptions & Tools](https://dev.to/madhurima_rawat/interactive-guide-to-file-extensions-descriptions-tools-4co6)
 <!-- TOP-POST-LIST:END -->
 
