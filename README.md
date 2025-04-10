@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programmers don't need therapy. They just need **a debugger, a README that actually explains things, and a hug.** 🫂💔
+> CSS: *'I can position anything anywhere!'* Also CSS: *'Except that one button... That button will haunt you.'* 😭🎭
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
