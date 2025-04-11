@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> CSS: *'I can position anything anywhere!'* Also CSS: *'Except that one button... That button will haunt you.'* 😭🎭
+> What did the Git repository say to the developer? 'You commit too much.' 🤦‍♂️
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
