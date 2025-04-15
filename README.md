@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Weka Explorer: Named after a flightless New Zealand bird. **Just like my ML models—going nowhere fast.** 🐦📉
+> CSS: *'I can position anything anywhere!'* Also CSS: *'Except that one button... That button will haunt you.'* 😭🎭
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
