@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the frontend developer go broke? **Because he lost all his divs.** 💸📏
+> 404 — Joke not found. Try again later. 🚫
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
