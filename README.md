@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> 404 — Joke not found. Try again later. 🚫
+> Assembly: Writing machine code, but by hand. ✍️📟
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
