@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Brainfuck is a great language. For torture. 🤯💀
+> Me: *'I should write better commit messages.'* Also me: **`git commit -m 'fixed stuff'`** 🤦‍♂️📜
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
