@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do developers love GitHub? Because **every bad decision can be undone… unless you `force push`.** 💀🚀
+> Neural networks are like toddlers. You show them a million pictures of a cat, and they still call a dog a 'cat' sometimes. 🐱🐶
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
