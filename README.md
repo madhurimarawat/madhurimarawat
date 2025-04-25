@@ -391,7 +391,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Neural networks are like toddlers. You show them a million pictures of a cat, and they still call a dog a 'cat' sometimes. 🐱🐶
+> Documentation says **'Self-explanatory code.'** The code: `a = (((b - c) << 3) & 0xFF) | d;` 😵‍💫📜
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
