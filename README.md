@@ -351,11 +351,11 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [🛠️ Using Cloud Functions for Serverless Computing 🧩](https://dev.to/madhurima_rawat/using-cloud-functions-for-serverless-computing-5eik)
 - [📡 Setting Up and Configuring Cloud Networking 🔐](https://dev.to/madhurima_rawat/setting-up-and-configuring-cloud-networking-2ae0)
 - [🗂️ Working with AWS S3 Cloud Storage Services 💾](https://dev.to/madhurima_rawat/working-with-aws-s3-cloud-storage-services-1d1h)
 - [🌐 Deploying a Web Application on a Cloud Server 🚀](https://dev.to/madhurima_rawat/deploying-a-web-application-on-a-cloud-server-38cn)
 - [⚙️ Steps to Set Up a Virtual Machine in LocalStack 🖥️](https://dev.to/madhurima_rawat/steps-to-set-up-a-virtual-machine-in-localstack-408g)
-- [☁️ Local Cloud Setup: LocalStack + Docker + AWS CLI ⚡](https://dev.to/madhurima_rawat/local-cloud-setup-localstack-docker-aws-cli-dm8)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🔥 Top Performing
