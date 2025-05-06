@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do Brainfuck developers love minimalism? Because they only have 8 commands. 📉🤏
+> Data Science interview: *'Do you have experience with AI?'* Me: *'Yes, I’ve asked ChatGPT stupid questions.'* 🤖🧠
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
