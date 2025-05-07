@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science interview: *'Do you have experience with AI?'* Me: *'Yes, I’ve asked ChatGPT stupid questions.'* 🤖🧠
+> GitHub Stars don’t pay the bills, but they do fuel my ego. ⭐😎
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
