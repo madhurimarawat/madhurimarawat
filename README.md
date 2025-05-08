@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub Stars don’t pay the bills, but they do fuel my ego. ⭐😎
+> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
