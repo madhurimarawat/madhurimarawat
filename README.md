@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> VS Code: 'Trust this folder?' Me: 'Bro, I don’t even trust myself.' 🤡💀
+> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
