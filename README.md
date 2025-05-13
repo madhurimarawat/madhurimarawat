@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Weak Explorer: That one dev who commits `final_final_v2_REAL_FIX.js` because they refuse to rename properly. 🤡📂
+> Brainfuck: The only language where 'Hello World' makes you question your life choices. 🤔💭
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
