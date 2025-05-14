@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Brainfuck: The only language where 'Hello World' makes you question your life choices. 🤔💭
+> Frontend devs: *'I center a div.'* Backend devs: *'I manage databases and authentication.'* Data scientists: *'I spend 90% of my time fixing CSV files.'* 🫠💾
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
