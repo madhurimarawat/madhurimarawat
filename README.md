@@ -392,7 +392,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> AI researchers: 'We’re building human-like intelligence.' Also AI: *'Here is an image of a ‘horse-banana.’'* 🍌🐎
+> Overengineering: When your ‘To-Do List’ app has **Docker, Kubernetes, Kafka, and AI integration.** 🛠️🤖
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
