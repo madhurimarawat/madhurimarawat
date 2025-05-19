@@ -351,11 +351,11 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [👥 Cloud Identity and Access Management &lpar;IAM&rpar; 🔓](https://dev.to/madhurima_rawat/cloud-identity-and-access-management-iam-696)
+- [🌩️ Cloud Databases and Data Management 📊](https://dev.to/madhurima_rawat/cloud-databases-and-data-management-5aa7)
+- [⚖️ Cloud Load Balancing and Auto Scaling 📈](https://dev.to/madhurima_rawat/cloud-load-balancing-and-auto-scaling-1ol9)
 - [✂️ From 2500+ to 10+ Lines: Automated Modular Code Refactor 🤖](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)
 - [🛠️ Using Cloud Functions for Serverless Computing 🧩](https://dev.to/madhurima_rawat/using-cloud-functions-for-serverless-computing-5eik)
-- [📡 Setting Up and Configuring Cloud Networking 🔐](https://dev.to/madhurima_rawat/setting-up-and-configuring-cloud-networking-2ae0)
-- [🗂️ Working with AWS S3 Cloud Storage Services 💾](https://dev.to/madhurima_rawat/working-with-aws-s3-cloud-storage-services-1d1h)
-- [🌐 Deploying a Web Application on a Cloud Server 🚀](https://dev.to/madhurima_rawat/deploying-a-web-application-on-a-cloud-server-38cn)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🔥 Top Performing
