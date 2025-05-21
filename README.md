@@ -47,9 +47,6 @@
     <a href="https://medium.com/@rawatmadhurima4" class="link" target="_blank" title="Medium Profile"
         alt="Medium Logo"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"
             title="Medium Profile" alt="Medium Logo" height=35></a> &nbsp &nbsp &nbsp
-  <a href="https://discord.gg/ezhWErYUkt" class="link" target="_blank" title="Discord Server"
-        alt="Discord Logo"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
-            title="Discord Server" alt="Discord Logo" height=35></a> &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
             src="https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35
             title="CodeCulture" alt="CodeCulture"></a>&nbsp &nbsp &nbsp
