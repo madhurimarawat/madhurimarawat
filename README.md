@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> My ML model is like me in a group project—**it overfits to the training data and struggles in the real world.** 🤖📉
+> Why was the JavaScript developer sad? Because he didn't ‘null’ his problems. 😔
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
