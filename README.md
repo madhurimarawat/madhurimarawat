@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the JavaScript developer sad? Because he didn't ‘null’ his problems. 😔
+> Haskell devs don’t make mistakes. They just return 'Nothing.' 🚫💡
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
