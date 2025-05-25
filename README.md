@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Haskell devs don’t make mistakes. They just return 'Nothing.' 🚫💡
+> Why did the data scientist break up with their model? **Too many assumptions, not enough validation.** 💔📊
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
