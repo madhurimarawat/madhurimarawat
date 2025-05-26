@@ -348,11 +348,11 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [🌊 AquaScript: Your Dev Tool for Fake Data, Real Impact ⚡](https://dev.to/aquascript/aquascript-your-dev-tool-for-fake-data-real-impact-20ib)
+- [✅ Setting Up Cloud-based CI-CD Pipeline 🔄](https://dev.to/madhurima_rawat/setting-up-cloud-based-ci-cd-pipeline-3jjn)
+- [📊 Implementing Cloud Monitoring and Logging 🛠️](https://dev.to/madhurima_rawat/implementing-cloud-monitoring-and-logging-1ob9)
 - [👥 Cloud Identity and Access Management &lpar;IAM&rpar; 🔓](https://dev.to/madhurima_rawat/cloud-identity-and-access-management-iam-696)
 - [🌩️ Cloud Databases and Data Management 📊](https://dev.to/madhurima_rawat/cloud-databases-and-data-management-5aa7)
-- [⚖️ Cloud Load Balancing and Auto Scaling 📈](https://dev.to/madhurima_rawat/cloud-load-balancing-and-auto-scaling-1ol9)
-- [✂️ From 2500+ to 10+ Lines: Automated Modular Code Refactor 🤖](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)
-- [🛠️ Using Cloud Functions for Serverless Computing 🧩](https://dev.to/madhurima_rawat/using-cloud-functions-for-serverless-computing-5eik)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🔥 Top Performing
