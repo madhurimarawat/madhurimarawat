@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the data scientist break up with their model? **Too many assumptions, not enough validation.** 💔📊
+> Machine Learning engineers spend 90% of their time cleaning data… and 10% complaining about cleaning data. 🧹📊
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
