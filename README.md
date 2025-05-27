@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Machine Learning engineers spend 90% of their time cleaning data… and 10% complaining about cleaning data. 🧹📊
+> C++: Where you can have an error in code that compiled successfully. 🤡🎭
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
