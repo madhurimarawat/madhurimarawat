@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Every programmer's LinkedIn bio: *‘Passionate about coding.’* Meanwhile, we’re all crying over a semicolon. 😭👨‍💻
+> Haskell devs don’t make mistakes. They just return 'Nothing.' 🚫💡
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
