@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
+> Why do Java developers wear glasses? Because they don’t C#. 👓
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
