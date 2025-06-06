@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why does my IDE look like a spaceship dashboard? Because I keep installing plugins I'll never use. 🚀🔧
+> Me: *writes one line of code* VS Code: *100 extensions updating, fan goes brrrrrr*. 💻🌪️
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
