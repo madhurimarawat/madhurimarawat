@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Me: *writes one line of code* VS Code: *100 extensions updating, fan goes brrrrrr*. 💻🌪️
+> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
