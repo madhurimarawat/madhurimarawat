@@ -389,7 +389,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
+> Why do Rust programmers sleep well? Because they don’t have memory leaks. 🛏️🦀
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
