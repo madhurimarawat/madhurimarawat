@@ -60,7 +60,7 @@ jobs:
             count=$(echo "$response" | jq length)
             [[ $count -eq 0 ]] && break # ✅ Stop if no more posts
             
-            echo "$response" | jq -r '.[] | select(.positive_reactions_count >= 20) | "- [\(.title)](\(.url))"' >> top_posts.md
+            echo "$response" | jq -r '.[] | select(.positive_reactions_count >= 35) | "- [\(.title)](\(.url))"' >> top_posts.md
             page=$((page + 1))
           done
           echo "<!-- TOP-POST-LIST:END -->" >> top_posts.md
