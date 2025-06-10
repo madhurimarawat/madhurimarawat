@@ -11,7 +11,7 @@
 <p align="center">
   
 <a href="https://madhurimarawat.github.io/Badger-Icons/" target="_blank">
-        <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.png" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.png" width="300" height="300">
+        <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-3-transparent.webp" title="Transparent Icon for Data Scientist (Badger-Icons)" alt="concept-icon-3-transparent.webp" width="300" height="300">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://gitroll.io/profile/uggTYKafyFPN995yHRFqc4VkjH9f2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uggTYKafyFPN995yHRFqc4VkjH9f2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -92,9 +92,9 @@ Click on the icon to see the associated repository
 <br>
 
 <p>  
-<a href="https://github.com/madhurimarawat/Data-structure-using-C"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/programming_languages/c/concept-logo-1-transparent.png" title="C - Low-level programming language for system development (Badger-Icons)" alt="C Language" width="40" height="40"></a>&nbsp;  
-<a href="https://github.com/madhurimarawat/Object-oriented-programming-with-c-plus-plus"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/programming_languages/c++/concept-logo-2-transparent.png" title="C++ - Object-oriented language for software development (Badger-Icons)" alt="C++ Language" width="40" height="40"></a> &nbsp;  
-<a href="https://github.com/madhurimarawat/Analysis-and-Design-of-Algorithm-using-python"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/programming_languages/python/concept-icon-1-transparent.png" title="Python - General-purpose language for data science and web development (Badger-Icons)" alt="Python" width="40" height="40"></a>&nbsp;  
+<a href="https://github.com/madhurimarawat/Data-structure-using-C"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/programming_languages/c/concept-logo-1-transparent.webp" title="C - Low-level programming language for system development (Badger-Icons)" alt="C Language" width="40" height="40"></a>&nbsp;  
+<a href="https://github.com/madhurimarawat/Object-oriented-programming-with-c-plus-plus"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/programming_languages/c++/concept-logo-2-transparent.webp" title="C++ - Object-oriented language for software development (Badger-Icons)" alt="C++ Language" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Analysis-and-Design-of-Algorithm-using-python"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/programming_languages/python/concept-icon-1-transparent.webp" title="Python - General-purpose language for data science and web development (Badger-Icons)" alt="Python" width="40" height="40"></a>&nbsp;  
 <a href="https://github.com/madhurimarawat/R-for-Datascience"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R - Statistical computing and data analysis" alt="R" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS - Styling language for web design" alt="CSS" width="40" height="40"/> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Website-Frontend-Developement"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML - Markup language for structuring web content" alt="HTML" width="40" height="40"/> </a> &nbsp;  
@@ -132,7 +132,7 @@ Click on the icon to see the associated repository
 <br>
 
 <p>  
-<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL - Open-source relational database management system (Badger-Icons)" alt="MySQL" width="40" height="40"> </a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.webp" title="MySQL - Open-source relational database management system (Badger-Icons)" alt="MySQL" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB - Time series database optimized for high performance" alt="InfluxDB" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Apache Hive - Data warehouse infrastructure for querying large datasets" alt="Hive" width="40" height="40"/> </a>  
 </p>  
