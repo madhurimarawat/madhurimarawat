@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> C++: Where you can have an error in code that compiled successfully. 🤡🎭
+> How do you comfort a JavaScript bug? Console it. 🖥️
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
