@@ -390,7 +390,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> How do you comfort a JavaScript bug? Console it. 🖥️
+> Programmers aren’t the only ones with imposter syndrome. Spark’s logo is a star… yet it’s mostly used for batch jobs. 🌟⌛
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
