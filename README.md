@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Merge conflict: **'Both of you made changes to this file.'** Developers: **'No, YOU fix it.'** 🥊💥
+> AI researchers: 'We’re building human-like intelligence.' Also AI: *'Here is an image of a ‘horse-banana.’'* 🍌🐎
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
