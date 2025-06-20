@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GPT-4: 'I can generate poetry, summarize books, and write essays!' Also GPT-4: *'The letter E does not exist.'* 🤖🚫
+> What do you call a bug that keeps coming back? A *feature*. 🤷‍♂️
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
