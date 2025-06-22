@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I needed a simple counter, so I set up **Kafka, Redis, a microservice, and a load balancer**. It still doesn't work. 🤡🛠️
+> Why do Java developers wear glasses? Because they don’t C#. 👓
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
