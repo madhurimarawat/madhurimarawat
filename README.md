@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
+> Why was the JavaScript developer sad? Because he didn't ‘null’ his problems. 😔
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
