@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the JavaScript developer sad? Because he didn't ‘null’ his problems. 😔
+> JavaScript is fun! Until you have to deal with `==` vs. `===`. 🤬💀
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
