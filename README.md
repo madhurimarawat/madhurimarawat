@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> JavaScript is fun! Until you have to deal with `==` vs. `===`. 🤬💀
+> How does a developer propose? 'Let’s merge our branches forever.' 💍
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
