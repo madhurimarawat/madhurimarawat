@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> How does a developer propose? 'Let’s merge our branches forever.' 💍
+> AI Ethics Boards: 'We must regulate AI to prevent harm.' AI Companies: **'We trained it on Reddit. Good luck.'** 💀📢
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
