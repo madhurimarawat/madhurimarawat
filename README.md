@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> AI Ethics Boards: 'We must regulate AI to prevent harm.' AI Companies: **'We trained it on Reddit. Good luck.'** 💀📢
+> My code works... until it doesn’t. 🫠⚠️
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
