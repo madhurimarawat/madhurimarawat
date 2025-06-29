@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> My code works... until it doesn’t. 🫠⚠️
+> Programmers don't need therapy. They just need **a debugger, a README that actually explains things, and a hug.** 🫂💔
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
