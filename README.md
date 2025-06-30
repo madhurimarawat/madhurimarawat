@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programmers don't need therapy. They just need **a debugger, a README that actually explains things, and a hug.** 🫂💔
+> Why don’t JavaScript developers trust each other? Because they all use ‘var’ instead of ‘let’ or ‘const’. 😆
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
