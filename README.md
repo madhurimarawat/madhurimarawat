@@ -334,8 +334,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [Portfolio-Templates](https://github.com/madhurimarawat/Portfolio-Templates)
-**📝 Description:** A collection of beautiful, easy-to-use, and professional portfolio templates with elegant themes and responsive designs. All templates are powered by modular JSON-based data fetching and support seamless updates via Python automation scripts.
+**📦 Latest Repo:**  [Animated-Solar-System](https://github.com/madhurimarawat/Animated-Solar-System)
+**📝 Description:** This project is an interactive solar system visualization using pure HTML, CSS, and JavaScript. It creatively represents each planet with beautiful animations and dynamic UI elements.
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
