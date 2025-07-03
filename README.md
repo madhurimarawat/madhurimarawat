@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science rule #1: **If your model performs too well, you probably leaked the answer.** 🔍🎯
+> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
