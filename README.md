@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
+> Why was the function feeling lost? It didn’t return anything. 🔄
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
