@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> AI researchers: 'We’re building human-like intelligence.' Also AI: *'Here is an image of a ‘horse-banana.’'* 🍌🐎
+> Ever feel like an imposter? Remember, someone named 'Weirdly Efficient Key Algorithm' (WEKA) **and nobody questioned it.** 😵‍💫🔑
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
