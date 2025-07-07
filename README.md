@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Ever feel like an imposter? Remember, someone named 'Weirdly Efficient Key Algorithm' (WEKA) **and nobody questioned it.** 😵‍💫🔑
+> Why did the developer break up with their IDE? Because it had too many *commit*ment issues. 💔
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
