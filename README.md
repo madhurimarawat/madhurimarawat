@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub Actions: *'Your build failed.'* Me: **'I just changed the README.'** 🤔💀
+> Assembly: Writing machine code, but by hand. ✍️📟
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
