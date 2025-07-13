@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
+> Ever feel like an imposter? Remember, someone named 'Weirdly Efficient Key Algorithm' (WEKA) **and nobody questioned it.** 😵‍💫🔑
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
