@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I thought debugging would be hard. Then I realized… writing the code was even harder. 🤦‍♂️🔥
+> Why did the database administrator go broke? They lost all their tables. 💸
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
