@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Frontend developers spend 80% of their time **fixing CSS bugs** and the other 20% **pretending everything is fine.** 😵‍💫💻
+> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
