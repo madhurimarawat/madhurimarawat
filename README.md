@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
+> Why did the database administrator go broke? They lost all their tables. 💸
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
