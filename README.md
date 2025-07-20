@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the database administrator go broke? They lost all their tables. 💸
+> Data Science interview: *'Do you have experience with AI?'* Me: *'Yes, I’ve asked ChatGPT stupid questions.'* 🤖🧠
 <!-- JOKE-SECTION-END -->
 
 <p align="center"> 
