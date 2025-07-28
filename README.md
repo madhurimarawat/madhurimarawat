@@ -348,11 +348,11 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [💡 Stand Out: Creative Portfolio Concepts for Developers 🎨](https://dev.to/madhurima_rawat/stand-out-creative-portfolio-concepts-for-developers-b6g)
 - [🧰 Developer Resources Hub: Essential Tools and Tech in One Place 📚](https://dev.to/madhurima_rawat/developer-resources-hub-essential-tools-and-tech-in-one-place-4amn)
 - [🌊 AquaScript: Your Dev Tool for Fake Data, Real Impact ⚡](https://dev.to/aquascript/aquascript-your-dev-tool-for-fake-data-real-impact-20ib)
 - [✅ Setting Up Cloud-based CI-CD Pipeline 🔄](https://dev.to/madhurima_rawat/setting-up-cloud-based-ci-cd-pipeline-3jjn)
 - [📊 Implementing Cloud Monitoring and Logging 🛠️](https://dev.to/madhurima_rawat/implementing-cloud-monitoring-and-logging-1ob9)
-- [👥 Cloud Identity and Access Management &lpar;IAM&rpar; 🔓](https://dev.to/madhurima_rawat/cloud-identity-and-access-management-iam-696)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🔥 Top Performing
