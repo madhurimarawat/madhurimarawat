@@ -388,7 +388,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Transformer models: ‘Attention is all you need.’ My brain: **‘More RAM is all I need.’** 🧠🔥
+> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
 <!-- JOKE-SECTION-END -->
 
 <p align="center"><img src="https://th.bing.com/th/id/R.d61331f3957df85dfe468234c47ce568?rik=6DK6XPTc2XVBMQ&riu=http%3a%2f%2fi302.photobucket.com%2falbums%2fnn84%2fJewelMAtwood%2fThankyouforVisitingMyPageGreen.gif&ehk=WvaQRLG9rcEBJsuABj%2bSo1NR0u2eXU4NyUD1HdYXnIc%3d&risl=&pid=ImgRaw&r=0" height="200px" title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p>
