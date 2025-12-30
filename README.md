@@ -50,10 +50,6 @@
     <a href="https://madhurimarawat.github.io/CodeCulture-Daily/"><img
             src="https://github.com/madhurimarawat/CodeCulture-Daily/blob/main/docs/images/Logo.png" height=35
             title="CodeCulture" alt="CodeCulture"></a>&nbsp &nbsp &nbsp
-    <a href="https://www.youtube.com/@Madhurima-Code-Cosmos"><img
-            src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" height=35
-            title="Youtube" alt="Youtube"></a>
-    &nbsp &nbsp &nbsp
     <a href="https://madhurimarawat.github.io/Madhurima-Mindscape/"><img
             src="https://github.com/madhurimarawat/Madhurima-Mindscape/blob/main/images/Logo.png" height=35
             title="Madhurima Mindscape" alt="Madhurima Mindscape"></a>
@@ -76,7 +72,7 @@
 - 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
 - 💬 Ask me about programming languages 😀<br><br>
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
+<a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - 😄 Pronouns: She/Her.<br><br>
 - ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br><br>
 - 💡 Feel free to share any good story or article resources with me! 📚✨
