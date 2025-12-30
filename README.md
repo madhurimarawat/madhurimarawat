@@ -19,6 +19,9 @@
 </p>
 
 <p align="center">
+   <a href="mailto:rawatmadhurima4@gmail.com"><img
+            src="https://media.giphy.com/media/LaD9jZP2ThD68/giphy.gif" title="Email ID"
+            height="35" alt="Email"></a> &nbsp &nbsp &nbsp
     <a href="https://www.linkedin.com/in/madhurima-rawat/"><img
             src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn Profile"
             height=35 alt="LinkedIN"></a> &nbsp &nbsp &nbsp
