@@ -228,22 +228,6 @@ Click on the icon to see the associated repository
 
 </details>
 
-<!-- Profile trophies -->
-<details open>
-  
-<summary><h2>🏆 &nbsp; GitHub Profile Trophies :</summary></h2
-
-<div align="center">
-  <picture>
-    <!-- Light Mode Image -->
-    <source srcset="https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=flat&margin-w=15&no-frame=true" media="(prefers-color-scheme: light)">
-    <!-- Dark Mode Image -->
-    <img src="https://github-profile-trophy.vercel.app/?username=madhurimarawat&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies">
-  </picture>
-</div>
-
-</details>
-
 <!-- Internships -->
 <details open>
 <summary><h2>📑🌟 &nbsp; Experience :</h2></summary> 
