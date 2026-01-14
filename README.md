@@ -63,23 +63,6 @@
 
 </p>
 
-### 👩‍💻 &nbsp;About Me :
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
-
-- 👋 I’m Madhurima Rawat  :student:<br><br>
-- 👀 I’m interested in data structure and programming languages<br><br>
-<img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
-- :classical_building: Pursuing B.Tech(Hons.) in Data Science from CSVTU <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/d9fceaeb-aea5-4954-823b-ce90ceb6ef0b" height=35 width=35>&nbsp; <br><br>
-- 🌱 I’m currently learning Artificial Intelligence 🤖🧠, Datascience 📊📈 and Machine Learning 🛠📚<br><br>
-- 👯 I’m looking to collaborate on python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
-- 💬 Ask me about programming languages 😀<br><br>
-- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- 😄 Pronouns: She/Her.<br><br>
-- ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br><br>
-- 💡 Feel free to share any good story or article resources with me! 📚✨
-
  <!-- Languages and Tools Section -->
 <details open>
 <summary><h2> 🛠 &nbsp;Languages and Tools :</h2></summary>
@@ -118,13 +101,14 @@ Click on the icon to see the associated repository
 <a href="https://github.com/madhurimarawat/Machine-Learning-Projects-In-Python"><img src="https://i.gyazo.com/0b29c28bab26d0302b01de863091c93a.png" title="Joblib - Library for efficient Python object persistence" alt="Joblib" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/R-Projects"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/3793ae82-1a6f-4f7e-a3f6-f8044f1e86d1" title="ggplot2 - Data visualization package for R" alt="ggplot2" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" title="Bootstrap - Frontend framework for responsive web design" alt="Bootstrap" width="40" height="40"></a>  &nbsp;  
-<a href="https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" title="NLTK - Natural Language Processing toolkit in Python" alt="NLTK" width="40" height="40"></a> &nbsp;  
+<a href="https://github.com/madhurimarawat/Natural-Language-Processing-in-Python"><img src="https://www.ahlantechnology.com/wp-content/uploads/2022/01/NLTK.png" title="NLTK - Natural Language Processing toolkit in Python" alt="NLTK" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Web-Scrapper-Functions"><img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" title="Requests - HTTP library for making API calls in Python" alt="Requests" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest - Testing framework for Python" alt="Pytest" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://blackfennec.org/images/sphinx.png" title="Sphinx - Documentation generator for Python projects" alt="Sphinx" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://avatars.githubusercontent.com/u/109019481?s=280&v=4" title="MkDocs - Static site generator for project documentation" alt="MkDocs" width="40" height="40"></a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Software-Engineering"><img src="https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png" title="PDoc - Python API documentation generator" alt="PDoc" width="40" height="40"></a> &nbsp;  
-<a href="https://github.com/madhurimarawat/CSVTU-GPT"><img src="https://www.taccorgaming.co.za/wp-content/uploads/2015/02/Fuzzy-Logic-Blue-Transparent.png" title="FuzzyWuzzy - Library for fuzzy string matching in Python" alt="FuzzyWuzzy" width="40" height="40"></a>  
+<a href="https://github.com/madhurimarawat/CSVTU-GPT"><img src="https://www.taccorgaming.co.za/wp-content/uploads/2015/02/Fuzzy-Logic-Blue-Transparent.png" title="FuzzyWuzzy - Library for fuzzy string matching in Python" alt="FuzzyWuzzy" width="40" height="40"></a>  &nbsp;  
+<a href="https://github.com/madhurimarawat/Madhurima-Mindscape"><img src="https://cms-assets.tutsplus.com/uploads/users/48/posts/24413/preview_image/jekyll-1.png" title="Jekyll - Static site generator for GitHub Pages" alt="Jekyll" width="40" height="40"></a>  
 </p>  
 
 ### 💻 &nbsp;Databases :
@@ -133,7 +117,7 @@ Click on the icon to see the associated repository
 <p>  
 <a href="https://github.com/madhurimarawat/Semester-Notes/tree/main/3%20SEMESTER/Database%20Management%20System"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.webp" title="MySQL - Open-source relational database management system (Badger-Icons)" alt="MySQL" width="40" height="40"> </a> &nbsp;  
 <a href="https://github.com/madhurimarawat/Stock-Market-Prediction"><img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB - Time series database optimized for high performance" alt="InfluxDB" width="40" height="40"> </a> &nbsp;  
-<a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" title="Apache Hive - Data warehouse infrastructure for querying large datasets" alt="Hive" width="40" height="40"/> </a>  
+<a href="https://github.com/madhurimarawat/Big-Data-Analytics"><img src="https://logodix.com/logo/981909.png" title="Apache Hive - Data warehouse infrastructure for querying large datasets" alt="Hive" width="40" height="40"/> </a>  
 </p>  
 
 ### 🌟 &nbsp; Technology and Tools :
@@ -179,6 +163,8 @@ Click on the icon to see the associated repository
 
 <p>  
 <a href="https://github.com/madhurimarawat/Library-Management-System"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify - Cloud platform for deploying and hosting websites" alt="Netlify" width="40" height="40"></a>  
+  &nbsp;  
+<a href="https://github.com/madhurimarawat/CodeCulture-Daily"><img src="https://toppng.com/uploads/thumbnail/github-logo-transparent-background-11659780106cj5npsecvo.png" title="GitHub Pages – Static website hosting and deployment service by GitHub" alt="Github Pages" width="40" height="40"></a>
 </p>  
 
 </details>
@@ -188,32 +174,43 @@ Click on the icon to see the associated repository
   
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
 
-<br>
-
 <div align="center">
+  
 <!-- GitHub Streak Stats -->
 <picture>
-  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
-  <source srcset="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=flag-india">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=madhurimarawat&theme=default" alt="GitHub Streak Stats">
+  <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=madhurimarawat&theme=neon" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=madhurimarawat&theme=flag-india">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=madhurimarawat&theme=flag-india" alt="GitHub Streak Stats">
 </picture>
 </div>
 
 <br>
 
 <div align="center">
+
+  <!-- Github Metrics -->
+<picture>
+  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=madhurimarawat&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=madhurimarawat&show_icons=true&theme=flag-india">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=madhurimarawat&show_icons=true&theme=flag-india" alt="Github Metrics">
+</picture>
+
+<br>
+
 <!-- Repos per Language -->
 <picture>
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=flag_india">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhurimarawat&theme=flag_india" alt="Repos per Language">
 </picture>
+  
 <!-- Most Committed Language -->
 <picture>
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=dracula" media="(prefers-color-scheme: dark)">
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=flag_india">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhurimarawat&theme=flag_india" alt="Most Commit Language">
 </picture>
+
 </div>
 
 <div align="center">
@@ -374,5 +371,4 @@ During this program, I developed expertise in creating ML models and contributed
 > Why don’t JavaScript developers trust each other? Because they all use ‘var’ instead of ‘let’ or ‘const’. 😆
 <!-- JOKE-SECTION-END -->
 
-<p align="center"><img src="https://th.bing.com/th/id/R.d61331f3957df85dfe468234c47ce568?rik=6DK6XPTc2XVBMQ&riu=http%3a%2f%2fi302.photobucket.com%2falbums%2fnn84%2fJewelMAtwood%2fThankyouforVisitingMyPageGreen.gif&ehk=WvaQRLG9rcEBJsuABj%2bSo1NR0u2eXU4NyUD1HdYXnIc%3d&risl=&pid=ImgRaw&r=0" height="200px" title="Thanks For Visiting 😇" alt="Thanks For Visiting 😇 Gif" ></p>
 </details>
