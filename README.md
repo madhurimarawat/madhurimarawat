@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
+> My code works... until it doesn’t. 🫠⚠️
 <!-- JOKE-SECTION-END -->
 
 </details>
