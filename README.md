@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Software has *bugs* because in 1947, a moth was found in a computer relay. **So technically, every coder is just a digital exterminator.** 🦟💻
+> What do you call a bug that keeps coming back? A *feature*. 🤷‍♂️
 <!-- JOKE-SECTION-END -->
 
 </details>
