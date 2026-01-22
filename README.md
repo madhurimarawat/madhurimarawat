@@ -319,7 +319,7 @@ During this program, I developed expertise in creating ML models and contributed
 
 #### ⭐ Most Starred Repository
 **📌 Top Repo:**  [Semester-Notes](https://github.com/madhurimarawat/Semester-Notes)
-**📝 Description:** This repository includes academic notes, study materials, and resources from B.Tech (Hons) in CSE, specializing in Artificial Intelligence and Data Science. It features question papers, proprietary study guides, and resources to support learning in these fields.
+**📝 Description:** A comprehensive, well-structured repository of B.Tech (Hons) CSE notes and learning resources, specializing in Artificial Intelligence and Data Science. Includes semester-wise notes, question papers, curated study guides, and indexed materials designed for efficient learning, revision, and academic reference.
 <!-- REPO-SECTION-END -->
 
 ### ✍️ Dev Articles :  
