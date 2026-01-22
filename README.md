@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Overengineered code: When your **to-do list app** has **microservices, Kafka, and AI integration.** 🤖🛠️
+> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
 <!-- JOKE-SECTION-END -->
 
 </details>
