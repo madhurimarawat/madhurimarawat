@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub Actions: *'Your build failed.'* Me: **'I just changed the README.'** 🤔💀
+> Transformer models: ‘Attention is all you need.’ My brain: **‘More RAM is all I need.’** 🧠🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
