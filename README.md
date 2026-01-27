@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Transformer models: ‘Attention is all you need.’ My brain: **‘More RAM is all I need.’** 🧠🔥
+> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
 <!-- JOKE-SECTION-END -->
 
 </details>
