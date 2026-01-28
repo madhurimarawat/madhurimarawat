@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
+> Why did the CSS developer go to therapy? Because he had too many issues with *flex* and *grid*. 🤯
 <!-- JOKE-SECTION-END -->
 
 </details>
