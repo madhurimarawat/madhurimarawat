@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the CSS developer go to therapy? Because he had too many issues with *flex* and *grid*. 🤯
+> Why was the computer cold? It left its Windows open. 🥶
 <!-- JOKE-SECTION-END -->
 
 </details>
