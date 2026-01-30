@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the computer cold? It left its Windows open. 🥶
+> Why do Java developers wear glasses? Because they don’t C#. 👓
 <!-- JOKE-SECTION-END -->
 
 </details>
