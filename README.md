@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programmers don't need therapy. They just need **a debugger, a README that actually explains things, and a hug.** 🫂💔
+> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
 <!-- JOKE-SECTION-END -->
 
 </details>
