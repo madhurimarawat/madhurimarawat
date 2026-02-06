@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Brainfuck is a great language. For torture. 🤯💀
+> SQL Injection: The only time a hacker can log in as `admin'; DROP TABLE users;--`. 🏴‍☠️💻
 <!-- JOKE-SECTION-END -->
 
 </details>
