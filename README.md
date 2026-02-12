@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Legacy code isn’t scary. **The real horror is seeing `tempFinal_latest_REALFINAL.js` in production.** 👀🔥
+> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
 <!-- JOKE-SECTION-END -->
 
 </details>
