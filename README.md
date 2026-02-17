@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
+> Frontend developers spend 80% of their time **fixing CSS bugs** and the other 20% **pretending everything is fine.** 😵‍💫💻
 <!-- JOKE-SECTION-END -->
 
 </details>
