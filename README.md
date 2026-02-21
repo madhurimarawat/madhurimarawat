@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Documentation says **'Self-explanatory code.'** The code: `a = (((b - c) << 3) & 0xFF) | d;` 😵‍💫📜
+> How do you know a programmer is at the gym? They're always working on their *core*. 💪
 <!-- JOKE-SECTION-END -->
 
 </details>
