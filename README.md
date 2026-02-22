@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> How do you know a programmer is at the gym? They're always working on their *core*. 💪
+> Why did the database administrator go broke? They lost all their tables. 💸
 <!-- JOKE-SECTION-END -->
 
 </details>
