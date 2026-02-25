@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
+> Why did the frontend developer go broke? **Because he lost all his divs.** 💸📏
 <!-- JOKE-SECTION-END -->
 
 </details>
