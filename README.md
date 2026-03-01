@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
+> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
