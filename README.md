@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
+> Why did the developer break up with their IDE? Because it had too many *commit*ment issues. 💔
 <!-- JOKE-SECTION-END -->
 
 </details>
