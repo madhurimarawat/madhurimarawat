@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
+> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
 <!-- JOKE-SECTION-END -->
 
 </details>
