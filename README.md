@@ -310,8 +310,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [Developer-Resources-Hub](https://github.com/madhurimarawat/Developer-Resources-Hub)
-**📝 Description:** A comprehensive collection of valuable resources for developers, covering job preparation, programming, frontend, backend, IoT, databases, and more.
+**📦 Latest Repo:**  [Engineering-Notes-Hub](https://github.com/madhurimarawat/Engineering-Notes-Hub)
+**📝 Description:** A centralized repository of study notes for engineering students, categorized department-wise. Open for contributions.
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
