@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Stack Overflow user: *'This is the dumbest bug ever.'* Me: *'I have the same bug.'* 🫠📉
+> Why do programmers prefer dark mode? Because syntax highlighting is life. 🌙
 <!-- JOKE-SECTION-END -->
 
 </details>
