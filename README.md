@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Java was named after coffee because devs **can't function without it**. Meanwhile, PHP was named after… well, nobody really knows. ☕🤔
+> GitHub Stars don’t pay the bills, but they do fuel my ego. ⭐😎
 <!-- JOKE-SECTION-END -->
 
 </details>
