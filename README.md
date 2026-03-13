@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> CSS: Where centering a div is harder than solving a calculus problem. 📏🔢
+> Data Science rule #1: **If your model performs too well, you probably leaked the answer.** 🔍🎯
 <!-- JOKE-SECTION-END -->
 
 </details>
