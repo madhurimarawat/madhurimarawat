@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science rule #1: **If your model performs too well, you probably leaked the answer.** 🔍🎯
+> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
 <!-- JOKE-SECTION-END -->
 
 </details>
