@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the frontend developer go broke? **Because he lost all his divs.** 💸📏
+> Why was the computer cold? It left its Windows open. 🥶
 <!-- JOKE-SECTION-END -->
 
 </details>
