@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I needed a simple counter, so I set up **Kafka, Redis, a microservice, and a load balancer**. It still doesn't work. 🤡🛠️
+> Frontend devs: *'I center a div.'* Backend devs: *'I manage databases and authentication.'* Data scientists: *'I spend 90% of my time fixing CSV files.'* 🫠💾
 <!-- JOKE-SECTION-END -->
 
 </details>
