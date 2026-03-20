@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Frontend devs: *'I center a div.'* Backend devs: *'I manage databases and authentication.'* Data scientists: *'I spend 90% of my time fixing CSV files.'* 🫠💾
+> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
 <!-- JOKE-SECTION-END -->
 
 </details>
