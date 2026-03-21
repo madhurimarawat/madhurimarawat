@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
+> Merge conflict: **'Both of you made changes to this file.'** Developers: **'No, YOU fix it.'** 🥊💥
 <!-- JOKE-SECTION-END -->
 
 </details>
