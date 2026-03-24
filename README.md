@@ -310,8 +310,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [Engineering-Notes-Hub](https://github.com/madhurimarawat/Engineering-Notes-Hub)
-**📝 Description:** A centralized repository of study notes for engineering students, categorized department-wise. Open for contributions.
+**📦 Latest Repo:**  [Essential-Templates-Kit](https://github.com/madhurimarawat/Essential-Templates-Kit)
+**📝 Description:** A curated collection of clean, modern, and ready-to-use templates for developers, creators, and students.
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
