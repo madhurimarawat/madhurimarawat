@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Ever wonder why TensorFlow sounds so dramatic? Because ‘Basic Matrix Library’ wouldn’t have gotten Google funding. 🏛️📊
+> Programmers don’t suffer from imposter syndrome. We KNOW we have no idea what we’re doing. 😵‍💫🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
