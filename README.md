@@ -310,8 +310,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [Essential-Templates-Kit](https://github.com/madhurimarawat/Essential-Templates-Kit)
-**📝 Description:** A curated collection of clean, modern, and ready-to-use templates for developers, creators, and students.
+**📦 Latest Repo:**  [BudgetFlow](https://github.com/madhurimarawat/BudgetFlow)
+**📝 Description:** A simple, private, and customizable personal finance tracker built with Python and Streamlit for effortless monthly expense management.
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
