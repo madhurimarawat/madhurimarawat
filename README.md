@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Me: *'I’ll push this small change to production.'* GitHub Actions: **'Good luck, buddy.'** 🚀🔥
+> LinkedIn: 'Tell us about yourself!' Me: 'Bro, I have no idea who I even am.' 🤷‍♂️💀
 <!-- JOKE-SECTION-END -->
 
 </details>
