@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I tried to write a program in Brainfuck. Now I’m in therapy. 🏥💀
+> CSS: *'I can position anything anywhere!'* Also CSS: *'Except that one button... That button will haunt you.'* 😭🎭
 <!-- JOKE-SECTION-END -->
 
 </details>
