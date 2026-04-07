@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> CSS: *'I can position anything anywhere!'* Also CSS: *'Except that one button... That button will haunt you.'* 😭🎭
+> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
 <!-- JOKE-SECTION-END -->
 
 </details>
