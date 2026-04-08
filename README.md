@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
+> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
