@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
+> Every programmer's LinkedIn bio: *‘Passionate about coding.’* Meanwhile, we’re all crying over a semicolon. 😭👨‍💻
 <!-- JOKE-SECTION-END -->
 
 </details>
