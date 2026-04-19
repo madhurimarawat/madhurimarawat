@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> C is like riding a bicycle... except the bicycle is on fire and so is your memory. 🚲🔥
+> Apache Spark: Because nothing screams 'lightweight' like a **massive distributed computing framework** named after fire. 🔥💻
 <!-- JOKE-SECTION-END -->
 
 </details>
