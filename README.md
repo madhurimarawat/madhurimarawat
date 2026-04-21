@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the function feeling lost? It didn’t return anything. 🔄
+> Me: *'I should write better commit messages.'* Also me: **`git commit -m 'fixed stuff'`** 🤦‍♂️📜
 <!-- JOKE-SECTION-END -->
 
 </details>
