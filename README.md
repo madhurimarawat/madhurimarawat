@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the programmer break up with his girlfriend? She had too many arguments. 🗣️
+> Why do programmers prefer dark mode? Because syntax highlighting is life. 🌙
 <!-- JOKE-SECTION-END -->
 
 </details>
