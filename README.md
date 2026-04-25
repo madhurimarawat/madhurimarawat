@@ -364,7 +364,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
+> What did the Git repository say to the developer? 'You commit too much.' 🤦‍♂️
 <!-- JOKE-SECTION-END -->
 
 </details>
