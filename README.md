@@ -418,8 +418,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [MA-English-Notes](https://github.com/madhurimarawat/MA-English-Notes)
-**📝 Description:** Comprehensive English literature notes, handwritten resources, question papers, and reference links.
+**📦 Latest Repo:**  [Government-Exams-Resources](https://github.com/madhurimarawat/Government-Exams-Resources)
+**📝 Description:** A curated collection of resources for various government exams, organized to help with preparation and reference, containing notes, PDFs, previous year papers, and other study material.
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
