@@ -418,8 +418,8 @@ During this program, I developed expertise in creating ML models and contributed
 ### 🐙 GitHub Repositories :  
 <!-- REPO-SECTION-START -->
 #### 🚀 Latest Created Repository
-**📦 Latest Repo:**  [Government-Exams-Resources](https://github.com/madhurimarawat/Government-Exams-Resources)
-**📝 Description:** A curated collection of resources for various government exams, organized to help with preparation and reference, containing notes, PDFs, previous year papers, and other study material.
+**📦 Latest Repo:**  [UPSC-Notes-Resources](https://github.com/madhurimarawat/UPSC-Notes-Resources)
+**📝 Description:** A well-organized collection of UPSC preparation material, including handwritten notes, curated resources, and essential study content. Designed to simplify learning by bringing everything into one structured place. Ideal for quick revision, concept clarity, and efficient exam preparation.
 
 #### 🔄 Latest Committed Repository
 **🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
