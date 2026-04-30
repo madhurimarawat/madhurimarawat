@@ -279,6 +279,26 @@ Click on the icon to see the associated repository
 <summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
 
 <div align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-trophies.vercel.app/?username=madhurimarawat&theme=monokai&no-frame=false&no-bg=true&margin-w=6" 
+      media="(prefers-color-scheme: dark)"
+    >
+    <!-- Light mode (no theme) -->
+    <source 
+      srcset="https://github-trophies.vercel.app/?username=madhurimarawat&no-frame=false&no-bg=true&margin-w=6"
+    >    
+    <!-- Fallback -->
+    <img 
+      src="https://github-trophies.vercel.app/?username=madhurimarawat&no-frame=false&no-bg=true&margin-w=6" 
+      alt="GitHub Trophies" >
+  </picture>
+</div>
+
+<br> 
+
+<div align="center">
   
 <!-- GitHub Streak Stats -->
 <picture>
