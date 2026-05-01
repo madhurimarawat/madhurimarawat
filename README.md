@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the frontend developer always stressed? Because they had too many dependencies. 😵‍💫
+> Fr, GitHub Actions be wild sometimes. One minute you're automating like a boss, next minute it's like, *'Nah fam, rate limit exceeded.'* 💀💨
 <!-- JOKE-SECTION-END -->
 
 </details>
