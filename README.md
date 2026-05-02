@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Fr, GitHub Actions be wild sometimes. One minute you're automating like a boss, next minute it's like, *'Nah fam, rate limit exceeded.'* 💀💨
+> Why did the database administrator go broke? They lost all their tables. 💸
 <!-- JOKE-SECTION-END -->
 
 </details>
