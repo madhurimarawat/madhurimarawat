@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the database administrator go broke? They lost all their tables. 💸
+> Why was the loop stuck in an infinite cycle? Because it couldn’t break up. 🔁
 <!-- JOKE-SECTION-END -->
 
 </details>
