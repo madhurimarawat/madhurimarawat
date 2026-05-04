@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the loop stuck in an infinite cycle? Because it couldn’t break up. 🔁
+> Weka Explorer: Because nothing says *'user-friendly'* like a UI that looks like an AI experiment gone rogue. 🤖📊
 <!-- JOKE-SECTION-END -->
 
 </details>
