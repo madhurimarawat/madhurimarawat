@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Merge conflict: **'Both of you made changes to this file.'** Developers: **'No, YOU fix it.'** 🥊💥
+> Why don’t JavaScript developers trust each other? Because they all use ‘var’ instead of ‘let’ or ‘const’. 😆
 <!-- JOKE-SECTION-END -->
 
 </details>
