@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why don’t JavaScript developers trust each other? Because they all use ‘var’ instead of ‘let’ or ‘const’. 😆
+> How do you know a programmer is at the gym? They're always working on their *core*. 💪
 <!-- JOKE-SECTION-END -->
 
 </details>
