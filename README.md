@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> How do you know a programmer is at the gym? They're always working on their *core*. 💪
+> GPT-4: 'I can generate poetry, summarize books, and write essays!' Also GPT-4: *'The letter E does not exist.'* 🤖🚫
 <!-- JOKE-SECTION-END -->
 
 </details>
