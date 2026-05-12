@@ -58,6 +58,17 @@
 
 </p>
 
+> [!IMPORTANT]  
+> 🎉 Celebrating my GitHub journey (12 May - 12 June 2026), 4 years of learning, consistency, and growth!  
+>
+> 💼 LinkedIn: [https://www.linkedin.com/in/madhurima-rawat](https://www.linkedin.com/in/madhurima-rawat)  
+> 📧 Email: [rawatmadhurima4@gmail.com](mailto:rawatmadhurima4@gmail.com)  
+> 📌 Post: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7459837374265700352/)
+>
+> ✨ To give back to the community, I’ll be helping with GitHub best practices, reviewing repositories, suggesting project and README improvements, sharing ideas, giving profile makeover advice, and answering questions related to GitHub and career growth.  
+>
+> ⏱️ I’ll respond in less than 1 day.
+
  <!-- Languages and Tools Section -->
 <details open>
 <summary><h2> 🛠 &nbsp;Languages and Tools :</h2></summary>
