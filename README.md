@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> C++: Where you can have an error in code that compiled successfully. 🤡🎭
+> Programmers don’t suffer from imposter syndrome. We KNOW we have no idea what we’re doing. 😵‍💫🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
