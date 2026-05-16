@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I tried to write a program in Brainfuck. Now I’m in therapy. 🏥💀
+> Data Science rule #1: **If your model performs too well, you probably leaked the answer.** 🔍🎯
 <!-- JOKE-SECTION-END -->
 
 </details>
