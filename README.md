@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Deep Learning: When you need 10,000 GPUs to recognize a **stop sign** but a toddler does it instantly. 🛑🤯
+> C is like riding a bicycle... except the bicycle is on fire and so is your memory. 🚲🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
