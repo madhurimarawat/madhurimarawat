@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> C is like riding a bicycle... except the bicycle is on fire and so is your memory. 🚲🔥
+> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
 <!-- JOKE-SECTION-END -->
 
 </details>
