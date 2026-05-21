@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
+> What did the Git repository say to the developer? 'You commit too much.' 🤦‍♂️
 <!-- JOKE-SECTION-END -->
 
 </details>
