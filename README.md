@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Writing a single function: 5 mins. Naming the function: **3 hours.** ⏳📝
+> Function name: `doTheThing()`. What thing? **Nobody knows.** Not even the author. 🫠📜
 <!-- JOKE-SECTION-END -->
 
 </details>
