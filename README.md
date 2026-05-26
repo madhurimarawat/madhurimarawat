@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Function name: `doTheThing()`. What thing? **Nobody knows.** Not even the author. 🫠📜
+> The Perl logo is a camel. Why? Because the language itself is **a desert of cryptic syntax and survival hacks.** 🐪💾
 <!-- JOKE-SECTION-END -->
 
 </details>
