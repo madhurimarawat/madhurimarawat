@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> The Perl logo is a camel. Why? Because the language itself is **a desert of cryptic syntax and survival hacks.** 🐪💾
+> Why do devs hate weekends? Because they wake up thinking it’s Monday, and then feel guilty for not coding. 🏝️💻
 <!-- JOKE-SECTION-END -->
 
 </details>
