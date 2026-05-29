@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
+> JavaScript: The only language where `[] + []` equals an empty string. 🤯📉
 <!-- JOKE-SECTION-END -->
 
 </details>
