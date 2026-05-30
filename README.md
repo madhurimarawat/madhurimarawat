@@ -503,7 +503,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> JavaScript: The only language where `[] + []` equals an empty string. 🤯📉
+> Brainfuck: The only language where 'Hello World' makes you question your life choices. 🤔💭
 <!-- JOKE-SECTION-END -->
 
 </details>
