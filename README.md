@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Haskell devs don’t make mistakes. They just return 'Nothing.' 🚫💡
+> Why do Python programmers prefer dark mode? Because light attracts bugs. 💡🐞
 <!-- JOKE-SECTION-END -->
 
 </details>
