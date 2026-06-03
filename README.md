@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the function feeling lost? It didn’t return anything. 🔄
+> C is like riding a bicycle... except the bicycle is on fire and so is your memory. 🚲🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
