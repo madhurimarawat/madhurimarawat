@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
+> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
 <!-- JOKE-SECTION-END -->
 
 </details>
