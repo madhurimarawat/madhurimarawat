@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
+> AI-generated text: *'I am highly intelligent.'* Also AI: **'The capital of France is Paris Hilton.'** 🤦‍♂️💀
 <!-- JOKE-SECTION-END -->
 
 </details>
