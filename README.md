@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Kafka Streams: When your logs are so complex, they need **a distributed event streaming platform** just to exist. 📜💀
+> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
 <!-- JOKE-SECTION-END -->
 
 </details>
