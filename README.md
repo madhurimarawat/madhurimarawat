@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
+> Fr, GitHub Actions be wild sometimes. One minute you're automating like a boss, next minute it's like, *'Nah fam, rate limit exceeded.'* 💀💨
 <!-- JOKE-SECTION-END -->
 
 </details>
