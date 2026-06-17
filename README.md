@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the database administrator go broke? They lost all their tables. 💸
+> Brainfuck is a great language. For torture. 🤯💀
 <!-- JOKE-SECTION-END -->
 
 </details>
