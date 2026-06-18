@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Brainfuck is a great language. For torture. 🤯💀
+> Imposter Syndrome? Even JavaScript has it—sometimes it's **loosely typed, sometimes strongly typed, sometimes… who knows.** 🤷‍♂️💀
 <!-- JOKE-SECTION-END -->
 
 </details>
