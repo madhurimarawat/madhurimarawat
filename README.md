@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Imposter Syndrome? Even JavaScript has it—sometimes it's **loosely typed, sometimes strongly typed, sometimes… who knows.** 🤷‍♂️💀
+> LinkedIn: 'Tell us about yourself!' Me: 'Bro, I have no idea who I even am.' 🤷‍♂️💀
 <!-- JOKE-SECTION-END -->
 
 </details>
