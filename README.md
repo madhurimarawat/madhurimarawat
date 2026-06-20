@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> LinkedIn: 'Tell us about yourself!' Me: 'Bro, I have no idea who I even am.' 🤷‍♂️💀
+> Frontend devs be like: *'It works on my machine.'* QA: *'Not on mine.'* Browser: *'Not on me either.'* 🌍🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
