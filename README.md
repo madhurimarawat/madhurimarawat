@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Frontend devs be like: *'It works on my machine.'* QA: *'Not on mine.'* Browser: *'Not on me either.'* 🌍🔥
+> Function name: `doTheThing()`. What thing? **Nobody knows.** Not even the author. 🫠📜
 <!-- JOKE-SECTION-END -->
 
 </details>
