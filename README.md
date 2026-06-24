@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why was the loop stuck in an infinite cycle? Because it couldn’t break up. 🔁
+> Why do Java developers wear glasses? Because they don’t C#. 👓
 <!-- JOKE-SECTION-END -->
 
 </details>
