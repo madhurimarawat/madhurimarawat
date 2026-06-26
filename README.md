@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Java was named after coffee because devs **can't function without it**. Meanwhile, PHP was named after… well, nobody really knows. ☕🤔
+> I opened my IDE and just... stared at it. For 30 minutes. Doing nothing. Just contemplating life. 👀⌛
 <!-- JOKE-SECTION-END -->
 
 </details>
