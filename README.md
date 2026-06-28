@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Debugging: Removing the needles from the haystack. 🧐💻
+> How do you comfort a JavaScript bug? Console it. 🖥️
 <!-- JOKE-SECTION-END -->
 
 </details>
