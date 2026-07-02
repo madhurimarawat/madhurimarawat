@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Imposter Syndrome? Even JavaScript has it—sometimes it's **loosely typed, sometimes strongly typed, sometimes… who knows.** 🤷‍♂️💀
+> Weka Explorer: Named after a flightless New Zealand bird. **Just like my ML models—going nowhere fast.** 🐦📉
 <!-- JOKE-SECTION-END -->
 
 </details>
