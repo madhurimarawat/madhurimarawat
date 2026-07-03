@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Weka Explorer: Named after a flightless New Zealand bird. **Just like my ML models—going nowhere fast.** 🐦📉
+> What do you call a bug that keeps coming back? A *feature*. 🤷‍♂️
 <!-- JOKE-SECTION-END -->
 
 </details>
