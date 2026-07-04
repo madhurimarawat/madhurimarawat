@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> What do you call a bug that keeps coming back? A *feature*. 🤷‍♂️
+> Machine Learning engineers spend 90% of their time cleaning data… and 10% complaining about cleaning data. 🧹📊
 <!-- JOKE-SECTION-END -->
 
 </details>
