@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Machine Learning engineers spend 90% of their time cleaning data… and 10% complaining about cleaning data. 🧹📊
+> Why do Java developers get lost? Because they can’t find their class. 📚
 <!-- JOKE-SECTION-END -->
 
 </details>
