@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I thought debugging would be hard. Then I realized… writing the code was even harder. 🤦‍♂️🔥
+> Overengineering: When your ‘To-Do List’ app has **Docker, Kubernetes, Kafka, and AI integration.** 🛠️🤖
 <!-- JOKE-SECTION-END -->
 
 </details>
