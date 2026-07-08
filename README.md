@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Overengineering: When your ‘To-Do List’ app has **Docker, Kubernetes, Kafka, and AI integration.** 🛠️🤖
+> 404 — Joke not found. Try again later. 🚫
 <!-- JOKE-SECTION-END -->
 
 </details>
