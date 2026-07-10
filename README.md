@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub Actions: *'Your build failed.'* Me: **'I just changed the README.'** 🤔💀
+> My ML model is like me in a group project—**it overfits to the training data and struggles in the real world.** 🤖📉
 <!-- JOKE-SECTION-END -->
 
 </details>
