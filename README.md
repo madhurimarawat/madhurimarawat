@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> My ML model is like me in a group project—**it overfits to the training data and struggles in the real world.** 🤖📉
+> Java was named after coffee because devs **can't function without it**. Meanwhile, PHP was named after… well, nobody really knows. ☕🤔
 <!-- JOKE-SECTION-END -->
 
 </details>
