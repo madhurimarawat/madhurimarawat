@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Java was named after coffee because devs **can't function without it**. Meanwhile, PHP was named after… well, nobody really knows. ☕🤔
+> Kafka: Named after Franz Kafka because using it feels like being trapped in an absurd, bureaucratic nightmare. 🏛️📜
 <!-- JOKE-SECTION-END -->
 
 </details>
