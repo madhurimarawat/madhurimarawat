@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> C is like riding a bicycle... except the bicycle is on fire and so is your memory. 🚲🔥
+> Me: *writes one line of code* VS Code: *100 extensions updating, fan goes brrrrrr*. 💻🌪️
 <!-- JOKE-SECTION-END -->
 
 </details>
