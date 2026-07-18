@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do devs hate weekends? Because they wake up thinking it’s Monday, and then feel guilty for not coding. 🏝️💻
+> LinkedIn: 'Tell us about yourself!' Me: 'Bro, I have no idea who I even am.' 🤷‍♂️💀
 <!-- JOKE-SECTION-END -->
 
 </details>
