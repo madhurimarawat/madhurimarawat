@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> LinkedIn: 'Tell us about yourself!' Me: 'Bro, I have no idea who I even am.' 🤷‍♂️💀
+> Overprogramming: When you build a **CLI-based to-do app** with **React, Docker, and Kubernetes**. 🛠️🤡
 <!-- JOKE-SECTION-END -->
 
 </details>
