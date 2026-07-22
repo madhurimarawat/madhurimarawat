@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GPT-4: 'I can generate poetry, summarize books, and write essays!' Also GPT-4: *'The letter E does not exist.'* 🤖🚫
+> Me: *'I’ll clean up my GitHub repos this weekend.'* Also me: **2 years later, 100 unfinished side projects.** 🤡📁
 <!-- JOKE-SECTION-END -->
 
 </details>
