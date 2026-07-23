@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Me: *'I’ll clean up my GitHub repos this weekend.'* Also me: **2 years later, 100 unfinished side projects.** 🤡📁
+> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
