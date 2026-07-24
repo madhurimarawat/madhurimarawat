@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Data Science be like: *'I have 1 million rows of data!'* Laptop: **'Not anymore.'** 💀🔥
+> Using Apache ZooKeeper: 'Ah yes, let’s manage our **highly distributed system** with something named after a place that keeps wild animals.' 🦁🤯
 <!-- JOKE-SECTION-END -->
 
 </details>
