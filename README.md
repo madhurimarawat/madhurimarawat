@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Using Apache ZooKeeper: 'Ah yes, let’s manage our **highly distributed system** with something named after a place that keeps wild animals.' 🦁🤯
+> Ever feel like an imposter? Remember, someone named 'Weirdly Efficient Key Algorithm' (WEKA) **and nobody questioned it.** 😵‍💫🔑
 <!-- JOKE-SECTION-END -->
 
 </details>
