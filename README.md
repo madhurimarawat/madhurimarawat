@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Ever feel like an imposter? Remember, someone named 'Weirdly Efficient Key Algorithm' (WEKA) **and nobody questioned it.** 😵‍💫🔑
+> Me: *deletes 100 lines of code* My brain: 'You just deleted the only thing keeping the project alive.' ☠️👀
 <!-- JOKE-SECTION-END -->
 
 </details>
