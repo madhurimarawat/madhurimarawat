@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Me: *deletes 100 lines of code* My brain: 'You just deleted the only thing keeping the project alive.' ☠️👀
+> Why do programmers hate cooking? Too many 'args' in the kitchen. 🍽️
 <!-- JOKE-SECTION-END -->
 
 </details>
