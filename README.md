@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Frontend devs: *'I center a div.'* Backend devs: *'I manage databases and authentication.'* Data scientists: *'I spend 90% of my time fixing CSV files.'* 🫠💾
+> Why do Rust programmers sleep well? Because they don’t have memory leaks. 🛏️🦀
 <!-- JOKE-SECTION-END -->
 
 </details>
