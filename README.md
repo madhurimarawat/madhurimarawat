@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do Rust programmers sleep well? Because they don’t have memory leaks. 🛏️🦀
+> The dev said he’d fix the bug tomorrow… He’s still debugging from 2019. ⏳
 <!-- JOKE-SECTION-END -->
 
 </details>
