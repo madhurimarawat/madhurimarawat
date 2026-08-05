@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do programmers hate cooking? Too many 'args' in the kitchen. 🍽️
+> Naming variables is hard, so I used `data1`, `data2`, and `dataFinal`. **Now, I have no idea what they do.** 🤡📂
 <!-- JOKE-SECTION-END -->
 
 </details>
