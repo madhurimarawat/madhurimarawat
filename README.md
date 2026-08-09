@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Frontend devs be like: *'It works on my machine.'* QA: *'Not on mine.'* Browser: *'Not on me either.'* 🌍🔥
+> Imposter Syndrome? Even JavaScript has it—sometimes it's **loosely typed, sometimes strongly typed, sometimes… who knows.** 🤷‍♂️💀
 <!-- JOKE-SECTION-END -->
 
 </details>
