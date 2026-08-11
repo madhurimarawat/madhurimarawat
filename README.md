@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Overengineered code: When your **to-do list app** has **microservices, Kafka, and AI integration.** 🤖🛠️
+> Weka Explorer: Because nothing says *'user-friendly'* like a UI that looks like an AI experiment gone rogue. 🤖📊
 <!-- JOKE-SECTION-END -->
 
 </details>
