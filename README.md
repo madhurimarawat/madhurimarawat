@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do Python programmers prefer dark mode? Because light attracts bugs. 💡🐞
+> Naming variables is hard, so I used `data1`, `data2`, and `dataFinal`. **Now, I have no idea what they do.** 🤡📂
 <!-- JOKE-SECTION-END -->
 
 </details>
