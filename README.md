@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
+> Weak Explorer: That one dev who commits `final_final_v2_REAL_FIX.js` because they refuse to rename properly. 🤡📂
 <!-- JOKE-SECTION-END -->
 
 </details>
