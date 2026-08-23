@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub: 'Would you like to create a README?' Me: **'I prefer my projects mysterious and undocumented.'** 🕵️‍♂️📄
+> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
 <!-- JOKE-SECTION-END -->
 
 </details>
