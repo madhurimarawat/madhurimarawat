@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do backend developers love coffee? Because they deal with so many Java beans. ☕
+> AI Ethics Boards: 'We must regulate AI to prevent harm.' AI Companies: **'We trained it on Reddit. Good luck.'** 💀📢
 <!-- JOKE-SECTION-END -->
 
 </details>
