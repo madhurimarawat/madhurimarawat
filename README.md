@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> AI Ethics Boards: 'We must regulate AI to prevent harm.' AI Companies: **'We trained it on Reddit. Good luck.'** 💀📢
+> Programmers don’t suffer from imposter syndrome. We KNOW we have no idea what we’re doing. 😵‍💫🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
