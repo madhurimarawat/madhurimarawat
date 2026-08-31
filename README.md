@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> C++: Where you can have an error in code that compiled successfully. 🤡🎭
+> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
 <!-- JOKE-SECTION-END -->
 
 </details>
