@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do Rust programmers sleep well? Because they don’t have memory leaks. 🛏️🦀
+> GitHub Stars don’t pay the bills, but they do fuel my ego. ⭐😎
 <!-- JOKE-SECTION-END -->
 
 </details>
