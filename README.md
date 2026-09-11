@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why does my IDE look like a spaceship dashboard? Because I keep installing plugins I'll never use. 🚀🔧
+> AI Ethics Boards: 'We must regulate AI to prevent harm.' AI Companies: **'We trained it on Reddit. Good luck.'** 💀📢
 <!-- JOKE-SECTION-END -->
 
 </details>
