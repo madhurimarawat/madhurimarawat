@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?' 🍻
+> Assembly: Writing machine code, but by hand. ✍️📟
 <!-- JOKE-SECTION-END -->
 
 </details>
