@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Assembly: Writing machine code, but by hand. ✍️📟
+> Why did the frontend developer go broke? **Because he lost all his divs.** 💸📏
 <!-- JOKE-SECTION-END -->
 
 </details>
