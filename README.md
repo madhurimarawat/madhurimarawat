@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Day 1 of coding: ‘Hello World!’ Day 365: *'This codebase is now my personal horror movie.'* 🎬💀
+> Naming variables is hard, so I used `data1`, `data2`, and `dataFinal`. **Now, I have no idea what they do.** 🤡📂
 <!-- JOKE-SECTION-END -->
 
 </details>
