@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> LinkedIn: 'Tell us about yourself!' Me: 'Bro, I have no idea who I even am.' 🤷‍♂️💀
+> Neural networks are like toddlers. You show them a million pictures of a cat, and they still call a dog a 'cat' sometimes. 🐱🐶
 <!-- JOKE-SECTION-END -->
 
 </details>
