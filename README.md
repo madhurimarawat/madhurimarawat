@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Every programmer's LinkedIn bio: *‘Passionate about coding.’* Meanwhile, we’re all crying over a semicolon. 😭👨‍💻
+> Why was the loop stuck in an infinite cycle? Because it couldn’t break up. 🔁
 <!-- JOKE-SECTION-END -->
 
 </details>
