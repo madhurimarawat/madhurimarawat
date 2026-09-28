@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Senior dev: ‘Don’t overcomplicate it.’ Me: *Adds a recursive function to reverse an array.* 🔄🧠
+> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
 <!-- JOKE-SECTION-END -->
 
 </details>
