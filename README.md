@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Fibonacci in Python: 1 line. Fibonacci in Brainfuck: 10,000 lines and a headache. 🤕📖
+> What’s a developer’s favorite kind of music? Algo-rhythms. 🎵
 <!-- JOKE-SECTION-END -->
 
 </details>
