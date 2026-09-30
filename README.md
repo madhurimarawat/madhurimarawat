@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> What’s a developer’s favorite kind of music? Algo-rhythms. 🎵
+> Every programming language has a ‘Hello World’ example. **Except Brainfuck, where it's just a scream for help.** 🤯💀
 <!-- JOKE-SECTION-END -->
 
 </details>
