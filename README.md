@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Me: *writes one line of code* VS Code: *100 extensions updating, fan goes brrrrrr*. 💻🌪️
+> Neural networks are like toddlers. You show them a million pictures of a cat, and they still call a dog a 'cat' sometimes. 🐱🐶
 <!-- JOKE-SECTION-END -->
 
 </details>
