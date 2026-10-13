@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why did the programmer break up with his girlfriend? She had too many arguments. 🗣️
+> First rule of programming: If it works, don't touch it. **Second rule: It’s already broken, you just don’t know it yet.** ⚠️😰
 <!-- JOKE-SECTION-END -->
 
 </details>
