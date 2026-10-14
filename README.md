@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> First rule of programming: If it works, don't touch it. **Second rule: It’s already broken, you just don’t know it yet.** ⚠️😰
+> VS Code: 'Trust this folder?' Me: 'Bro, I don’t even trust myself.' 🤡💀
 <!-- JOKE-SECTION-END -->
 
 </details>
