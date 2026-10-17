@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Me: *'I’ll clean up my GitHub repos this weekend.'* Also me: **2 years later, 100 unfinished side projects.** 🤡📁
+> Python devs hate Java devs. Until they need performance. 🐍💨
 <!-- JOKE-SECTION-END -->
 
 </details>
