@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Why do Python programmers prefer dark mode? Because light attracts bugs. 💡🐞
+> I thought debugging would be hard. Then I realized… writing the code was even harder. 🤦‍♂️🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
