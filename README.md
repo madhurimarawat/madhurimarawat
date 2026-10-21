@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> I thought debugging would be hard. Then I realized… writing the code was even harder. 🤦‍♂️🔥
+> Me: *writes one line of code* VS Code: *100 extensions updating, fan goes brrrrrr*. 💻🌪️
 <!-- JOKE-SECTION-END -->
 
 </details>
