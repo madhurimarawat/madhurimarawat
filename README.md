@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> If a decision tree falls in the forest and no one prunes it, does it still overfit? 🌲🔍
+> I thought debugging would be hard. Then I realized… writing the code was even harder. 🤦‍♂️🔥
 <!-- JOKE-SECTION-END -->
 
 </details>
