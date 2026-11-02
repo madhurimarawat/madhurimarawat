@@ -151,7 +151,7 @@ Click on the icon to see the associated repository
             src="https://devopstutodoc.readthedocs.io/en/latest/_images/pdoc_logo.png"
             height="40"></a> &nbsp &nbsp
     <a href="https://github.com/madhurimarawat/CSVTU-GPT"><img
-            src="https://www.taccorgaming.co.za/wp-content/uploads/2015/02/Fuzzy-Logic-Blue-Transparent.png"
+            src="https://cdn.dribbble.com/userupload/31760826/file/original-e524803442d2c06b859f5b093f1334b8.png?resize=1600x1200"
             height="40"></a> &nbsp &nbsp
     <a href="https://github.com/madhurimarawat/Madhurima-Mindscape"><img
             src="https://repository-images.githubusercontent.com/59227528/0dfbe280-8550-11e9-9160-5688d1b3b508"
