@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> The Perl logo is a camel. Why? Because the language itself is **a desert of cryptic syntax and survival hacks.** 🐪💾
+> Programming in Brainfuck is like assembling IKEA furniture... but blindfolded. 🛠️😵
 <!-- JOKE-SECTION-END -->
 
 </details>
