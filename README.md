@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programmers don’t suffer from imposter syndrome. We KNOW we have no idea what we’re doing. 😵‍💫🔥
+> JavaScript: The only language where `[] + []` equals an empty string. 🤯📉
 <!-- JOKE-SECTION-END -->
 
 </details>
