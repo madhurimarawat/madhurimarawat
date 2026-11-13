@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> SQL Injection: The only time a hacker can log in as `admin'; DROP TABLE users;--`. 🏴‍☠️💻
+> Docker Swarm: Because managing containers wasn’t chaotic enough, we needed a **'swarm' of them.** 🐝🚢
 <!-- JOKE-SECTION-END -->
 
 </details>
