@@ -452,11 +452,11 @@ During this program, I developed expertise in creating ML models and contributed
 
 ### ✍️ Dev Articles :  
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Architecture of a Developer](https://dev.to/madhurima_rawat/the-invisible-architecture-of-a-developer-5416)
 - [Madhurima Mindscape: A Deep Dive into My Jekyll-Based Blogging Project](https://dev.to/madhurima_rawat/madhurima-mindscape-a-deep-dive-into-my-jekyll-based-blogging-project-4dmj)
 - [🌱 Four Years of Growth on GitHub and a Month of Giving Back 🤝](https://dev.to/madhurima_rawat/four-years-of-growth-on-github-and-a-month-of-giving-back-26n)
 - [🚀 Project Ideas for GitHub AI, ML and Full Stack](https://dev.to/madhurima_rawat/project-ideas-for-github-ai-ml-and-full-stack-489f)
 - [💡 Stand Out: Creative Portfolio Concepts for Developers 🎨](https://dev.to/madhurima_rawat/stand-out-creative-portfolio-concepts-for-developers-b6g)
-- [🧰 Developer Resources Hub: Essential Tools and Tech in One Place 📚](https://dev.to/madhurima_rawat/developer-resources-hub-essential-tools-and-tech-in-one-place-4amn)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🔥 Top Performing
