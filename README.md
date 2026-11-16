@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> My ML model is like me in a group project—**it overfits to the training data and struggles in the real world.** 🤖📉
+> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
 <!-- JOKE-SECTION-END -->
 
 </details>
