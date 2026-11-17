@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Trying to center a div in CSS feels more like **a test of my mental stability.** 🤯📏
+> Machine Learning engineers spend 90% of their time cleaning data… and 10% complaining about cleaning data. 🧹📊
 <!-- JOKE-SECTION-END -->
 
 </details>
