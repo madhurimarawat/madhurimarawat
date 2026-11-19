@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> Programmers don’t suffer from imposter syndrome. We KNOW we have no idea what we’re doing. 😵‍💫🔥
+> What did the Git repository say to the developer? 'You commit too much.' 🤦‍♂️
 <!-- JOKE-SECTION-END -->
 
 </details>
