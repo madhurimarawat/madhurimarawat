@@ -267,7 +267,7 @@ Click on the icon to see the associated repository
         src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"
         height="40"></a> &nbsp &nbsp
 <a href="https://github.com/madhurimarawat/CodeCulture-Daily"><img
-        src="https://toppng.com/uploads/thumbnail/github-logo-transparent-background-11659780106cj5npsecvo.png"
+        src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00MjQ2MzA0LTYyMDQxOWlGRDYyQ0U1QTM1RTVBRUQ0?image-dimensions=450x600&constrain-image=true"
         height="40"></a>
 </p>  
 
