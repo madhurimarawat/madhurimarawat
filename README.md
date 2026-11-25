@@ -442,8 +442,8 @@ During this program, I developed expertise in creating ML models and contributed
 **📝 Description:** A well-organized collection of UPSC preparation material, including handwritten notes, curated resources, and essential study content. Designed to simplify learning by bringing everything into one structured place. Ideal for quick revision, concept clarity, and efficient exam preparation.
 
 #### 🔄 Latest Committed Repository
-**🛠️ Updated Repo:**  [Semester-Notes](https://github.com/madhurimarawat/Semester-Notes)
-**📝 Description:** A comprehensive, well-structured repository of B.Tech (Hons) CSE notes and learning resources, specializing in Artificial Intelligence and Data Science. Includes semester-wise notes, question papers, curated study guides, and indexed materials designed for efficient learning, revision, and academic reference.
+**🛠️ Updated Repo:**  [madhurimarawat](https://github.com/madhurimarawat/madhurimarawat)
+**📝 Description:** Configuration files to enhance my GitHub profile. Feel free to use them, suggest improvements, or 🌟 the repo if you like! ✍
 
 #### ⭐ Most Starred Repository
 **📌 Top Repo:**  [Semester-Notes](https://github.com/madhurimarawat/Semester-Notes)
