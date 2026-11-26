@@ -492,7 +492,7 @@ During this program, I developed expertise in creating ML models and contributed
  
 <!-- JOKE-SECTION-START -->
 **😂 Joke of the Day:**
-> GitHub Actions: *'Your build failed.'* Me: **'I just changed the README.'** 🤔💀
+> Why was the computer cold? It left its Windows open. 🥶
 <!-- JOKE-SECTION-END -->
 
 </details>
